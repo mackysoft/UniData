@@ -1,0 +1,19 @@
+{
+    "name": "MackySoft.UniData.UniRx",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3f8a952b6500d3d41923ad728e3c4ea2",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNIDATA_UNIRX_SUPPORT"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

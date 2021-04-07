@@ -1,0 +1,22 @@
+{
+    "name": "MackySoft.UniData.UniRx.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3f8a952b6500d3d41923ad728e3c4ea2",
+        "GUID:6ebe5cfa12ab6324080b3e0c42f56fa7",
+        "GUID:b4d9747ec4a06c24a8d743ab8195a866"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNIDATA_UNIRX_SUPPORT"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

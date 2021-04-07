@@ -28,7 +28,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.AddTypeMenuAttribute.html",
-          "hash": "gejlM0KTqsnQ+E3OHKCC2w=="
+          "hash": "ZbJEDqkE23ZSlSly1YoFrA=="
         }
       },
       "is_incremental": false,
@@ -40,7 +40,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.Data-1.html",
-          "hash": "YPLiEYO+HDj2EAxb9516Ow=="
+          "hash": "Sy9oG2/Tu7Nl0VHtzw2Qww=="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.DataBase-1.html",
-          "hash": "yMYk0SeFymAdhgD/Bjyddw=="
+          "hash": "rjVYnQqmqU2/ZJQyWJmDiQ=="
         }
       },
       "is_incremental": false,
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.AnimationCurveData.html",
-          "hash": "Z/Bw04lQlrZm5xl0NjyJgg=="
+          "hash": "a+qBIPRRqfFWnzhBgedfCA=="
         }
       },
       "is_incremental": false,
@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.BoolData.html",
-          "hash": "IfD8pUoKJrvu3i/XIIFIfw=="
+          "hash": "u8iquirRch3szjAIE78oEg=="
         }
       },
       "is_incremental": false,
@@ -88,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.BoundsData.html",
-          "hash": "e8PC3lOfDJKrG3uqYyzCMg=="
+          "hash": "cppr0fxU9doB4MgnS7VO9A=="
         }
       },
       "is_incremental": false,
@@ -100,7 +100,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.BoundsIntData.html",
-          "hash": "og4MTPdF4vgN2VMDJrpl7A=="
+          "hash": "m7D8rMwKR+HFIA6zQ/na0A=="
         }
       },
       "is_incremental": false,
@@ -112,7 +112,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.ByteData.html",
-          "hash": "hapCXJPP8zQ1rXXmIUxofw=="
+          "hash": "0RG9u5UGiQTwVvrPFQ7VGA=="
         }
       },
       "is_incremental": false,
@@ -124,7 +124,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.ColorData.html",
-          "hash": "qoO5PDt1qGE8igiR0f6sAA=="
+          "hash": "LKByFYser6PHA8j8GQ07VQ=="
         }
       },
       "is_incremental": false,
@@ -136,7 +136,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.DoubleData.html",
-          "hash": "NrygS8UXlk534XVFazef3w=="
+          "hash": "NaC83kjL7nEMVBItm/Td6Q=="
         }
       },
       "is_incremental": false,
@@ -148,7 +148,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.FloatData.html",
-          "hash": "VrUwlmaRk8pzQXhVIMFnLQ=="
+          "hash": "RljV4+YMASMEQQ5XbHXyPQ=="
         }
       },
       "is_incremental": false,
@@ -160,7 +160,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.GradientData.html",
-          "hash": "ucEKOAzVvXP/zxc78qnP2w=="
+          "hash": "6pr1M1TPYj3MW3LtIt/dJQ=="
         }
       },
       "is_incremental": false,
@@ -172,7 +172,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.IntData.html",
-          "hash": "vu7poBu75pkI3vfR3iutgQ=="
+          "hash": "/xQOSca2lF6tyPz2FI/G0Q=="
         }
       },
       "is_incremental": false,
@@ -184,7 +184,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.LayerMaskData.html",
-          "hash": "9KffB6rLveeEzqlKgqNMUQ=="
+          "hash": "pXEACDDGSFHBgJCc4fRhzQ=="
         }
       },
       "is_incremental": false,
@@ -196,7 +196,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.LongData.html",
-          "hash": "hdR6H7HTA5gnXC6027+biw=="
+          "hash": "grQDiD6SAXz4DvG7jlvIEw=="
         }
       },
       "is_incremental": false,
@@ -208,7 +208,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.QuaternionData.html",
-          "hash": "69io0OXwvQNjtljuO2eWKg=="
+          "hash": "mn0ylR3blmYziua8mVKy0g=="
         }
       },
       "is_incremental": false,
@@ -220,7 +220,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.RectData.html",
-          "hash": "yUZiJOB/kAmYmk7j9PO/zw=="
+          "hash": "JLmJIlwjj2c0wCjYjEl68Q=="
         }
       },
       "is_incremental": false,
@@ -232,7 +232,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.RectIntData.html",
-          "hash": "nvIx2wFM7d10kCMInL5dHA=="
+          "hash": "JOo/fAIQMov3pEw0Yr+R+Q=="
         }
       },
       "is_incremental": false,
@@ -244,7 +244,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.StringData.html",
-          "hash": "TzRXHvNJRQt5boRIgS42HQ=="
+          "hash": "DpNyrEst1S4CdvwmvgzWdQ=="
         }
       },
       "is_incremental": false,
@@ -256,7 +256,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.Vector2Data.html",
-          "hash": "gFufvZnoupOs5+n2G+qjew=="
+          "hash": "LCxy2JSg/cfWlGglZ/AHuA=="
         }
       },
       "is_incremental": false,
@@ -268,7 +268,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.Vector2IntData.html",
-          "hash": "3zAbsnfyBe+NdOb4rFyANA=="
+          "hash": "cdupN3rov/mTvpth6bmK1A=="
         }
       },
       "is_incremental": false,
@@ -280,7 +280,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.Vector3Data.html",
-          "hash": "vZJyckS9oFUly14Z2NTOCg=="
+          "hash": "fTypVw8aN3Tf7/TcZbx1iA=="
         }
       },
       "is_incremental": false,
@@ -292,7 +292,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.Vector3IntData.html",
-          "hash": "JD4EcFtCqO+dJGFLOMtmaw=="
+          "hash": "S6KkpHMt6A+/YFpmCDESXA=="
         }
       },
       "is_incremental": false,
@@ -304,7 +304,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.Vector4Data.html",
-          "hash": "e0hFmehzRPECedMQhipx8A=="
+          "hash": "tqCQAKQPthwrlEQ88hO0nQ=="
         }
       },
       "is_incremental": false,
@@ -316,7 +316,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.General.html",
-          "hash": "VNBw4wPQ7VzPsz9Tj8atdA=="
+          "hash": "DGJNP54/qi5Q4dPtJJv+Uw=="
         }
       },
       "is_incremental": false,
@@ -328,7 +328,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html",
-          "hash": "TWC+7Ga4em3qajAOZf50lQ=="
+          "hash": "w6it5TAj9eGPfJnBtti6zg=="
         }
       },
       "is_incremental": false,
@@ -340,7 +340,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Data.html",
-          "hash": "6qDq9u83UPwN1CaiY8aVsw=="
+          "hash": "9KCkm+Yk1zgfEGF7LHgMIA=="
         }
       },
       "is_incremental": false,
@@ -352,7 +352,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.DataCatalog.html",
-          "hash": "bN61zF2RLTUOJLdz4Zpcwg=="
+          "hash": "LaLTVewKhmyU2mVvRNFzYw=="
         }
       },
       "is_incremental": false,
@@ -364,7 +364,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Diagnostics.ValidationUtility.html",
-          "hash": "U728Sq1zJEBGBL8cnJ0Zvg=="
+          "hash": "c3mSDaAiAOW9XJon6WaDbA=="
         }
       },
       "is_incremental": false,
@@ -376,7 +376,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Diagnostics.html",
-          "hash": "qso4Q6x5TG5i1ZNz167epw=="
+          "hash": "v9ii+4u6kR1oHSg9S7LkvA=="
         }
       },
       "is_incremental": false,
@@ -388,7 +388,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html",
-          "hash": "kVbCOZefkhBB14TpxVdb3A=="
+          "hash": "5k2LLEn9Wz2EdF93R2wDig=="
         }
       },
       "is_incremental": false,
@@ -400,7 +400,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Editor.DataCatalogInspector.html",
-          "hash": "AwACSmFIYbQxF1LbiSjKwA=="
+          "hash": "h2REuPrrF9o5aJ84YIVN5g=="
         }
       },
       "is_incremental": false,
@@ -412,7 +412,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Editor.EntryReferenceDrawer.html",
-          "hash": "vBXP2h1y4SfQqfOmfnez9A=="
+          "hash": "jqcL21P1BlnMSonwdpkGhQ=="
         }
       },
       "is_incremental": false,
@@ -424,7 +424,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Editor.SerializedDataCatalog.html",
-          "hash": "9um8t4fxd2Jl6GO5RyA1qw=="
+          "hash": "1cglYxQuWV25VtaC3NSfBw=="
         }
       },
       "is_incremental": false,
@@ -436,7 +436,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Editor.UniDataEditorUtility.html",
-          "hash": "t8SIPvbf8yBIac4TWGDiOg=="
+          "hash": "lNovnNNZHjfp4xw95s+StQ=="
         }
       },
       "is_incremental": false,
@@ -448,7 +448,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Editor.UniDataSettingsInspector.html",
-          "hash": "yqLfvIONH/0S0nH/vIt4mw=="
+          "hash": "y8N4/n/s9tRhD7okyJZv9w=="
         }
       },
       "is_incremental": false,
@@ -460,7 +460,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Editor.UniDataSettingsProvider.html",
-          "hash": "p+Pm/AbPqpzkcxVw8JNJ1A=="
+          "hash": "J42UyrVf0nFFzZbzftudFg=="
         }
       },
       "is_incremental": false,
@@ -472,7 +472,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Editor.html",
-          "hash": "ONRGO+xobM8lkLXLRu+mmw=="
+          "hash": "yFkXvtIDoqRTP5CkQSQOSg=="
         }
       },
       "is_incremental": false,
@@ -484,7 +484,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.EntryReference-1.html",
-          "hash": "vaFwdvlwhZWy/9VYZYSjdQ=="
+          "hash": "d+w8988oAt/o61Bzvnq1UQ=="
         }
       },
       "is_incremental": false,
@@ -496,7 +496,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.EntryReference.html",
-          "hash": "w2ql73eHICXqdgpuX5XQJA=="
+          "hash": "mHYW/WZILZmolgAHvx7PgA=="
         }
       },
       "is_incremental": false,
@@ -508,7 +508,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IData-1.html",
-          "hash": "E9Kppt40J8XVe/g3FBGdOw=="
+          "hash": "xmco3x4UkgEq46ifXgZo6w=="
         }
       },
       "is_incremental": false,
@@ -520,7 +520,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IData.html",
-          "hash": "9w6DIRmsmPjeDjBgsWy0dw=="
+          "hash": "hCKbv1fmKKzMQ/IjTxtDpg=="
         }
       },
       "is_incremental": false,
@@ -532,7 +532,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IEntry.html",
-          "hash": "V52vj3X7ctqgn5H65vLqCg=="
+          "hash": "TygBm1elEXnibj6sab8Xiw=="
         }
       },
       "is_incremental": false,
@@ -544,7 +544,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IEntryReference-1.html",
-          "hash": "IaqOtt5DW27kgi9amfw8uw=="
+          "hash": "aIitmmTJCIvpUaAfbRuHzg=="
         }
       },
       "is_incremental": false,
@@ -556,7 +556,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IEntryReference.html",
-          "hash": "A0y9l48DGEQCcDreZXs3eA=="
+          "hash": "ixP5EQiZ+EV8QlC09TMYYw=="
         }
       },
       "is_incremental": false,
@@ -568,7 +568,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html",
-          "hash": "5ZT0fIJeLe3ibvQEZnvABw=="
+          "hash": "a7YrJs7SahOxdtPCBUky/g=="
         }
       },
       "is_incremental": false,
@@ -580,7 +580,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html",
-          "hash": "gdDyCB0sBjCtQRZUaSaTaQ=="
+          "hash": "lyHL8tVUti4w3GBSa6uQrw=="
         }
       },
       "is_incremental": false,
@@ -592,7 +592,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html",
-          "hash": "U60xSjKtPWv7UmkrkhFgbw=="
+          "hash": "zW5juCd0oCdmmopTipDV8Q=="
         }
       },
       "is_incremental": false,
@@ -604,7 +604,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.Assets.html",
-          "hash": "qiyheSgaxFQRTqtOZxsO6w=="
+          "hash": "GD6v1DfEeF0v0wS/sZ7YUg=="
         }
       },
       "is_incremental": false,
@@ -616,7 +616,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.AutoSaveTiming.html",
-          "hash": "ffoQSex9tGhDzFA/8/gyPg=="
+          "hash": "xiVNI6MphzQXolGf8PPKxg=="
         }
       },
       "is_incremental": false,
@@ -628,7 +628,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.DataCatalogAutoIO.html",
-          "hash": "ECeYn6B5cR1RL51l3AJvzw=="
+          "hash": "WjNqWzf+I/s7x8qt1ATQRg=="
         }
       },
       "is_incremental": false,
@@ -640,7 +640,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.DataCatalogIO.html",
-          "hash": "q3BGg44/Pu/QgRXUFPzpFQ=="
+          "hash": "tt3pp3gblnoaZeKkfdCT6g=="
         }
       },
       "is_incremental": false,
@@ -652,7 +652,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.DataCatalogIOAsset.html",
-          "hash": "6CDnu2oyfl9usLmyebXDWA=="
+          "hash": "00LCPLQsKVg2mQz7xJshUA=="
         }
       },
       "is_incremental": false,
@@ -664,7 +664,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.DataCatalogIOContext.html",
-          "hash": "5QOo8dFZZPnJ9qs8cvgDEA=="
+          "hash": "3pj38b6THzv8RkYsaTo5Ng=="
         }
       },
       "is_incremental": false,
@@ -676,7 +676,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.html",
-          "hash": "fuPAAzMaFR6g//yVeSDK8g=="
+          "hash": "CrZCMvc20OzGI37i5Y3SAQ=="
         }
       },
       "is_incremental": false,
@@ -688,7 +688,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IReadOnlyData-1.html",
-          "hash": "dBSCywqaeI5UKEct/ck65w=="
+          "hash": "NU7rWmItLuvvNH3iIusEpg=="
         }
       },
       "is_incremental": false,
@@ -700,7 +700,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IReadOnlyData.html",
-          "hash": "Dvaykmlt1Ntac+PILxePqQ=="
+          "hash": "KimVWhN9CdHrWEc/JQfBNg=="
         }
       },
       "is_incremental": false,
@@ -712,7 +712,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IReadOnlyEntryReference-1.html",
-          "hash": "bdUN9yObDQVJtSVmHqru/g=="
+          "hash": "+yw9DY2MTKH2ElAjozpg8Q=="
         }
       },
       "is_incremental": false,
@@ -724,7 +724,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IReadOnlyEntryReference.html",
-          "hash": "fs3+13UdFNxb0at6nYpiGA=="
+          "hash": "fHwYQ4a6TnG2LB0+SZIWdA=="
         }
       },
       "is_incremental": false,
@@ -736,7 +736,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.UniDataSettings.html",
-          "hash": "WPOIV4ZOEKszRNPPig73PQ=="
+          "hash": "VFk4rnU9P7xEZiED2mBFGw=="
         }
       },
       "is_incremental": false,
@@ -748,7 +748,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.html",
-          "hash": "hz0kj0jVia3vrRMWjQz/nA=="
+          "hash": "NESDPPkywYaqSRfHN/DVAw=="
         }
       },
       "is_incremental": false,
@@ -772,7 +772,7 @@
       "output": {
         ".html": {
           "relative_path": "changelog/CHANGELOG.html",
-          "hash": "X1fPWeqiXi0fThvtCTVKnQ=="
+          "hash": "QJfAYxGa47hCSuuVNLLanA=="
         }
       },
       "is_incremental": false,
@@ -796,7 +796,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Jb9JY5eBQI9ddQP7xYTeVQ=="
+          "hash": "YPlhgiu0nmEpS5ze673Ovw=="
         }
       },
       "is_incremental": false,

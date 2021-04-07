@@ -23,7 +23,8 @@
             "_appTitle": "UniData",
             "_appFooter": "UniData - Data Management for Unity",
             "_enableSearch": true,
-            "_enableNewTab": true
+            "_enableNewTab": true,
+            "_disableContribution": true
         },
         "content": [
             {

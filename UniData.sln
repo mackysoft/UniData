@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx", "UniRx.csproj", "{2C7AD1B1-0C57-3824-EF11-7D9B665E65C5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MackySoft.UniData", "MackySoft.UniData.csproj", "{63A55BCB-E35D-20E0-AEB1-277872B6CE38}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3897724E-ED84-EAFD-097B-8F8435FE8C1F}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2C7AD1B1-0C57-3824-EF11-7D9B665E65C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C7AD1B1-0C57-3824-EF11-7D9B665E65C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C7AD1B1-0C57-3824-EF11-7D9B665E65C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C7AD1B1-0C57-3824-EF11-7D9B665E65C5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{63A55BCB-E35D-20E0-AEB1-277872B6CE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{63A55BCB-E35D-20E0-AEB1-277872B6CE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63A55BCB-E35D-20E0-AEB1-277872B6CE38}.Release|Any CPU.ActiveCfg = Release|Any CPU

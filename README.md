@@ -11,15 +11,10 @@ In addition to data management, it also useful for implementing Achievements, Qu
 
 - [Installation](#installation)
 - [🔰 Usage](#usage)
-  - [Data Catalog](#data-catalog)
-  - [Save & Load](#save-and-load)
-    - [Writing a Custom Loader](#writing-custom-loader)
-  - [Custom Data](#custom-data)
 - [External Assets Integration](#external-assets-integration)
   - [Easy Save 3](#external-assets-easysave3)
   - [UniRx](#external-assets-unirx)
 - [UniData Pro](#unidata-pro)
-  - [Data Catalog Window](#data-catalog-window)
 - [Author Info](#author-info)
 - [License](#license)
 
@@ -35,7 +30,7 @@ Releases: [https://github.com/mackysoft/UniData/releases](https://github.com/mac
 
 being written
 
-## <a id="external-assets" href="#external-assets"> External Assets Integration </a>
+## <a id="external-assets-integration" href="#external-assets-integration"> External Assets Integration </a>
 
 UniData supports integration with several external assets.
 

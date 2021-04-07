@@ -1,0 +1,25 @@
+apiRules:
+- include:
+    uidRegex: ^MackySoft\.UniData$
+    type: Namespace
+- include:
+    uidRegex: ^MackySoft\.UniData\.IO
+    type: Namespace
+- include:
+    uidRegex: ^MackySoft\.UniData\.IO\.Assets
+    type: Namespace
+- include:
+    uidRegex: ^MackySoft\.UniData\.Data
+    type: Namespace
+- include:
+    uidRegex: ^MackySoft\.UniData\.Diagnostics
+    type: Namespace
+- include:
+    uidRegex: ^MackySoft\.UniData\.Editor
+    type: Namespace
+- include:
+    uidRegex: ^Global
+    type: Namespace
+- exclude:
+    uidRegex: .*
+    type: Namespace

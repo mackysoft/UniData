@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: UniDataSettings
   m_EditorClassIdentifier: 
   m_Loaders:
-  - {fileID: 11400000, guid: a424e13700859ac4e88e592059ee4668, type: 2}
+  - {fileID: 0}
   m_PreloadedCatalogs: []
   m_AutoSaveTiming: 3

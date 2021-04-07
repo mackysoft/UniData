@@ -1,0 +1,867 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://mackysoft.github.io/UniData/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://mackysoft.github.io/UniData/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/UniData/UniData/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.AddTypeMenuAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.AddTypeMenuAttribute.html",
+          "hash": "gejlM0KTqsnQ+E3OHKCC2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.Data-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.Data-1.html",
+          "hash": "YPLiEYO+HDj2EAxb9516Ow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.DataBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.DataBase-1.html",
+          "hash": "yMYk0SeFymAdhgD/Bjyddw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.AnimationCurveData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.AnimationCurveData.html",
+          "hash": "Z/Bw04lQlrZm5xl0NjyJgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.BoolData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.BoolData.html",
+          "hash": "IfD8pUoKJrvu3i/XIIFIfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.BoundsData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.BoundsData.html",
+          "hash": "e8PC3lOfDJKrG3uqYyzCMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.BoundsIntData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.BoundsIntData.html",
+          "hash": "og4MTPdF4vgN2VMDJrpl7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.ByteData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.ByteData.html",
+          "hash": "hapCXJPP8zQ1rXXmIUxofw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.ColorData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.ColorData.html",
+          "hash": "qoO5PDt1qGE8igiR0f6sAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.DoubleData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.DoubleData.html",
+          "hash": "NrygS8UXlk534XVFazef3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.FloatData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.FloatData.html",
+          "hash": "VrUwlmaRk8pzQXhVIMFnLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.GradientData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.GradientData.html",
+          "hash": "ucEKOAzVvXP/zxc78qnP2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.IntData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.IntData.html",
+          "hash": "vu7poBu75pkI3vfR3iutgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.LayerMaskData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.LayerMaskData.html",
+          "hash": "9KffB6rLveeEzqlKgqNMUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.LongData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.LongData.html",
+          "hash": "hdR6H7HTA5gnXC6027+biw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.QuaternionData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.QuaternionData.html",
+          "hash": "69io0OXwvQNjtljuO2eWKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.RectData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.RectData.html",
+          "hash": "yUZiJOB/kAmYmk7j9PO/zw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.RectIntData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.RectIntData.html",
+          "hash": "nvIx2wFM7d10kCMInL5dHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.StringData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.StringData.html",
+          "hash": "TzRXHvNJRQt5boRIgS42HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.Vector2Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.Vector2Data.html",
+          "hash": "gFufvZnoupOs5+n2G+qjew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.Vector2IntData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.Vector2IntData.html",
+          "hash": "3zAbsnfyBe+NdOb4rFyANA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.Vector3Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.Vector3Data.html",
+          "hash": "vZJyckS9oFUly14Z2NTOCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.Vector3IntData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.Vector3IntData.html",
+          "hash": "JD4EcFtCqO+dJGFLOMtmaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.Vector4Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.Vector4Data.html",
+          "hash": "e0hFmehzRPECedMQhipx8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.General.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.General.html",
+          "hash": "VNBw4wPQ7VzPsz9Tj8atdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.ReadOnlyDataBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html",
+          "hash": "TWC+7Ga4em3qajAOZf50lQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Data.html",
+          "hash": "6qDq9u83UPwN1CaiY8aVsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.DataCatalog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.DataCatalog.html",
+          "hash": "bN61zF2RLTUOJLdz4Zpcwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Diagnostics.ValidationUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Diagnostics.ValidationUtility.html",
+          "hash": "U728Sq1zJEBGBL8cnJ0Zvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Diagnostics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Diagnostics.html",
+          "hash": "qso4Q6x5TG5i1ZNz167epw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Editor.DataCatalogEditorUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html",
+          "hash": "kVbCOZefkhBB14TpxVdb3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Editor.DataCatalogInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Editor.DataCatalogInspector.html",
+          "hash": "AwACSmFIYbQxF1LbiSjKwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Editor.EntryReferenceDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Editor.EntryReferenceDrawer.html",
+          "hash": "vBXP2h1y4SfQqfOmfnez9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Editor.SerializedDataCatalog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Editor.SerializedDataCatalog.html",
+          "hash": "9um8t4fxd2Jl6GO5RyA1qw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Editor.UniDataEditorUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Editor.UniDataEditorUtility.html",
+          "hash": "t8SIPvbf8yBIac4TWGDiOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Editor.UniDataSettingsInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Editor.UniDataSettingsInspector.html",
+          "hash": "yqLfvIONH/0S0nH/vIt4mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Editor.UniDataSettingsProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Editor.UniDataSettingsProvider.html",
+          "hash": "p+Pm/AbPqpzkcxVw8JNJ1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.Editor.html",
+          "hash": "ONRGO+xobM8lkLXLRu+mmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.EntryReference-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.EntryReference-1.html",
+          "hash": "vaFwdvlwhZWy/9VYZYSjdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.EntryReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.EntryReference.html",
+          "hash": "w2ql73eHICXqdgpuX5XQJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IData-1.html",
+          "hash": "E9Kppt40J8XVe/g3FBGdOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IData.html",
+          "hash": "9w6DIRmsmPjeDjBgsWy0dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IEntry.html",
+          "hash": "V52vj3X7ctqgn5H65vLqCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IEntryReference-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IEntryReference-1.html",
+          "hash": "IaqOtt5DW27kgi9amfw8uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IEntryReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IEntryReference.html",
+          "hash": "A0y9l48DGEQCcDreZXs3eA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html",
+          "hash": "5ZT0fIJeLe3ibvQEZnvABw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html",
+          "hash": "gdDyCB0sBjCtQRZUaSaTaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html",
+          "hash": "U60xSjKtPWv7UmkrkhFgbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.Assets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.Assets.html",
+          "hash": "qiyheSgaxFQRTqtOZxsO6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.AutoSaveTiming.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.AutoSaveTiming.html",
+          "hash": "ffoQSex9tGhDzFA/8/gyPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.DataCatalogAutoIO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.DataCatalogAutoIO.html",
+          "hash": "ECeYn6B5cR1RL51l3AJvzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.DataCatalogIO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.DataCatalogIO.html",
+          "hash": "q3BGg44/Pu/QgRXUFPzpFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.DataCatalogIOAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.DataCatalogIOAsset.html",
+          "hash": "6CDnu2oyfl9usLmyebXDWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.DataCatalogIOContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.DataCatalogIOContext.html",
+          "hash": "5QOo8dFZZPnJ9qs8cvgDEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IO.html",
+          "hash": "fuPAAzMaFR6g//yVeSDK8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IReadOnlyData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IReadOnlyData-1.html",
+          "hash": "dBSCywqaeI5UKEct/ck65w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IReadOnlyData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IReadOnlyData.html",
+          "hash": "Dvaykmlt1Ntac+PILxePqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IReadOnlyEntryReference-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IReadOnlyEntryReference-1.html",
+          "hash": "bdUN9yObDQVJtSVmHqru/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.IReadOnlyEntryReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.IReadOnlyEntryReference.html",
+          "hash": "fs3+13UdFNxb0at6nYpiGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.UniDataSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.UniDataSettings.html",
+          "hash": "WPOIV4ZOEKszRNPPig73PQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.html",
+          "hash": "hz0kj0jVia3vrRMWjQz/nA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "zHm7sm5btZnp9fi27r1lHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html",
+          "hash": "X1fPWeqiXi0fThvtCTVKnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html",
+          "hash": "jCEvfSPZ8omWSNkHdMnQXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Jb9JY5eBQI9ddQP7xYTeVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "fwOY5H0hzcdzJKFJSElABA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 61,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

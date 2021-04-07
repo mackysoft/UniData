@@ -1,0 +1,2693 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: MackySoft.UniData
+  name: MackySoft.UniData
+  href: api/MackySoft.UniData.html
+  commentId: N:MackySoft.UniData
+  fullName: MackySoft.UniData
+  nameWithType: MackySoft.UniData
+- uid: MackySoft.UniData.AddTypeMenuAttribute
+  name: AddTypeMenuAttribute
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html
+  commentId: T:MackySoft.UniData.AddTypeMenuAttribute
+  fullName: MackySoft.UniData.AddTypeMenuAttribute
+  nameWithType: AddTypeMenuAttribute
+- uid: MackySoft.UniData.AddTypeMenuAttribute.#ctor(System.String,System.Int32)
+  name: AddTypeMenuAttribute(String, Int32)
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute__ctor_System_String_System_Int32_
+  commentId: M:MackySoft.UniData.AddTypeMenuAttribute.#ctor(System.String,System.Int32)
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.AddTypeMenuAttribute(System.String, System.Int32)
+  nameWithType: AddTypeMenuAttribute.AddTypeMenuAttribute(String, Int32)
+- uid: MackySoft.UniData.AddTypeMenuAttribute.#ctor*
+  name: AddTypeMenuAttribute
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute__ctor_
+  commentId: Overload:MackySoft.UniData.AddTypeMenuAttribute.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.AddTypeMenuAttribute
+  nameWithType: AddTypeMenuAttribute.AddTypeMenuAttribute
+- uid: MackySoft.UniData.AddTypeMenuAttribute.GetSplittedMenuName
+  name: GetSplittedMenuName()
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute_GetSplittedMenuName
+  commentId: M:MackySoft.UniData.AddTypeMenuAttribute.GetSplittedMenuName
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.GetSplittedMenuName()
+  nameWithType: AddTypeMenuAttribute.GetSplittedMenuName()
+- uid: MackySoft.UniData.AddTypeMenuAttribute.GetSplittedMenuName*
+  name: GetSplittedMenuName
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute_GetSplittedMenuName_
+  commentId: Overload:MackySoft.UniData.AddTypeMenuAttribute.GetSplittedMenuName
+  isSpec: "True"
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.GetSplittedMenuName
+  nameWithType: AddTypeMenuAttribute.GetSplittedMenuName
+- uid: MackySoft.UniData.AddTypeMenuAttribute.GetTypeNameWithoutPath
+  name: GetTypeNameWithoutPath()
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute_GetTypeNameWithoutPath
+  commentId: M:MackySoft.UniData.AddTypeMenuAttribute.GetTypeNameWithoutPath
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.GetTypeNameWithoutPath()
+  nameWithType: AddTypeMenuAttribute.GetTypeNameWithoutPath()
+- uid: MackySoft.UniData.AddTypeMenuAttribute.GetTypeNameWithoutPath*
+  name: GetTypeNameWithoutPath
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute_GetTypeNameWithoutPath_
+  commentId: Overload:MackySoft.UniData.AddTypeMenuAttribute.GetTypeNameWithoutPath
+  isSpec: "True"
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.GetTypeNameWithoutPath
+  nameWithType: AddTypeMenuAttribute.GetTypeNameWithoutPath
+- uid: MackySoft.UniData.AddTypeMenuAttribute.MenuName
+  name: MenuName
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute_MenuName
+  commentId: P:MackySoft.UniData.AddTypeMenuAttribute.MenuName
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.MenuName
+  nameWithType: AddTypeMenuAttribute.MenuName
+- uid: MackySoft.UniData.AddTypeMenuAttribute.MenuName*
+  name: MenuName
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute_MenuName_
+  commentId: Overload:MackySoft.UniData.AddTypeMenuAttribute.MenuName
+  isSpec: "True"
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.MenuName
+  nameWithType: AddTypeMenuAttribute.MenuName
+- uid: MackySoft.UniData.AddTypeMenuAttribute.Order
+  name: Order
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute_Order
+  commentId: P:MackySoft.UniData.AddTypeMenuAttribute.Order
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.Order
+  nameWithType: AddTypeMenuAttribute.Order
+- uid: MackySoft.UniData.AddTypeMenuAttribute.Order*
+  name: Order
+  href: api/MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute_Order_
+  commentId: Overload:MackySoft.UniData.AddTypeMenuAttribute.Order
+  isSpec: "True"
+  fullName: MackySoft.UniData.AddTypeMenuAttribute.Order
+  nameWithType: AddTypeMenuAttribute.Order
+- uid: MackySoft.UniData.Data
+  name: MackySoft.UniData.Data
+  href: api/MackySoft.UniData.Data.html
+  commentId: N:MackySoft.UniData.Data
+  fullName: MackySoft.UniData.Data
+  nameWithType: MackySoft.UniData.Data
+- uid: MackySoft.UniData.Data.Data`1
+  name: Data<T>
+  href: api/MackySoft.UniData.Data.Data-1.html
+  commentId: T:MackySoft.UniData.Data.Data`1
+  name.vb: Data(Of T)
+  fullName: MackySoft.UniData.Data.Data<T>
+  fullName.vb: MackySoft.UniData.Data.Data(Of T)
+  nameWithType: Data<T>
+  nameWithType.vb: Data(Of T)
+- uid: MackySoft.UniData.Data.Data`1.#ctor
+  name: Data()
+  href: api/MackySoft.UniData.Data.Data-1.html#MackySoft_UniData_Data_Data_1__ctor
+  commentId: M:MackySoft.UniData.Data.Data`1.#ctor
+  fullName: MackySoft.UniData.Data.Data<T>.Data()
+  fullName.vb: MackySoft.UniData.Data.Data(Of T).Data()
+  nameWithType: Data<T>.Data()
+  nameWithType.vb: Data(Of T).Data()
+- uid: MackySoft.UniData.Data.Data`1.#ctor(System.String)
+  name: Data(String)
+  href: api/MackySoft.UniData.Data.Data-1.html#MackySoft_UniData_Data_Data_1__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.Data`1.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.Data<T>.Data(System.String)
+  fullName.vb: MackySoft.UniData.Data.Data(Of T).Data(System.String)
+  nameWithType: Data<T>.Data(String)
+  nameWithType.vb: Data(Of T).Data(String)
+- uid: MackySoft.UniData.Data.Data`1.#ctor(System.String,`0)
+  name: Data(String, T)
+  href: api/MackySoft.UniData.Data.Data-1.html#MackySoft_UniData_Data_Data_1__ctor_System_String__0_
+  commentId: M:MackySoft.UniData.Data.Data`1.#ctor(System.String,`0)
+  fullName: MackySoft.UniData.Data.Data<T>.Data(System.String, T)
+  fullName.vb: MackySoft.UniData.Data.Data(Of T).Data(System.String, T)
+  nameWithType: Data<T>.Data(String, T)
+  nameWithType.vb: Data(Of T).Data(String, T)
+- uid: MackySoft.UniData.Data.Data`1.#ctor*
+  name: Data
+  href: api/MackySoft.UniData.Data.Data-1.html#MackySoft_UniData_Data_Data_1__ctor_
+  commentId: Overload:MackySoft.UniData.Data.Data`1.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.Data<T>.Data
+  fullName.vb: MackySoft.UniData.Data.Data(Of T).Data
+  nameWithType: Data<T>.Data
+  nameWithType.vb: Data(Of T).Data
+- uid: MackySoft.UniData.Data.Data`1.Value
+  name: Value
+  href: api/MackySoft.UniData.Data.Data-1.html#MackySoft_UniData_Data_Data_1_Value
+  commentId: P:MackySoft.UniData.Data.Data`1.Value
+  fullName: MackySoft.UniData.Data.Data<T>.Value
+  fullName.vb: MackySoft.UniData.Data.Data(Of T).Value
+  nameWithType: Data<T>.Value
+  nameWithType.vb: Data(Of T).Value
+- uid: MackySoft.UniData.Data.Data`1.Value*
+  name: Value
+  href: api/MackySoft.UniData.Data.Data-1.html#MackySoft_UniData_Data_Data_1_Value_
+  commentId: Overload:MackySoft.UniData.Data.Data`1.Value
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.Data<T>.Value
+  fullName.vb: MackySoft.UniData.Data.Data(Of T).Value
+  nameWithType: Data<T>.Value
+  nameWithType.vb: Data(Of T).Value
+- uid: MackySoft.UniData.Data.DataBase`1
+  name: DataBase<T>
+  href: api/MackySoft.UniData.Data.DataBase-1.html
+  commentId: T:MackySoft.UniData.Data.DataBase`1
+  name.vb: DataBase(Of T)
+  fullName: MackySoft.UniData.Data.DataBase<T>
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T)
+  nameWithType: DataBase<T>
+  nameWithType.vb: DataBase(Of T)
+- uid: MackySoft.UniData.Data.DataBase`1.#ctor
+  name: DataBase()
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1__ctor
+  commentId: M:MackySoft.UniData.Data.DataBase`1.#ctor
+  fullName: MackySoft.UniData.Data.DataBase<T>.DataBase()
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).DataBase()
+  nameWithType: DataBase<T>.DataBase()
+  nameWithType.vb: DataBase(Of T).DataBase()
+- uid: MackySoft.UniData.Data.DataBase`1.#ctor(System.String)
+  name: DataBase(String)
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.DataBase`1.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.DataBase<T>.DataBase(System.String)
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).DataBase(System.String)
+  nameWithType: DataBase<T>.DataBase(String)
+  nameWithType.vb: DataBase(Of T).DataBase(String)
+- uid: MackySoft.UniData.Data.DataBase`1.#ctor(System.String,`0)
+  name: DataBase(String, T)
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1__ctor_System_String__0_
+  commentId: M:MackySoft.UniData.Data.DataBase`1.#ctor(System.String,`0)
+  fullName: MackySoft.UniData.Data.DataBase<T>.DataBase(System.String, T)
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).DataBase(System.String, T)
+  nameWithType: DataBase<T>.DataBase(String, T)
+  nameWithType.vb: DataBase(Of T).DataBase(String, T)
+- uid: MackySoft.UniData.Data.DataBase`1.#ctor*
+  name: DataBase
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1__ctor_
+  commentId: Overload:MackySoft.UniData.Data.DataBase`1.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.DataBase<T>.DataBase
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).DataBase
+  nameWithType: DataBase<T>.DataBase
+  nameWithType.vb: DataBase(Of T).DataBase
+- uid: MackySoft.UniData.Data.DataBase`1.Id
+  name: Id
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1_Id
+  commentId: P:MackySoft.UniData.Data.DataBase`1.Id
+  fullName: MackySoft.UniData.Data.DataBase<T>.Id
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).Id
+  nameWithType: DataBase<T>.Id
+  nameWithType.vb: DataBase(Of T).Id
+- uid: MackySoft.UniData.Data.DataBase`1.Id*
+  name: Id
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1_Id_
+  commentId: Overload:MackySoft.UniData.Data.DataBase`1.Id
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.DataBase<T>.Id
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).Id
+  nameWithType: DataBase<T>.Id
+  nameWithType.vb: DataBase(Of T).Id
+- uid: MackySoft.UniData.Data.DataBase`1.m_Id
+  name: m_Id
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1_m_Id
+  commentId: F:MackySoft.UniData.Data.DataBase`1.m_Id
+  fullName: MackySoft.UniData.Data.DataBase<T>.m_Id
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).m_Id
+  nameWithType: DataBase<T>.m_Id
+  nameWithType.vb: DataBase(Of T).m_Id
+- uid: MackySoft.UniData.Data.DataBase`1.MackySoft#UniData#IData#Value
+  name: IData.Value
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1_MackySoft_UniData_IData_Value
+  commentId: P:MackySoft.UniData.Data.DataBase`1.MackySoft#UniData#IData#Value
+  name.vb: MackySoft.UniData.IData.Value
+  fullName: MackySoft.UniData.Data.DataBase<T>.MackySoft.UniData.IData.Value
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).MackySoft.UniData.IData.Value
+  nameWithType: DataBase<T>.IData.Value
+  nameWithType.vb: DataBase(Of T).MackySoft.UniData.IData.Value
+- uid: MackySoft.UniData.Data.DataBase`1.MackySoft#UniData#IData#Value*
+  name: IData.Value
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1_MackySoft_UniData_IData_Value_
+  commentId: Overload:MackySoft.UniData.Data.DataBase`1.MackySoft#UniData#IData#Value
+  isSpec: "True"
+  name.vb: MackySoft.UniData.IData.Value
+  fullName: MackySoft.UniData.Data.DataBase<T>.MackySoft.UniData.IData.Value
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).MackySoft.UniData.IData.Value
+  nameWithType: DataBase<T>.IData.Value
+  nameWithType.vb: DataBase(Of T).MackySoft.UniData.IData.Value
+- uid: MackySoft.UniData.Data.DataBase`1.MackySoft#UniData#IReadOnlyData#Value
+  name: IReadOnlyData.Value
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1_MackySoft_UniData_IReadOnlyData_Value
+  commentId: P:MackySoft.UniData.Data.DataBase`1.MackySoft#UniData#IReadOnlyData#Value
+  name.vb: MackySoft.UniData.IReadOnlyData.Value
+  fullName: MackySoft.UniData.Data.DataBase<T>.MackySoft.UniData.IReadOnlyData.Value
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).MackySoft.UniData.IReadOnlyData.Value
+  nameWithType: DataBase<T>.IReadOnlyData.Value
+  nameWithType.vb: DataBase(Of T).MackySoft.UniData.IReadOnlyData.Value
+- uid: MackySoft.UniData.Data.DataBase`1.MackySoft#UniData#IReadOnlyData#Value*
+  name: IReadOnlyData.Value
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1_MackySoft_UniData_IReadOnlyData_Value_
+  commentId: Overload:MackySoft.UniData.Data.DataBase`1.MackySoft#UniData#IReadOnlyData#Value
+  isSpec: "True"
+  name.vb: MackySoft.UniData.IReadOnlyData.Value
+  fullName: MackySoft.UniData.Data.DataBase<T>.MackySoft.UniData.IReadOnlyData.Value
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).MackySoft.UniData.IReadOnlyData.Value
+  nameWithType: DataBase<T>.IReadOnlyData.Value
+  nameWithType.vb: DataBase(Of T).MackySoft.UniData.IReadOnlyData.Value
+- uid: MackySoft.UniData.Data.DataBase`1.Value
+  name: Value
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1_Value
+  commentId: P:MackySoft.UniData.Data.DataBase`1.Value
+  fullName: MackySoft.UniData.Data.DataBase<T>.Value
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).Value
+  nameWithType: DataBase<T>.Value
+  nameWithType.vb: DataBase(Of T).Value
+- uid: MackySoft.UniData.Data.DataBase`1.Value*
+  name: Value
+  href: api/MackySoft.UniData.Data.DataBase-1.html#MackySoft_UniData_Data_DataBase_1_Value_
+  commentId: Overload:MackySoft.UniData.Data.DataBase`1.Value
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.DataBase<T>.Value
+  fullName.vb: MackySoft.UniData.Data.DataBase(Of T).Value
+  nameWithType: DataBase<T>.Value
+  nameWithType.vb: DataBase(Of T).Value
+- uid: MackySoft.UniData.Data.General
+  name: MackySoft.UniData.Data.General
+  href: api/MackySoft.UniData.Data.General.html
+  commentId: N:MackySoft.UniData.Data.General
+  fullName: MackySoft.UniData.Data.General
+  nameWithType: MackySoft.UniData.Data.General
+- uid: MackySoft.UniData.Data.General.AnimationCurveData
+  name: AnimationCurveData
+  href: api/MackySoft.UniData.Data.General.AnimationCurveData.html
+  commentId: T:MackySoft.UniData.Data.General.AnimationCurveData
+  fullName: MackySoft.UniData.Data.General.AnimationCurveData
+  nameWithType: AnimationCurveData
+- uid: MackySoft.UniData.Data.General.AnimationCurveData.#ctor
+  name: AnimationCurveData()
+  href: api/MackySoft.UniData.Data.General.AnimationCurveData.html#MackySoft_UniData_Data_General_AnimationCurveData__ctor
+  commentId: M:MackySoft.UniData.Data.General.AnimationCurveData.#ctor
+  fullName: MackySoft.UniData.Data.General.AnimationCurveData.AnimationCurveData()
+  nameWithType: AnimationCurveData.AnimationCurveData()
+- uid: MackySoft.UniData.Data.General.AnimationCurveData.#ctor(System.String)
+  name: AnimationCurveData(String)
+  href: api/MackySoft.UniData.Data.General.AnimationCurveData.html#MackySoft_UniData_Data_General_AnimationCurveData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.AnimationCurveData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.AnimationCurveData.AnimationCurveData(System.String)
+  nameWithType: AnimationCurveData.AnimationCurveData(String)
+- uid: MackySoft.UniData.Data.General.AnimationCurveData.#ctor(System.String,AnimationCurve)
+  name: AnimationCurveData(String, AnimationCurve)
+  href: api/MackySoft.UniData.Data.General.AnimationCurveData.html#MackySoft_UniData_Data_General_AnimationCurveData__ctor_System_String_AnimationCurve_
+  commentId: M:MackySoft.UniData.Data.General.AnimationCurveData.#ctor(System.String,AnimationCurve)
+  fullName: MackySoft.UniData.Data.General.AnimationCurveData.AnimationCurveData(System.String, AnimationCurve)
+  nameWithType: AnimationCurveData.AnimationCurveData(String, AnimationCurve)
+- uid: MackySoft.UniData.Data.General.AnimationCurveData.#ctor*
+  name: AnimationCurveData
+  href: api/MackySoft.UniData.Data.General.AnimationCurveData.html#MackySoft_UniData_Data_General_AnimationCurveData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.AnimationCurveData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.AnimationCurveData.AnimationCurveData
+  nameWithType: AnimationCurveData.AnimationCurveData
+- uid: MackySoft.UniData.Data.General.BoolData
+  name: BoolData
+  href: api/MackySoft.UniData.Data.General.BoolData.html
+  commentId: T:MackySoft.UniData.Data.General.BoolData
+  fullName: MackySoft.UniData.Data.General.BoolData
+  nameWithType: BoolData
+- uid: MackySoft.UniData.Data.General.BoolData.#ctor
+  name: BoolData()
+  href: api/MackySoft.UniData.Data.General.BoolData.html#MackySoft_UniData_Data_General_BoolData__ctor
+  commentId: M:MackySoft.UniData.Data.General.BoolData.#ctor
+  fullName: MackySoft.UniData.Data.General.BoolData.BoolData()
+  nameWithType: BoolData.BoolData()
+- uid: MackySoft.UniData.Data.General.BoolData.#ctor(System.String)
+  name: BoolData(String)
+  href: api/MackySoft.UniData.Data.General.BoolData.html#MackySoft_UniData_Data_General_BoolData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.BoolData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.BoolData.BoolData(System.String)
+  nameWithType: BoolData.BoolData(String)
+- uid: MackySoft.UniData.Data.General.BoolData.#ctor(System.String,System.Boolean)
+  name: BoolData(String, Boolean)
+  href: api/MackySoft.UniData.Data.General.BoolData.html#MackySoft_UniData_Data_General_BoolData__ctor_System_String_System_Boolean_
+  commentId: M:MackySoft.UniData.Data.General.BoolData.#ctor(System.String,System.Boolean)
+  fullName: MackySoft.UniData.Data.General.BoolData.BoolData(System.String, System.Boolean)
+  nameWithType: BoolData.BoolData(String, Boolean)
+- uid: MackySoft.UniData.Data.General.BoolData.#ctor*
+  name: BoolData
+  href: api/MackySoft.UniData.Data.General.BoolData.html#MackySoft_UniData_Data_General_BoolData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.BoolData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.BoolData.BoolData
+  nameWithType: BoolData.BoolData
+- uid: MackySoft.UniData.Data.General.BoundsData
+  name: BoundsData
+  href: api/MackySoft.UniData.Data.General.BoundsData.html
+  commentId: T:MackySoft.UniData.Data.General.BoundsData
+  fullName: MackySoft.UniData.Data.General.BoundsData
+  nameWithType: BoundsData
+- uid: MackySoft.UniData.Data.General.BoundsData.#ctor
+  name: BoundsData()
+  href: api/MackySoft.UniData.Data.General.BoundsData.html#MackySoft_UniData_Data_General_BoundsData__ctor
+  commentId: M:MackySoft.UniData.Data.General.BoundsData.#ctor
+  fullName: MackySoft.UniData.Data.General.BoundsData.BoundsData()
+  nameWithType: BoundsData.BoundsData()
+- uid: MackySoft.UniData.Data.General.BoundsData.#ctor(System.String)
+  name: BoundsData(String)
+  href: api/MackySoft.UniData.Data.General.BoundsData.html#MackySoft_UniData_Data_General_BoundsData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.BoundsData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.BoundsData.BoundsData(System.String)
+  nameWithType: BoundsData.BoundsData(String)
+- uid: MackySoft.UniData.Data.General.BoundsData.#ctor(System.String,Bounds)
+  name: BoundsData(String, Bounds)
+  href: api/MackySoft.UniData.Data.General.BoundsData.html#MackySoft_UniData_Data_General_BoundsData__ctor_System_String_Bounds_
+  commentId: M:MackySoft.UniData.Data.General.BoundsData.#ctor(System.String,Bounds)
+  fullName: MackySoft.UniData.Data.General.BoundsData.BoundsData(System.String, Bounds)
+  nameWithType: BoundsData.BoundsData(String, Bounds)
+- uid: MackySoft.UniData.Data.General.BoundsData.#ctor*
+  name: BoundsData
+  href: api/MackySoft.UniData.Data.General.BoundsData.html#MackySoft_UniData_Data_General_BoundsData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.BoundsData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.BoundsData.BoundsData
+  nameWithType: BoundsData.BoundsData
+- uid: MackySoft.UniData.Data.General.BoundsIntData
+  name: BoundsIntData
+  href: api/MackySoft.UniData.Data.General.BoundsIntData.html
+  commentId: T:MackySoft.UniData.Data.General.BoundsIntData
+  fullName: MackySoft.UniData.Data.General.BoundsIntData
+  nameWithType: BoundsIntData
+- uid: MackySoft.UniData.Data.General.BoundsIntData.#ctor
+  name: BoundsIntData()
+  href: api/MackySoft.UniData.Data.General.BoundsIntData.html#MackySoft_UniData_Data_General_BoundsIntData__ctor
+  commentId: M:MackySoft.UniData.Data.General.BoundsIntData.#ctor
+  fullName: MackySoft.UniData.Data.General.BoundsIntData.BoundsIntData()
+  nameWithType: BoundsIntData.BoundsIntData()
+- uid: MackySoft.UniData.Data.General.BoundsIntData.#ctor(System.String)
+  name: BoundsIntData(String)
+  href: api/MackySoft.UniData.Data.General.BoundsIntData.html#MackySoft_UniData_Data_General_BoundsIntData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.BoundsIntData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.BoundsIntData.BoundsIntData(System.String)
+  nameWithType: BoundsIntData.BoundsIntData(String)
+- uid: MackySoft.UniData.Data.General.BoundsIntData.#ctor(System.String,BoundsInt)
+  name: BoundsIntData(String, BoundsInt)
+  href: api/MackySoft.UniData.Data.General.BoundsIntData.html#MackySoft_UniData_Data_General_BoundsIntData__ctor_System_String_BoundsInt_
+  commentId: M:MackySoft.UniData.Data.General.BoundsIntData.#ctor(System.String,BoundsInt)
+  fullName: MackySoft.UniData.Data.General.BoundsIntData.BoundsIntData(System.String, BoundsInt)
+  nameWithType: BoundsIntData.BoundsIntData(String, BoundsInt)
+- uid: MackySoft.UniData.Data.General.BoundsIntData.#ctor*
+  name: BoundsIntData
+  href: api/MackySoft.UniData.Data.General.BoundsIntData.html#MackySoft_UniData_Data_General_BoundsIntData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.BoundsIntData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.BoundsIntData.BoundsIntData
+  nameWithType: BoundsIntData.BoundsIntData
+- uid: MackySoft.UniData.Data.General.ByteData
+  name: ByteData
+  href: api/MackySoft.UniData.Data.General.ByteData.html
+  commentId: T:MackySoft.UniData.Data.General.ByteData
+  fullName: MackySoft.UniData.Data.General.ByteData
+  nameWithType: ByteData
+- uid: MackySoft.UniData.Data.General.ByteData.#ctor
+  name: ByteData()
+  href: api/MackySoft.UniData.Data.General.ByteData.html#MackySoft_UniData_Data_General_ByteData__ctor
+  commentId: M:MackySoft.UniData.Data.General.ByteData.#ctor
+  fullName: MackySoft.UniData.Data.General.ByteData.ByteData()
+  nameWithType: ByteData.ByteData()
+- uid: MackySoft.UniData.Data.General.ByteData.#ctor(System.String)
+  name: ByteData(String)
+  href: api/MackySoft.UniData.Data.General.ByteData.html#MackySoft_UniData_Data_General_ByteData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.ByteData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.ByteData.ByteData(System.String)
+  nameWithType: ByteData.ByteData(String)
+- uid: MackySoft.UniData.Data.General.ByteData.#ctor(System.String,System.Byte)
+  name: ByteData(String, Byte)
+  href: api/MackySoft.UniData.Data.General.ByteData.html#MackySoft_UniData_Data_General_ByteData__ctor_System_String_System_Byte_
+  commentId: M:MackySoft.UniData.Data.General.ByteData.#ctor(System.String,System.Byte)
+  fullName: MackySoft.UniData.Data.General.ByteData.ByteData(System.String, System.Byte)
+  nameWithType: ByteData.ByteData(String, Byte)
+- uid: MackySoft.UniData.Data.General.ByteData.#ctor*
+  name: ByteData
+  href: api/MackySoft.UniData.Data.General.ByteData.html#MackySoft_UniData_Data_General_ByteData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.ByteData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.ByteData.ByteData
+  nameWithType: ByteData.ByteData
+- uid: MackySoft.UniData.Data.General.ColorData
+  name: ColorData
+  href: api/MackySoft.UniData.Data.General.ColorData.html
+  commentId: T:MackySoft.UniData.Data.General.ColorData
+  fullName: MackySoft.UniData.Data.General.ColorData
+  nameWithType: ColorData
+- uid: MackySoft.UniData.Data.General.ColorData.#ctor
+  name: ColorData()
+  href: api/MackySoft.UniData.Data.General.ColorData.html#MackySoft_UniData_Data_General_ColorData__ctor
+  commentId: M:MackySoft.UniData.Data.General.ColorData.#ctor
+  fullName: MackySoft.UniData.Data.General.ColorData.ColorData()
+  nameWithType: ColorData.ColorData()
+- uid: MackySoft.UniData.Data.General.ColorData.#ctor(System.String)
+  name: ColorData(String)
+  href: api/MackySoft.UniData.Data.General.ColorData.html#MackySoft_UniData_Data_General_ColorData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.ColorData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.ColorData.ColorData(System.String)
+  nameWithType: ColorData.ColorData(String)
+- uid: MackySoft.UniData.Data.General.ColorData.#ctor(System.String,Color)
+  name: ColorData(String, Color)
+  href: api/MackySoft.UniData.Data.General.ColorData.html#MackySoft_UniData_Data_General_ColorData__ctor_System_String_Color_
+  commentId: M:MackySoft.UniData.Data.General.ColorData.#ctor(System.String,Color)
+  fullName: MackySoft.UniData.Data.General.ColorData.ColorData(System.String, Color)
+  nameWithType: ColorData.ColorData(String, Color)
+- uid: MackySoft.UniData.Data.General.ColorData.#ctor*
+  name: ColorData
+  href: api/MackySoft.UniData.Data.General.ColorData.html#MackySoft_UniData_Data_General_ColorData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.ColorData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.ColorData.ColorData
+  nameWithType: ColorData.ColorData
+- uid: MackySoft.UniData.Data.General.DoubleData
+  name: DoubleData
+  href: api/MackySoft.UniData.Data.General.DoubleData.html
+  commentId: T:MackySoft.UniData.Data.General.DoubleData
+  fullName: MackySoft.UniData.Data.General.DoubleData
+  nameWithType: DoubleData
+- uid: MackySoft.UniData.Data.General.DoubleData.#ctor
+  name: DoubleData()
+  href: api/MackySoft.UniData.Data.General.DoubleData.html#MackySoft_UniData_Data_General_DoubleData__ctor
+  commentId: M:MackySoft.UniData.Data.General.DoubleData.#ctor
+  fullName: MackySoft.UniData.Data.General.DoubleData.DoubleData()
+  nameWithType: DoubleData.DoubleData()
+- uid: MackySoft.UniData.Data.General.DoubleData.#ctor(System.String)
+  name: DoubleData(String)
+  href: api/MackySoft.UniData.Data.General.DoubleData.html#MackySoft_UniData_Data_General_DoubleData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.DoubleData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.DoubleData.DoubleData(System.String)
+  nameWithType: DoubleData.DoubleData(String)
+- uid: MackySoft.UniData.Data.General.DoubleData.#ctor(System.String,System.Double)
+  name: DoubleData(String, Double)
+  href: api/MackySoft.UniData.Data.General.DoubleData.html#MackySoft_UniData_Data_General_DoubleData__ctor_System_String_System_Double_
+  commentId: M:MackySoft.UniData.Data.General.DoubleData.#ctor(System.String,System.Double)
+  fullName: MackySoft.UniData.Data.General.DoubleData.DoubleData(System.String, System.Double)
+  nameWithType: DoubleData.DoubleData(String, Double)
+- uid: MackySoft.UniData.Data.General.DoubleData.#ctor*
+  name: DoubleData
+  href: api/MackySoft.UniData.Data.General.DoubleData.html#MackySoft_UniData_Data_General_DoubleData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.DoubleData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.DoubleData.DoubleData
+  nameWithType: DoubleData.DoubleData
+- uid: MackySoft.UniData.Data.General.FloatData
+  name: FloatData
+  href: api/MackySoft.UniData.Data.General.FloatData.html
+  commentId: T:MackySoft.UniData.Data.General.FloatData
+  fullName: MackySoft.UniData.Data.General.FloatData
+  nameWithType: FloatData
+- uid: MackySoft.UniData.Data.General.FloatData.#ctor
+  name: FloatData()
+  href: api/MackySoft.UniData.Data.General.FloatData.html#MackySoft_UniData_Data_General_FloatData__ctor
+  commentId: M:MackySoft.UniData.Data.General.FloatData.#ctor
+  fullName: MackySoft.UniData.Data.General.FloatData.FloatData()
+  nameWithType: FloatData.FloatData()
+- uid: MackySoft.UniData.Data.General.FloatData.#ctor(System.String)
+  name: FloatData(String)
+  href: api/MackySoft.UniData.Data.General.FloatData.html#MackySoft_UniData_Data_General_FloatData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.FloatData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.FloatData.FloatData(System.String)
+  nameWithType: FloatData.FloatData(String)
+- uid: MackySoft.UniData.Data.General.FloatData.#ctor(System.String,System.Single)
+  name: FloatData(String, Single)
+  href: api/MackySoft.UniData.Data.General.FloatData.html#MackySoft_UniData_Data_General_FloatData__ctor_System_String_System_Single_
+  commentId: M:MackySoft.UniData.Data.General.FloatData.#ctor(System.String,System.Single)
+  fullName: MackySoft.UniData.Data.General.FloatData.FloatData(System.String, System.Single)
+  nameWithType: FloatData.FloatData(String, Single)
+- uid: MackySoft.UniData.Data.General.FloatData.#ctor*
+  name: FloatData
+  href: api/MackySoft.UniData.Data.General.FloatData.html#MackySoft_UniData_Data_General_FloatData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.FloatData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.FloatData.FloatData
+  nameWithType: FloatData.FloatData
+- uid: MackySoft.UniData.Data.General.GradientData
+  name: GradientData
+  href: api/MackySoft.UniData.Data.General.GradientData.html
+  commentId: T:MackySoft.UniData.Data.General.GradientData
+  fullName: MackySoft.UniData.Data.General.GradientData
+  nameWithType: GradientData
+- uid: MackySoft.UniData.Data.General.GradientData.#ctor
+  name: GradientData()
+  href: api/MackySoft.UniData.Data.General.GradientData.html#MackySoft_UniData_Data_General_GradientData__ctor
+  commentId: M:MackySoft.UniData.Data.General.GradientData.#ctor
+  fullName: MackySoft.UniData.Data.General.GradientData.GradientData()
+  nameWithType: GradientData.GradientData()
+- uid: MackySoft.UniData.Data.General.GradientData.#ctor(System.String)
+  name: GradientData(String)
+  href: api/MackySoft.UniData.Data.General.GradientData.html#MackySoft_UniData_Data_General_GradientData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.GradientData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.GradientData.GradientData(System.String)
+  nameWithType: GradientData.GradientData(String)
+- uid: MackySoft.UniData.Data.General.GradientData.#ctor(System.String,Gradient)
+  name: GradientData(String, Gradient)
+  href: api/MackySoft.UniData.Data.General.GradientData.html#MackySoft_UniData_Data_General_GradientData__ctor_System_String_Gradient_
+  commentId: M:MackySoft.UniData.Data.General.GradientData.#ctor(System.String,Gradient)
+  fullName: MackySoft.UniData.Data.General.GradientData.GradientData(System.String, Gradient)
+  nameWithType: GradientData.GradientData(String, Gradient)
+- uid: MackySoft.UniData.Data.General.GradientData.#ctor*
+  name: GradientData
+  href: api/MackySoft.UniData.Data.General.GradientData.html#MackySoft_UniData_Data_General_GradientData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.GradientData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.GradientData.GradientData
+  nameWithType: GradientData.GradientData
+- uid: MackySoft.UniData.Data.General.IntData
+  name: IntData
+  href: api/MackySoft.UniData.Data.General.IntData.html
+  commentId: T:MackySoft.UniData.Data.General.IntData
+  fullName: MackySoft.UniData.Data.General.IntData
+  nameWithType: IntData
+- uid: MackySoft.UniData.Data.General.IntData.#ctor
+  name: IntData()
+  href: api/MackySoft.UniData.Data.General.IntData.html#MackySoft_UniData_Data_General_IntData__ctor
+  commentId: M:MackySoft.UniData.Data.General.IntData.#ctor
+  fullName: MackySoft.UniData.Data.General.IntData.IntData()
+  nameWithType: IntData.IntData()
+- uid: MackySoft.UniData.Data.General.IntData.#ctor(System.String)
+  name: IntData(String)
+  href: api/MackySoft.UniData.Data.General.IntData.html#MackySoft_UniData_Data_General_IntData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.IntData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.IntData.IntData(System.String)
+  nameWithType: IntData.IntData(String)
+- uid: MackySoft.UniData.Data.General.IntData.#ctor(System.String,System.Int32)
+  name: IntData(String, Int32)
+  href: api/MackySoft.UniData.Data.General.IntData.html#MackySoft_UniData_Data_General_IntData__ctor_System_String_System_Int32_
+  commentId: M:MackySoft.UniData.Data.General.IntData.#ctor(System.String,System.Int32)
+  fullName: MackySoft.UniData.Data.General.IntData.IntData(System.String, System.Int32)
+  nameWithType: IntData.IntData(String, Int32)
+- uid: MackySoft.UniData.Data.General.IntData.#ctor*
+  name: IntData
+  href: api/MackySoft.UniData.Data.General.IntData.html#MackySoft_UniData_Data_General_IntData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.IntData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.IntData.IntData
+  nameWithType: IntData.IntData
+- uid: MackySoft.UniData.Data.General.LayerMaskData
+  name: LayerMaskData
+  href: api/MackySoft.UniData.Data.General.LayerMaskData.html
+  commentId: T:MackySoft.UniData.Data.General.LayerMaskData
+  fullName: MackySoft.UniData.Data.General.LayerMaskData
+  nameWithType: LayerMaskData
+- uid: MackySoft.UniData.Data.General.LayerMaskData.#ctor
+  name: LayerMaskData()
+  href: api/MackySoft.UniData.Data.General.LayerMaskData.html#MackySoft_UniData_Data_General_LayerMaskData__ctor
+  commentId: M:MackySoft.UniData.Data.General.LayerMaskData.#ctor
+  fullName: MackySoft.UniData.Data.General.LayerMaskData.LayerMaskData()
+  nameWithType: LayerMaskData.LayerMaskData()
+- uid: MackySoft.UniData.Data.General.LayerMaskData.#ctor(System.String)
+  name: LayerMaskData(String)
+  href: api/MackySoft.UniData.Data.General.LayerMaskData.html#MackySoft_UniData_Data_General_LayerMaskData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.LayerMaskData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.LayerMaskData.LayerMaskData(System.String)
+  nameWithType: LayerMaskData.LayerMaskData(String)
+- uid: MackySoft.UniData.Data.General.LayerMaskData.#ctor(System.String,LayerMask)
+  name: LayerMaskData(String, LayerMask)
+  href: api/MackySoft.UniData.Data.General.LayerMaskData.html#MackySoft_UniData_Data_General_LayerMaskData__ctor_System_String_LayerMask_
+  commentId: M:MackySoft.UniData.Data.General.LayerMaskData.#ctor(System.String,LayerMask)
+  fullName: MackySoft.UniData.Data.General.LayerMaskData.LayerMaskData(System.String, LayerMask)
+  nameWithType: LayerMaskData.LayerMaskData(String, LayerMask)
+- uid: MackySoft.UniData.Data.General.LayerMaskData.#ctor*
+  name: LayerMaskData
+  href: api/MackySoft.UniData.Data.General.LayerMaskData.html#MackySoft_UniData_Data_General_LayerMaskData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.LayerMaskData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.LayerMaskData.LayerMaskData
+  nameWithType: LayerMaskData.LayerMaskData
+- uid: MackySoft.UniData.Data.General.LongData
+  name: LongData
+  href: api/MackySoft.UniData.Data.General.LongData.html
+  commentId: T:MackySoft.UniData.Data.General.LongData
+  fullName: MackySoft.UniData.Data.General.LongData
+  nameWithType: LongData
+- uid: MackySoft.UniData.Data.General.LongData.#ctor
+  name: LongData()
+  href: api/MackySoft.UniData.Data.General.LongData.html#MackySoft_UniData_Data_General_LongData__ctor
+  commentId: M:MackySoft.UniData.Data.General.LongData.#ctor
+  fullName: MackySoft.UniData.Data.General.LongData.LongData()
+  nameWithType: LongData.LongData()
+- uid: MackySoft.UniData.Data.General.LongData.#ctor(System.String)
+  name: LongData(String)
+  href: api/MackySoft.UniData.Data.General.LongData.html#MackySoft_UniData_Data_General_LongData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.LongData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.LongData.LongData(System.String)
+  nameWithType: LongData.LongData(String)
+- uid: MackySoft.UniData.Data.General.LongData.#ctor(System.String,System.Int64)
+  name: LongData(String, Int64)
+  href: api/MackySoft.UniData.Data.General.LongData.html#MackySoft_UniData_Data_General_LongData__ctor_System_String_System_Int64_
+  commentId: M:MackySoft.UniData.Data.General.LongData.#ctor(System.String,System.Int64)
+  fullName: MackySoft.UniData.Data.General.LongData.LongData(System.String, System.Int64)
+  nameWithType: LongData.LongData(String, Int64)
+- uid: MackySoft.UniData.Data.General.LongData.#ctor*
+  name: LongData
+  href: api/MackySoft.UniData.Data.General.LongData.html#MackySoft_UniData_Data_General_LongData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.LongData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.LongData.LongData
+  nameWithType: LongData.LongData
+- uid: MackySoft.UniData.Data.General.QuaternionData
+  name: QuaternionData
+  href: api/MackySoft.UniData.Data.General.QuaternionData.html
+  commentId: T:MackySoft.UniData.Data.General.QuaternionData
+  fullName: MackySoft.UniData.Data.General.QuaternionData
+  nameWithType: QuaternionData
+- uid: MackySoft.UniData.Data.General.QuaternionData.#ctor
+  name: QuaternionData()
+  href: api/MackySoft.UniData.Data.General.QuaternionData.html#MackySoft_UniData_Data_General_QuaternionData__ctor
+  commentId: M:MackySoft.UniData.Data.General.QuaternionData.#ctor
+  fullName: MackySoft.UniData.Data.General.QuaternionData.QuaternionData()
+  nameWithType: QuaternionData.QuaternionData()
+- uid: MackySoft.UniData.Data.General.QuaternionData.#ctor(System.String)
+  name: QuaternionData(String)
+  href: api/MackySoft.UniData.Data.General.QuaternionData.html#MackySoft_UniData_Data_General_QuaternionData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.QuaternionData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.QuaternionData.QuaternionData(System.String)
+  nameWithType: QuaternionData.QuaternionData(String)
+- uid: MackySoft.UniData.Data.General.QuaternionData.#ctor(System.String,Quaternion)
+  name: QuaternionData(String, Quaternion)
+  href: api/MackySoft.UniData.Data.General.QuaternionData.html#MackySoft_UniData_Data_General_QuaternionData__ctor_System_String_Quaternion_
+  commentId: M:MackySoft.UniData.Data.General.QuaternionData.#ctor(System.String,Quaternion)
+  fullName: MackySoft.UniData.Data.General.QuaternionData.QuaternionData(System.String, Quaternion)
+  nameWithType: QuaternionData.QuaternionData(String, Quaternion)
+- uid: MackySoft.UniData.Data.General.QuaternionData.#ctor*
+  name: QuaternionData
+  href: api/MackySoft.UniData.Data.General.QuaternionData.html#MackySoft_UniData_Data_General_QuaternionData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.QuaternionData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.QuaternionData.QuaternionData
+  nameWithType: QuaternionData.QuaternionData
+- uid: MackySoft.UniData.Data.General.RectData
+  name: RectData
+  href: api/MackySoft.UniData.Data.General.RectData.html
+  commentId: T:MackySoft.UniData.Data.General.RectData
+  fullName: MackySoft.UniData.Data.General.RectData
+  nameWithType: RectData
+- uid: MackySoft.UniData.Data.General.RectData.#ctor
+  name: RectData()
+  href: api/MackySoft.UniData.Data.General.RectData.html#MackySoft_UniData_Data_General_RectData__ctor
+  commentId: M:MackySoft.UniData.Data.General.RectData.#ctor
+  fullName: MackySoft.UniData.Data.General.RectData.RectData()
+  nameWithType: RectData.RectData()
+- uid: MackySoft.UniData.Data.General.RectData.#ctor(System.String)
+  name: RectData(String)
+  href: api/MackySoft.UniData.Data.General.RectData.html#MackySoft_UniData_Data_General_RectData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.RectData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.RectData.RectData(System.String)
+  nameWithType: RectData.RectData(String)
+- uid: MackySoft.UniData.Data.General.RectData.#ctor(System.String,Rect)
+  name: RectData(String, Rect)
+  href: api/MackySoft.UniData.Data.General.RectData.html#MackySoft_UniData_Data_General_RectData__ctor_System_String_Rect_
+  commentId: M:MackySoft.UniData.Data.General.RectData.#ctor(System.String,Rect)
+  fullName: MackySoft.UniData.Data.General.RectData.RectData(System.String, Rect)
+  nameWithType: RectData.RectData(String, Rect)
+- uid: MackySoft.UniData.Data.General.RectData.#ctor*
+  name: RectData
+  href: api/MackySoft.UniData.Data.General.RectData.html#MackySoft_UniData_Data_General_RectData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.RectData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.RectData.RectData
+  nameWithType: RectData.RectData
+- uid: MackySoft.UniData.Data.General.RectIntData
+  name: RectIntData
+  href: api/MackySoft.UniData.Data.General.RectIntData.html
+  commentId: T:MackySoft.UniData.Data.General.RectIntData
+  fullName: MackySoft.UniData.Data.General.RectIntData
+  nameWithType: RectIntData
+- uid: MackySoft.UniData.Data.General.RectIntData.#ctor
+  name: RectIntData()
+  href: api/MackySoft.UniData.Data.General.RectIntData.html#MackySoft_UniData_Data_General_RectIntData__ctor
+  commentId: M:MackySoft.UniData.Data.General.RectIntData.#ctor
+  fullName: MackySoft.UniData.Data.General.RectIntData.RectIntData()
+  nameWithType: RectIntData.RectIntData()
+- uid: MackySoft.UniData.Data.General.RectIntData.#ctor(System.String)
+  name: RectIntData(String)
+  href: api/MackySoft.UniData.Data.General.RectIntData.html#MackySoft_UniData_Data_General_RectIntData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.RectIntData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.RectIntData.RectIntData(System.String)
+  nameWithType: RectIntData.RectIntData(String)
+- uid: MackySoft.UniData.Data.General.RectIntData.#ctor(System.String,RectInt)
+  name: RectIntData(String, RectInt)
+  href: api/MackySoft.UniData.Data.General.RectIntData.html#MackySoft_UniData_Data_General_RectIntData__ctor_System_String_RectInt_
+  commentId: M:MackySoft.UniData.Data.General.RectIntData.#ctor(System.String,RectInt)
+  fullName: MackySoft.UniData.Data.General.RectIntData.RectIntData(System.String, RectInt)
+  nameWithType: RectIntData.RectIntData(String, RectInt)
+- uid: MackySoft.UniData.Data.General.RectIntData.#ctor*
+  name: RectIntData
+  href: api/MackySoft.UniData.Data.General.RectIntData.html#MackySoft_UniData_Data_General_RectIntData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.RectIntData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.RectIntData.RectIntData
+  nameWithType: RectIntData.RectIntData
+- uid: MackySoft.UniData.Data.General.StringData
+  name: StringData
+  href: api/MackySoft.UniData.Data.General.StringData.html
+  commentId: T:MackySoft.UniData.Data.General.StringData
+  fullName: MackySoft.UniData.Data.General.StringData
+  nameWithType: StringData
+- uid: MackySoft.UniData.Data.General.StringData.#ctor
+  name: StringData()
+  href: api/MackySoft.UniData.Data.General.StringData.html#MackySoft_UniData_Data_General_StringData__ctor
+  commentId: M:MackySoft.UniData.Data.General.StringData.#ctor
+  fullName: MackySoft.UniData.Data.General.StringData.StringData()
+  nameWithType: StringData.StringData()
+- uid: MackySoft.UniData.Data.General.StringData.#ctor(System.String)
+  name: StringData(String)
+  href: api/MackySoft.UniData.Data.General.StringData.html#MackySoft_UniData_Data_General_StringData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.StringData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.StringData.StringData(System.String)
+  nameWithType: StringData.StringData(String)
+- uid: MackySoft.UniData.Data.General.StringData.#ctor(System.String,System.String)
+  name: StringData(String, String)
+  href: api/MackySoft.UniData.Data.General.StringData.html#MackySoft_UniData_Data_General_StringData__ctor_System_String_System_String_
+  commentId: M:MackySoft.UniData.Data.General.StringData.#ctor(System.String,System.String)
+  fullName: MackySoft.UniData.Data.General.StringData.StringData(System.String, System.String)
+  nameWithType: StringData.StringData(String, String)
+- uid: MackySoft.UniData.Data.General.StringData.#ctor*
+  name: StringData
+  href: api/MackySoft.UniData.Data.General.StringData.html#MackySoft_UniData_Data_General_StringData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.StringData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.StringData.StringData
+  nameWithType: StringData.StringData
+- uid: MackySoft.UniData.Data.General.Vector2Data
+  name: Vector2Data
+  href: api/MackySoft.UniData.Data.General.Vector2Data.html
+  commentId: T:MackySoft.UniData.Data.General.Vector2Data
+  fullName: MackySoft.UniData.Data.General.Vector2Data
+  nameWithType: Vector2Data
+- uid: MackySoft.UniData.Data.General.Vector2Data.#ctor
+  name: Vector2Data()
+  href: api/MackySoft.UniData.Data.General.Vector2Data.html#MackySoft_UniData_Data_General_Vector2Data__ctor
+  commentId: M:MackySoft.UniData.Data.General.Vector2Data.#ctor
+  fullName: MackySoft.UniData.Data.General.Vector2Data.Vector2Data()
+  nameWithType: Vector2Data.Vector2Data()
+- uid: MackySoft.UniData.Data.General.Vector2Data.#ctor(System.String)
+  name: Vector2Data(String)
+  href: api/MackySoft.UniData.Data.General.Vector2Data.html#MackySoft_UniData_Data_General_Vector2Data__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.Vector2Data.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.Vector2Data.Vector2Data(System.String)
+  nameWithType: Vector2Data.Vector2Data(String)
+- uid: MackySoft.UniData.Data.General.Vector2Data.#ctor(System.String,Vector2)
+  name: Vector2Data(String, Vector2)
+  href: api/MackySoft.UniData.Data.General.Vector2Data.html#MackySoft_UniData_Data_General_Vector2Data__ctor_System_String_Vector2_
+  commentId: M:MackySoft.UniData.Data.General.Vector2Data.#ctor(System.String,Vector2)
+  fullName: MackySoft.UniData.Data.General.Vector2Data.Vector2Data(System.String, Vector2)
+  nameWithType: Vector2Data.Vector2Data(String, Vector2)
+- uid: MackySoft.UniData.Data.General.Vector2Data.#ctor*
+  name: Vector2Data
+  href: api/MackySoft.UniData.Data.General.Vector2Data.html#MackySoft_UniData_Data_General_Vector2Data__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.Vector2Data.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.Vector2Data.Vector2Data
+  nameWithType: Vector2Data.Vector2Data
+- uid: MackySoft.UniData.Data.General.Vector2IntData
+  name: Vector2IntData
+  href: api/MackySoft.UniData.Data.General.Vector2IntData.html
+  commentId: T:MackySoft.UniData.Data.General.Vector2IntData
+  fullName: MackySoft.UniData.Data.General.Vector2IntData
+  nameWithType: Vector2IntData
+- uid: MackySoft.UniData.Data.General.Vector2IntData.#ctor
+  name: Vector2IntData()
+  href: api/MackySoft.UniData.Data.General.Vector2IntData.html#MackySoft_UniData_Data_General_Vector2IntData__ctor
+  commentId: M:MackySoft.UniData.Data.General.Vector2IntData.#ctor
+  fullName: MackySoft.UniData.Data.General.Vector2IntData.Vector2IntData()
+  nameWithType: Vector2IntData.Vector2IntData()
+- uid: MackySoft.UniData.Data.General.Vector2IntData.#ctor(System.String)
+  name: Vector2IntData(String)
+  href: api/MackySoft.UniData.Data.General.Vector2IntData.html#MackySoft_UniData_Data_General_Vector2IntData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.Vector2IntData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.Vector2IntData.Vector2IntData(System.String)
+  nameWithType: Vector2IntData.Vector2IntData(String)
+- uid: MackySoft.UniData.Data.General.Vector2IntData.#ctor(System.String,Vector2Int)
+  name: Vector2IntData(String, Vector2Int)
+  href: api/MackySoft.UniData.Data.General.Vector2IntData.html#MackySoft_UniData_Data_General_Vector2IntData__ctor_System_String_Vector2Int_
+  commentId: M:MackySoft.UniData.Data.General.Vector2IntData.#ctor(System.String,Vector2Int)
+  fullName: MackySoft.UniData.Data.General.Vector2IntData.Vector2IntData(System.String, Vector2Int)
+  nameWithType: Vector2IntData.Vector2IntData(String, Vector2Int)
+- uid: MackySoft.UniData.Data.General.Vector2IntData.#ctor*
+  name: Vector2IntData
+  href: api/MackySoft.UniData.Data.General.Vector2IntData.html#MackySoft_UniData_Data_General_Vector2IntData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.Vector2IntData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.Vector2IntData.Vector2IntData
+  nameWithType: Vector2IntData.Vector2IntData
+- uid: MackySoft.UniData.Data.General.Vector3Data
+  name: Vector3Data
+  href: api/MackySoft.UniData.Data.General.Vector3Data.html
+  commentId: T:MackySoft.UniData.Data.General.Vector3Data
+  fullName: MackySoft.UniData.Data.General.Vector3Data
+  nameWithType: Vector3Data
+- uid: MackySoft.UniData.Data.General.Vector3Data.#ctor
+  name: Vector3Data()
+  href: api/MackySoft.UniData.Data.General.Vector3Data.html#MackySoft_UniData_Data_General_Vector3Data__ctor
+  commentId: M:MackySoft.UniData.Data.General.Vector3Data.#ctor
+  fullName: MackySoft.UniData.Data.General.Vector3Data.Vector3Data()
+  nameWithType: Vector3Data.Vector3Data()
+- uid: MackySoft.UniData.Data.General.Vector3Data.#ctor(System.String)
+  name: Vector3Data(String)
+  href: api/MackySoft.UniData.Data.General.Vector3Data.html#MackySoft_UniData_Data_General_Vector3Data__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.Vector3Data.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.Vector3Data.Vector3Data(System.String)
+  nameWithType: Vector3Data.Vector3Data(String)
+- uid: MackySoft.UniData.Data.General.Vector3Data.#ctor(System.String,Vector3)
+  name: Vector3Data(String, Vector3)
+  href: api/MackySoft.UniData.Data.General.Vector3Data.html#MackySoft_UniData_Data_General_Vector3Data__ctor_System_String_Vector3_
+  commentId: M:MackySoft.UniData.Data.General.Vector3Data.#ctor(System.String,Vector3)
+  fullName: MackySoft.UniData.Data.General.Vector3Data.Vector3Data(System.String, Vector3)
+  nameWithType: Vector3Data.Vector3Data(String, Vector3)
+- uid: MackySoft.UniData.Data.General.Vector3Data.#ctor*
+  name: Vector3Data
+  href: api/MackySoft.UniData.Data.General.Vector3Data.html#MackySoft_UniData_Data_General_Vector3Data__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.Vector3Data.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.Vector3Data.Vector3Data
+  nameWithType: Vector3Data.Vector3Data
+- uid: MackySoft.UniData.Data.General.Vector3IntData
+  name: Vector3IntData
+  href: api/MackySoft.UniData.Data.General.Vector3IntData.html
+  commentId: T:MackySoft.UniData.Data.General.Vector3IntData
+  fullName: MackySoft.UniData.Data.General.Vector3IntData
+  nameWithType: Vector3IntData
+- uid: MackySoft.UniData.Data.General.Vector3IntData.#ctor
+  name: Vector3IntData()
+  href: api/MackySoft.UniData.Data.General.Vector3IntData.html#MackySoft_UniData_Data_General_Vector3IntData__ctor
+  commentId: M:MackySoft.UniData.Data.General.Vector3IntData.#ctor
+  fullName: MackySoft.UniData.Data.General.Vector3IntData.Vector3IntData()
+  nameWithType: Vector3IntData.Vector3IntData()
+- uid: MackySoft.UniData.Data.General.Vector3IntData.#ctor(System.String)
+  name: Vector3IntData(String)
+  href: api/MackySoft.UniData.Data.General.Vector3IntData.html#MackySoft_UniData_Data_General_Vector3IntData__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.Vector3IntData.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.Vector3IntData.Vector3IntData(System.String)
+  nameWithType: Vector3IntData.Vector3IntData(String)
+- uid: MackySoft.UniData.Data.General.Vector3IntData.#ctor(System.String,Vector3Int)
+  name: Vector3IntData(String, Vector3Int)
+  href: api/MackySoft.UniData.Data.General.Vector3IntData.html#MackySoft_UniData_Data_General_Vector3IntData__ctor_System_String_Vector3Int_
+  commentId: M:MackySoft.UniData.Data.General.Vector3IntData.#ctor(System.String,Vector3Int)
+  fullName: MackySoft.UniData.Data.General.Vector3IntData.Vector3IntData(System.String, Vector3Int)
+  nameWithType: Vector3IntData.Vector3IntData(String, Vector3Int)
+- uid: MackySoft.UniData.Data.General.Vector3IntData.#ctor*
+  name: Vector3IntData
+  href: api/MackySoft.UniData.Data.General.Vector3IntData.html#MackySoft_UniData_Data_General_Vector3IntData__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.Vector3IntData.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.Vector3IntData.Vector3IntData
+  nameWithType: Vector3IntData.Vector3IntData
+- uid: MackySoft.UniData.Data.General.Vector4Data
+  name: Vector4Data
+  href: api/MackySoft.UniData.Data.General.Vector4Data.html
+  commentId: T:MackySoft.UniData.Data.General.Vector4Data
+  fullName: MackySoft.UniData.Data.General.Vector4Data
+  nameWithType: Vector4Data
+- uid: MackySoft.UniData.Data.General.Vector4Data.#ctor
+  name: Vector4Data()
+  href: api/MackySoft.UniData.Data.General.Vector4Data.html#MackySoft_UniData_Data_General_Vector4Data__ctor
+  commentId: M:MackySoft.UniData.Data.General.Vector4Data.#ctor
+  fullName: MackySoft.UniData.Data.General.Vector4Data.Vector4Data()
+  nameWithType: Vector4Data.Vector4Data()
+- uid: MackySoft.UniData.Data.General.Vector4Data.#ctor(System.String)
+  name: Vector4Data(String)
+  href: api/MackySoft.UniData.Data.General.Vector4Data.html#MackySoft_UniData_Data_General_Vector4Data__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.General.Vector4Data.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.General.Vector4Data.Vector4Data(System.String)
+  nameWithType: Vector4Data.Vector4Data(String)
+- uid: MackySoft.UniData.Data.General.Vector4Data.#ctor(System.String,Vector4)
+  name: Vector4Data(String, Vector4)
+  href: api/MackySoft.UniData.Data.General.Vector4Data.html#MackySoft_UniData_Data_General_Vector4Data__ctor_System_String_Vector4_
+  commentId: M:MackySoft.UniData.Data.General.Vector4Data.#ctor(System.String,Vector4)
+  fullName: MackySoft.UniData.Data.General.Vector4Data.Vector4Data(System.String, Vector4)
+  nameWithType: Vector4Data.Vector4Data(String, Vector4)
+- uid: MackySoft.UniData.Data.General.Vector4Data.#ctor*
+  name: Vector4Data
+  href: api/MackySoft.UniData.Data.General.Vector4Data.html#MackySoft_UniData_Data_General_Vector4Data__ctor_
+  commentId: Overload:MackySoft.UniData.Data.General.Vector4Data.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.General.Vector4Data.Vector4Data
+  nameWithType: Vector4Data.Vector4Data
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1
+  name: ReadOnlyDataBase<T>
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html
+  commentId: T:MackySoft.UniData.Data.ReadOnlyDataBase`1
+  name.vb: ReadOnlyDataBase(Of T)
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T)
+  nameWithType: ReadOnlyDataBase<T>
+  nameWithType.vb: ReadOnlyDataBase(Of T)
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.#ctor
+  name: ReadOnlyDataBase()
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1__ctor
+  commentId: M:MackySoft.UniData.Data.ReadOnlyDataBase`1.#ctor
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.ReadOnlyDataBase()
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).ReadOnlyDataBase()
+  nameWithType: ReadOnlyDataBase<T>.ReadOnlyDataBase()
+  nameWithType.vb: ReadOnlyDataBase(Of T).ReadOnlyDataBase()
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.#ctor(System.String)
+  name: ReadOnlyDataBase(String)
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1__ctor_System_String_
+  commentId: M:MackySoft.UniData.Data.ReadOnlyDataBase`1.#ctor(System.String)
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.ReadOnlyDataBase(System.String)
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).ReadOnlyDataBase(System.String)
+  nameWithType: ReadOnlyDataBase<T>.ReadOnlyDataBase(String)
+  nameWithType.vb: ReadOnlyDataBase(Of T).ReadOnlyDataBase(String)
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.#ctor*
+  name: ReadOnlyDataBase
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1__ctor_
+  commentId: Overload:MackySoft.UniData.Data.ReadOnlyDataBase`1.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.ReadOnlyDataBase
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).ReadOnlyDataBase
+  nameWithType: ReadOnlyDataBase<T>.ReadOnlyDataBase
+  nameWithType.vb: ReadOnlyDataBase(Of T).ReadOnlyDataBase
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.Id
+  name: Id
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1_Id
+  commentId: P:MackySoft.UniData.Data.ReadOnlyDataBase`1.Id
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.Id
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).Id
+  nameWithType: ReadOnlyDataBase<T>.Id
+  nameWithType.vb: ReadOnlyDataBase(Of T).Id
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.Id*
+  name: Id
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1_Id_
+  commentId: Overload:MackySoft.UniData.Data.ReadOnlyDataBase`1.Id
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.Id
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).Id
+  nameWithType: ReadOnlyDataBase<T>.Id
+  nameWithType.vb: ReadOnlyDataBase(Of T).Id
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.m_Id
+  name: m_Id
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1_m_Id
+  commentId: F:MackySoft.UniData.Data.ReadOnlyDataBase`1.m_Id
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.m_Id
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).m_Id
+  nameWithType: ReadOnlyDataBase<T>.m_Id
+  nameWithType.vb: ReadOnlyDataBase(Of T).m_Id
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.MackySoft#UniData#IReadOnlyData#Value
+  name: IReadOnlyData.Value
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1_MackySoft_UniData_IReadOnlyData_Value
+  commentId: P:MackySoft.UniData.Data.ReadOnlyDataBase`1.MackySoft#UniData#IReadOnlyData#Value
+  name.vb: MackySoft.UniData.IReadOnlyData.Value
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.MackySoft.UniData.IReadOnlyData.Value
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).MackySoft.UniData.IReadOnlyData.Value
+  nameWithType: ReadOnlyDataBase<T>.IReadOnlyData.Value
+  nameWithType.vb: ReadOnlyDataBase(Of T).MackySoft.UniData.IReadOnlyData.Value
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.MackySoft#UniData#IReadOnlyData#Value*
+  name: IReadOnlyData.Value
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1_MackySoft_UniData_IReadOnlyData_Value_
+  commentId: Overload:MackySoft.UniData.Data.ReadOnlyDataBase`1.MackySoft#UniData#IReadOnlyData#Value
+  isSpec: "True"
+  name.vb: MackySoft.UniData.IReadOnlyData.Value
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.MackySoft.UniData.IReadOnlyData.Value
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).MackySoft.UniData.IReadOnlyData.Value
+  nameWithType: ReadOnlyDataBase<T>.IReadOnlyData.Value
+  nameWithType.vb: ReadOnlyDataBase(Of T).MackySoft.UniData.IReadOnlyData.Value
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.Value
+  name: Value
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1_Value
+  commentId: P:MackySoft.UniData.Data.ReadOnlyDataBase`1.Value
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.Value
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).Value
+  nameWithType: ReadOnlyDataBase<T>.Value
+  nameWithType.vb: ReadOnlyDataBase(Of T).Value
+- uid: MackySoft.UniData.Data.ReadOnlyDataBase`1.Value*
+  name: Value
+  href: api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html#MackySoft_UniData_Data_ReadOnlyDataBase_1_Value_
+  commentId: Overload:MackySoft.UniData.Data.ReadOnlyDataBase`1.Value
+  isSpec: "True"
+  fullName: MackySoft.UniData.Data.ReadOnlyDataBase<T>.Value
+  fullName.vb: MackySoft.UniData.Data.ReadOnlyDataBase(Of T).Value
+  nameWithType: ReadOnlyDataBase<T>.Value
+  nameWithType.vb: ReadOnlyDataBase(Of T).Value
+- uid: MackySoft.UniData.DataCatalog
+  name: DataCatalog
+  href: api/MackySoft.UniData.DataCatalog.html
+  commentId: T:MackySoft.UniData.DataCatalog
+  fullName: MackySoft.UniData.DataCatalog
+  nameWithType: DataCatalog
+- uid: MackySoft.UniData.DataCatalog.Add(MackySoft.UniData.IEntry)
+  name: Add(IEntry)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Add_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.DataCatalog.Add(MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.DataCatalog.Add(MackySoft.UniData.IEntry)
+  nameWithType: DataCatalog.Add(IEntry)
+- uid: MackySoft.UniData.DataCatalog.Add*
+  name: Add
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Add_
+  commentId: Overload:MackySoft.UniData.DataCatalog.Add
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.Add
+  nameWithType: DataCatalog.Add
+- uid: MackySoft.UniData.DataCatalog.Clear
+  name: Clear()
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Clear
+  commentId: M:MackySoft.UniData.DataCatalog.Clear
+  fullName: MackySoft.UniData.DataCatalog.Clear()
+  nameWithType: DataCatalog.Clear()
+- uid: MackySoft.UniData.DataCatalog.Clear*
+  name: Clear
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Clear_
+  commentId: Overload:MackySoft.UniData.DataCatalog.Clear
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.Clear
+  nameWithType: DataCatalog.Clear
+- uid: MackySoft.UniData.DataCatalog.ClearEntries
+  name: ClearEntries()
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_ClearEntries
+  commentId: M:MackySoft.UniData.DataCatalog.ClearEntries
+  fullName: MackySoft.UniData.DataCatalog.ClearEntries()
+  nameWithType: DataCatalog.ClearEntries()
+- uid: MackySoft.UniData.DataCatalog.ClearEntries*
+  name: ClearEntries
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_ClearEntries_
+  commentId: Overload:MackySoft.UniData.DataCatalog.ClearEntries
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.ClearEntries
+  nameWithType: DataCatalog.ClearEntries
+- uid: MackySoft.UniData.DataCatalog.CopyTo(MackySoft.UniData.IEntry[],System.Int32)
+  name: CopyTo(IEntry[], Int32)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_CopyTo_MackySoft_UniData_IEntry___System_Int32_
+  commentId: M:MackySoft.UniData.DataCatalog.CopyTo(MackySoft.UniData.IEntry[],System.Int32)
+  name.vb: CopyTo(IEntry(), Int32)
+  fullName: MackySoft.UniData.DataCatalog.CopyTo(MackySoft.UniData.IEntry[], System.Int32)
+  fullName.vb: MackySoft.UniData.DataCatalog.CopyTo(MackySoft.UniData.IEntry(), System.Int32)
+  nameWithType: DataCatalog.CopyTo(IEntry[], Int32)
+  nameWithType.vb: DataCatalog.CopyTo(IEntry(), Int32)
+- uid: MackySoft.UniData.DataCatalog.CopyTo*
+  name: CopyTo
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_CopyTo_
+  commentId: Overload:MackySoft.UniData.DataCatalog.CopyTo
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.CopyTo
+  nameWithType: DataCatalog.CopyTo
+- uid: MackySoft.UniData.DataCatalog.Count
+  name: Count
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Count
+  commentId: P:MackySoft.UniData.DataCatalog.Count
+  fullName: MackySoft.UniData.DataCatalog.Count
+  nameWithType: DataCatalog.Count
+- uid: MackySoft.UniData.DataCatalog.Count*
+  name: Count
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Count_
+  commentId: Overload:MackySoft.UniData.DataCatalog.Count
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.Count
+  nameWithType: DataCatalog.Count
+- uid: MackySoft.UniData.DataCatalog.Create*
+  name: Create
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Create_
+  commentId: Overload:MackySoft.UniData.DataCatalog.Create
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.Create
+  nameWithType: DataCatalog.Create
+- uid: MackySoft.UniData.DataCatalog.Create``1(System.String)
+  name: Create<T>(String)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Create__1_System_String_
+  commentId: M:MackySoft.UniData.DataCatalog.Create``1(System.String)
+  name.vb: Create(Of T)(String)
+  fullName: MackySoft.UniData.DataCatalog.Create<T>(System.String)
+  fullName.vb: MackySoft.UniData.DataCatalog.Create(Of T)(System.String)
+  nameWithType: DataCatalog.Create<T>(String)
+  nameWithType.vb: DataCatalog.Create(Of T)(String)
+- uid: MackySoft.UniData.DataCatalog.Create``1(System.String,System.Collections.Generic.IEnumerable{MackySoft.UniData.IEntry})
+  name: Create<T>(String, IEnumerable<IEntry>)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Create__1_System_String_System_Collections_Generic_IEnumerable_MackySoft_UniData_IEntry__
+  commentId: M:MackySoft.UniData.DataCatalog.Create``1(System.String,System.Collections.Generic.IEnumerable{MackySoft.UniData.IEntry})
+  name.vb: Create(Of T)(String, IEnumerable(Of IEntry))
+  fullName: MackySoft.UniData.DataCatalog.Create<T>(System.String, System.Collections.Generic.IEnumerable<MackySoft.UniData.IEntry>)
+  fullName.vb: MackySoft.UniData.DataCatalog.Create(Of T)(System.String, System.Collections.Generic.IEnumerable(Of MackySoft.UniData.IEntry))
+  nameWithType: DataCatalog.Create<T>(String, IEnumerable<IEntry>)
+  nameWithType.vb: DataCatalog.Create(Of T)(String, IEnumerable(Of IEntry))
+- uid: MackySoft.UniData.DataCatalog.GetEntriesOfType*
+  name: GetEntriesOfType
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_GetEntriesOfType_
+  commentId: Overload:MackySoft.UniData.DataCatalog.GetEntriesOfType
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.GetEntriesOfType
+  nameWithType: DataCatalog.GetEntriesOfType
+- uid: MackySoft.UniData.DataCatalog.GetEntriesOfType``1
+  name: GetEntriesOfType<T>()
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_GetEntriesOfType__1
+  commentId: M:MackySoft.UniData.DataCatalog.GetEntriesOfType``1
+  name.vb: GetEntriesOfType(Of T)()
+  fullName: MackySoft.UniData.DataCatalog.GetEntriesOfType<T>()
+  fullName.vb: MackySoft.UniData.DataCatalog.GetEntriesOfType(Of T)()
+  nameWithType: DataCatalog.GetEntriesOfType<T>()
+  nameWithType.vb: DataCatalog.GetEntriesOfType(Of T)()
+- uid: MackySoft.UniData.DataCatalog.GetEntry(System.String)
+  name: GetEntry(String)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_GetEntry_System_String_
+  commentId: M:MackySoft.UniData.DataCatalog.GetEntry(System.String)
+  fullName: MackySoft.UniData.DataCatalog.GetEntry(System.String)
+  nameWithType: DataCatalog.GetEntry(String)
+- uid: MackySoft.UniData.DataCatalog.GetEntry*
+  name: GetEntry
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_GetEntry_
+  commentId: Overload:MackySoft.UniData.DataCatalog.GetEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.GetEntry
+  nameWithType: DataCatalog.GetEntry
+- uid: MackySoft.UniData.DataCatalog.GetEntry``1(System.String)
+  name: GetEntry<T>(String)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_GetEntry__1_System_String_
+  commentId: M:MackySoft.UniData.DataCatalog.GetEntry``1(System.String)
+  name.vb: GetEntry(Of T)(String)
+  fullName: MackySoft.UniData.DataCatalog.GetEntry<T>(System.String)
+  fullName.vb: MackySoft.UniData.DataCatalog.GetEntry(Of T)(System.String)
+  nameWithType: DataCatalog.GetEntry<T>(String)
+  nameWithType.vb: DataCatalog.GetEntry(Of T)(String)
+- uid: MackySoft.UniData.DataCatalog.GetEnumerator
+  name: GetEnumerator()
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_GetEnumerator
+  commentId: M:MackySoft.UniData.DataCatalog.GetEnumerator
+  fullName: MackySoft.UniData.DataCatalog.GetEnumerator()
+  nameWithType: DataCatalog.GetEnumerator()
+- uid: MackySoft.UniData.DataCatalog.GetEnumerator*
+  name: GetEnumerator
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_GetEnumerator_
+  commentId: Overload:MackySoft.UniData.DataCatalog.GetEnumerator
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.GetEnumerator
+  nameWithType: DataCatalog.GetEnumerator
+- uid: MackySoft.UniData.DataCatalog.HasEntry(MackySoft.UniData.IEntry)
+  name: HasEntry(IEntry)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_HasEntry_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.DataCatalog.HasEntry(MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.DataCatalog.HasEntry(MackySoft.UniData.IEntry)
+  nameWithType: DataCatalog.HasEntry(IEntry)
+- uid: MackySoft.UniData.DataCatalog.HasEntry(System.String)
+  name: HasEntry(String)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_HasEntry_System_String_
+  commentId: M:MackySoft.UniData.DataCatalog.HasEntry(System.String)
+  fullName: MackySoft.UniData.DataCatalog.HasEntry(System.String)
+  nameWithType: DataCatalog.HasEntry(String)
+- uid: MackySoft.UniData.DataCatalog.HasEntry*
+  name: HasEntry
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_HasEntry_
+  commentId: Overload:MackySoft.UniData.DataCatalog.HasEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.HasEntry
+  nameWithType: DataCatalog.HasEntry
+- uid: MackySoft.UniData.DataCatalog.Id
+  name: Id
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Id
+  commentId: P:MackySoft.UniData.DataCatalog.Id
+  fullName: MackySoft.UniData.DataCatalog.Id
+  nameWithType: DataCatalog.Id
+- uid: MackySoft.UniData.DataCatalog.Id*
+  name: Id
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Id_
+  commentId: Overload:MackySoft.UniData.DataCatalog.Id
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.Id
+  nameWithType: DataCatalog.Id
+- uid: MackySoft.UniData.DataCatalog.IndexOf(MackySoft.UniData.IEntry)
+  name: IndexOf(IEntry)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_IndexOf_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.DataCatalog.IndexOf(MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.DataCatalog.IndexOf(MackySoft.UniData.IEntry)
+  nameWithType: DataCatalog.IndexOf(IEntry)
+- uid: MackySoft.UniData.DataCatalog.IndexOf(System.String)
+  name: IndexOf(String)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_IndexOf_System_String_
+  commentId: M:MackySoft.UniData.DataCatalog.IndexOf(System.String)
+  fullName: MackySoft.UniData.DataCatalog.IndexOf(System.String)
+  nameWithType: DataCatalog.IndexOf(String)
+- uid: MackySoft.UniData.DataCatalog.IndexOf*
+  name: IndexOf
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_IndexOf_
+  commentId: Overload:MackySoft.UniData.DataCatalog.IndexOf
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.IndexOf
+  nameWithType: DataCatalog.IndexOf
+- uid: MackySoft.UniData.DataCatalog.Insert(System.Int32,MackySoft.UniData.IEntry)
+  name: Insert(Int32, IEntry)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Insert_System_Int32_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.DataCatalog.Insert(System.Int32,MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.DataCatalog.Insert(System.Int32, MackySoft.UniData.IEntry)
+  nameWithType: DataCatalog.Insert(Int32, IEntry)
+- uid: MackySoft.UniData.DataCatalog.Insert*
+  name: Insert
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Insert_
+  commentId: Overload:MackySoft.UniData.DataCatalog.Insert
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.Insert
+  nameWithType: DataCatalog.Insert
+- uid: MackySoft.UniData.DataCatalog.InsertEntry(System.Int32,MackySoft.UniData.IEntry)
+  name: InsertEntry(Int32, IEntry)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_InsertEntry_System_Int32_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.DataCatalog.InsertEntry(System.Int32,MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.DataCatalog.InsertEntry(System.Int32, MackySoft.UniData.IEntry)
+  nameWithType: DataCatalog.InsertEntry(Int32, IEntry)
+- uid: MackySoft.UniData.DataCatalog.InsertEntry*
+  name: InsertEntry
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_InsertEntry_
+  commentId: Overload:MackySoft.UniData.DataCatalog.InsertEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.InsertEntry
+  nameWithType: DataCatalog.InsertEntry
+- uid: MackySoft.UniData.DataCatalog.Item(System.Int32)
+  name: Item[Int32]
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Item_System_Int32_
+  commentId: P:MackySoft.UniData.DataCatalog.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: MackySoft.UniData.DataCatalog.Item[System.Int32]
+  fullName.vb: MackySoft.UniData.DataCatalog.Item(System.Int32)
+  nameWithType: DataCatalog.Item[Int32]
+  nameWithType.vb: DataCatalog.Item(Int32)
+- uid: MackySoft.UniData.DataCatalog.Item(System.String)
+  name: Item[String]
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Item_System_String_
+  commentId: P:MackySoft.UniData.DataCatalog.Item(System.String)
+  name.vb: Item(String)
+  fullName: MackySoft.UniData.DataCatalog.Item[System.String]
+  fullName.vb: MackySoft.UniData.DataCatalog.Item(System.String)
+  nameWithType: DataCatalog.Item[String]
+  nameWithType.vb: DataCatalog.Item(String)
+- uid: MackySoft.UniData.DataCatalog.Item*
+  name: Item
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Item_
+  commentId: Overload:MackySoft.UniData.DataCatalog.Item
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.Item
+  nameWithType: DataCatalog.Item
+- uid: MackySoft.UniData.DataCatalog.Move(System.Int32,System.Int32)
+  name: Move(Int32, Int32)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Move_System_Int32_System_Int32_
+  commentId: M:MackySoft.UniData.DataCatalog.Move(System.Int32,System.Int32)
+  fullName: MackySoft.UniData.DataCatalog.Move(System.Int32, System.Int32)
+  nameWithType: DataCatalog.Move(Int32, Int32)
+- uid: MackySoft.UniData.DataCatalog.Move*
+  name: Move
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Move_
+  commentId: Overload:MackySoft.UniData.DataCatalog.Move
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.Move
+  nameWithType: DataCatalog.Move
+- uid: MackySoft.UniData.DataCatalog.MoveEntry(System.Int32,System.Int32)
+  name: MoveEntry(Int32, Int32)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_MoveEntry_System_Int32_System_Int32_
+  commentId: M:MackySoft.UniData.DataCatalog.MoveEntry(System.Int32,System.Int32)
+  fullName: MackySoft.UniData.DataCatalog.MoveEntry(System.Int32, System.Int32)
+  nameWithType: DataCatalog.MoveEntry(Int32, Int32)
+- uid: MackySoft.UniData.DataCatalog.MoveEntry*
+  name: MoveEntry
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_MoveEntry_
+  commentId: Overload:MackySoft.UniData.DataCatalog.MoveEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.MoveEntry
+  nameWithType: DataCatalog.MoveEntry
+- uid: MackySoft.UniData.DataCatalog.Remove(MackySoft.UniData.IEntry)
+  name: Remove(IEntry)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Remove_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.DataCatalog.Remove(MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.DataCatalog.Remove(MackySoft.UniData.IEntry)
+  nameWithType: DataCatalog.Remove(IEntry)
+- uid: MackySoft.UniData.DataCatalog.Remove(System.String)
+  name: Remove(String)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Remove_System_String_
+  commentId: M:MackySoft.UniData.DataCatalog.Remove(System.String)
+  fullName: MackySoft.UniData.DataCatalog.Remove(System.String)
+  nameWithType: DataCatalog.Remove(String)
+- uid: MackySoft.UniData.DataCatalog.Remove*
+  name: Remove
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_Remove_
+  commentId: Overload:MackySoft.UniData.DataCatalog.Remove
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.Remove
+  nameWithType: DataCatalog.Remove
+- uid: MackySoft.UniData.DataCatalog.RemoveAt(System.Int32)
+  name: RemoveAt(Int32)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_RemoveAt_System_Int32_
+  commentId: M:MackySoft.UniData.DataCatalog.RemoveAt(System.Int32)
+  fullName: MackySoft.UniData.DataCatalog.RemoveAt(System.Int32)
+  nameWithType: DataCatalog.RemoveAt(Int32)
+- uid: MackySoft.UniData.DataCatalog.RemoveAt*
+  name: RemoveAt
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_RemoveAt_
+  commentId: Overload:MackySoft.UniData.DataCatalog.RemoveAt
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.RemoveAt
+  nameWithType: DataCatalog.RemoveAt
+- uid: MackySoft.UniData.DataCatalog.RemoveEntry(System.Int32)
+  name: RemoveEntry(Int32)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_RemoveEntry_System_Int32_
+  commentId: M:MackySoft.UniData.DataCatalog.RemoveEntry(System.Int32)
+  fullName: MackySoft.UniData.DataCatalog.RemoveEntry(System.Int32)
+  nameWithType: DataCatalog.RemoveEntry(Int32)
+- uid: MackySoft.UniData.DataCatalog.RemoveEntry*
+  name: RemoveEntry
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_RemoveEntry_
+  commentId: Overload:MackySoft.UniData.DataCatalog.RemoveEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.RemoveEntry
+  nameWithType: DataCatalog.RemoveEntry
+- uid: MackySoft.UniData.DataCatalog.SetEntry(MackySoft.UniData.IEntry)
+  name: SetEntry(IEntry)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_SetEntry_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.DataCatalog.SetEntry(MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.DataCatalog.SetEntry(MackySoft.UniData.IEntry)
+  nameWithType: DataCatalog.SetEntry(IEntry)
+- uid: MackySoft.UniData.DataCatalog.SetEntry(System.Int32,MackySoft.UniData.IEntry)
+  name: SetEntry(Int32, IEntry)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_SetEntry_System_Int32_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.DataCatalog.SetEntry(System.Int32,MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.DataCatalog.SetEntry(System.Int32, MackySoft.UniData.IEntry)
+  nameWithType: DataCatalog.SetEntry(Int32, IEntry)
+- uid: MackySoft.UniData.DataCatalog.SetEntry*
+  name: SetEntry
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_SetEntry_
+  commentId: Overload:MackySoft.UniData.DataCatalog.SetEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.SetEntry
+  nameWithType: DataCatalog.SetEntry
+- uid: MackySoft.UniData.DataCatalog.TryGetEntry(System.String,MackySoft.UniData.IEntry@)
+  name: TryGetEntry(String, out IEntry)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_TryGetEntry_System_String_MackySoft_UniData_IEntry__
+  commentId: M:MackySoft.UniData.DataCatalog.TryGetEntry(System.String,MackySoft.UniData.IEntry@)
+  name.vb: TryGetEntry(String, ByRef IEntry)
+  fullName: MackySoft.UniData.DataCatalog.TryGetEntry(System.String, out MackySoft.UniData.IEntry)
+  fullName.vb: MackySoft.UniData.DataCatalog.TryGetEntry(System.String, ByRef MackySoft.UniData.IEntry)
+  nameWithType: DataCatalog.TryGetEntry(String, out IEntry)
+  nameWithType.vb: DataCatalog.TryGetEntry(String, ByRef IEntry)
+- uid: MackySoft.UniData.DataCatalog.TryGetEntry*
+  name: TryGetEntry
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_TryGetEntry_
+  commentId: Overload:MackySoft.UniData.DataCatalog.TryGetEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.DataCatalog.TryGetEntry
+  nameWithType: DataCatalog.TryGetEntry
+- uid: MackySoft.UniData.DataCatalog.TryGetEntry``1(System.String,``0@)
+  name: TryGetEntry<T>(String, out T)
+  href: api/MackySoft.UniData.DataCatalog.html#MackySoft_UniData_DataCatalog_TryGetEntry__1_System_String___0__
+  commentId: M:MackySoft.UniData.DataCatalog.TryGetEntry``1(System.String,``0@)
+  name.vb: TryGetEntry(Of T)(String, ByRef T)
+  fullName: MackySoft.UniData.DataCatalog.TryGetEntry<T>(System.String, out T)
+  fullName.vb: MackySoft.UniData.DataCatalog.TryGetEntry(Of T)(System.String, ByRef T)
+  nameWithType: DataCatalog.TryGetEntry<T>(String, out T)
+  nameWithType.vb: DataCatalog.TryGetEntry(Of T)(String, ByRef T)
+- uid: MackySoft.UniData.Diagnostics
+  name: MackySoft.UniData.Diagnostics
+  href: api/MackySoft.UniData.Diagnostics.html
+  commentId: N:MackySoft.UniData.Diagnostics
+  fullName: MackySoft.UniData.Diagnostics
+  nameWithType: MackySoft.UniData.Diagnostics
+- uid: MackySoft.UniData.Diagnostics.ValidationUtility
+  name: ValidationUtility
+  href: api/MackySoft.UniData.Diagnostics.ValidationUtility.html
+  commentId: T:MackySoft.UniData.Diagnostics.ValidationUtility
+  fullName: MackySoft.UniData.Diagnostics.ValidationUtility
+  nameWithType: ValidationUtility
+- uid: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication*
+  name: HasDuplication
+  href: api/MackySoft.UniData.Diagnostics.ValidationUtility.html#MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication_
+  commentId: Overload:MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication
+  isSpec: "True"
+  fullName: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication
+  nameWithType: ValidationUtility.HasDuplication
+- uid: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0)
+  name: HasDuplication<T>(T)
+  href: api/MackySoft.UniData.Diagnostics.ValidationUtility.html#MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication__1___0_
+  commentId: M:MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0)
+  name.vb: HasDuplication(Of T)(T)
+  fullName: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication<T>(T)
+  fullName.vb: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication(Of T)(T)
+  nameWithType: ValidationUtility.HasDuplication<T>(T)
+  nameWithType.vb: ValidationUtility.HasDuplication(Of T)(T)
+- uid: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0,System.String)
+  name: HasDuplication<T>(T, String)
+  href: api/MackySoft.UniData.Diagnostics.ValidationUtility.html#MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication__1___0_System_String_
+  commentId: M:MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0,System.String)
+  name.vb: HasDuplication(Of T)(T, String)
+  fullName: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication<T>(T, System.String)
+  fullName.vb: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication(Of T)(T, System.String)
+  nameWithType: ValidationUtility.HasDuplication<T>(T, String)
+  nameWithType.vb: ValidationUtility.HasDuplication(Of T)(T, String)
+- uid: MackySoft.UniData.Editor
+  name: MackySoft.UniData.Editor
+  href: api/MackySoft.UniData.Editor.html
+  commentId: N:MackySoft.UniData.Editor
+  fullName: MackySoft.UniData.Editor
+  nameWithType: MackySoft.UniData.Editor
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility
+  name: DataCatalogEditorUtility
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html
+  commentId: T:MackySoft.UniData.Editor.DataCatalogEditorUtility
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility
+  nameWithType: DataCatalogEditorUtility
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.CatalogDisplayNames
+  name: CatalogDisplayNames
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_CatalogDisplayNames
+  commentId: P:MackySoft.UniData.Editor.DataCatalogEditorUtility.CatalogDisplayNames
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.CatalogDisplayNames
+  nameWithType: DataCatalogEditorUtility.CatalogDisplayNames
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.CatalogDisplayNames*
+  name: CatalogDisplayNames
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_CatalogDisplayNames_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.CatalogDisplayNames
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.CatalogDisplayNames
+  nameWithType: DataCatalogEditorUtility.CatalogDisplayNames
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.Catalogs
+  name: Catalogs
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_Catalogs
+  commentId: P:MackySoft.UniData.Editor.DataCatalogEditorUtility.Catalogs
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.Catalogs
+  nameWithType: DataCatalogEditorUtility.Catalogs
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.Catalogs*
+  name: Catalogs
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_Catalogs_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.Catalogs
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.Catalogs
+  nameWithType: DataCatalogEditorUtility.Catalogs
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.CreateCatalog(System.Type)
+  name: CreateCatalog(Type)
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_CreateCatalog_System_Type_
+  commentId: M:MackySoft.UniData.Editor.DataCatalogEditorUtility.CreateCatalog(System.Type)
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.CreateCatalog(System.Type)
+  nameWithType: DataCatalogEditorUtility.CreateCatalog(Type)
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.CreateCatalog*
+  name: CreateCatalog
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_CreateCatalog_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.CreateCatalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.CreateCatalog
+  nameWithType: DataCatalogEditorUtility.CreateCatalog
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.DetectCatalogs
+  name: DetectCatalogs()
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_DetectCatalogs
+  commentId: M:MackySoft.UniData.Editor.DataCatalogEditorUtility.DetectCatalogs
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.DetectCatalogs()
+  nameWithType: DataCatalogEditorUtility.DetectCatalogs()
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.DetectCatalogs*
+  name: DetectCatalogs
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_DetectCatalogs_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.DetectCatalogs
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.DetectCatalogs
+  nameWithType: DataCatalogEditorUtility.DetectCatalogs
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.FocusInWindow(MackySoft.UniData.DataCatalog,System.Boolean)
+  name: FocusInWindow(DataCatalog, Boolean)
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_FocusInWindow_MackySoft_UniData_DataCatalog_System_Boolean_
+  commentId: M:MackySoft.UniData.Editor.DataCatalogEditorUtility.FocusInWindow(MackySoft.UniData.DataCatalog,System.Boolean)
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.FocusInWindow(MackySoft.UniData.DataCatalog, System.Boolean)
+  nameWithType: DataCatalogEditorUtility.FocusInWindow(DataCatalog, Boolean)
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.FocusInWindow*
+  name: FocusInWindow
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_FocusInWindow_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.FocusInWindow
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.FocusInWindow
+  nameWithType: DataCatalogEditorUtility.FocusInWindow
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.ForceDetectCatalogs
+  name: ForceDetectCatalogs()
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_ForceDetectCatalogs
+  commentId: M:MackySoft.UniData.Editor.DataCatalogEditorUtility.ForceDetectCatalogs
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.ForceDetectCatalogs()
+  nameWithType: DataCatalogEditorUtility.ForceDetectCatalogs()
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.ForceDetectCatalogs*
+  name: ForceDetectCatalogs
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_ForceDetectCatalogs_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.ForceDetectCatalogs
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.ForceDetectCatalogs
+  nameWithType: DataCatalogEditorUtility.ForceDetectCatalogs
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogDisplayName(MackySoft.UniData.DataCatalog)
+  name: GetCatalogDisplayName(DataCatalog)
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_GetCatalogDisplayName_MackySoft_UniData_DataCatalog_
+  commentId: M:MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogDisplayName(MackySoft.UniData.DataCatalog)
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogDisplayName(MackySoft.UniData.DataCatalog)
+  nameWithType: DataCatalogEditorUtility.GetCatalogDisplayName(DataCatalog)
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogDisplayName*
+  name: GetCatalogDisplayName
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_GetCatalogDisplayName_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogDisplayName
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogDisplayName
+  nameWithType: DataCatalogEditorUtility.GetCatalogDisplayName
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogTypes
+  name: GetCatalogTypes()
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_GetCatalogTypes
+  commentId: M:MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogTypes
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogTypes()
+  nameWithType: DataCatalogEditorUtility.GetCatalogTypes()
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogTypes*
+  name: GetCatalogTypes
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_GetCatalogTypes_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogTypes
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.GetCatalogTypes
+  nameWithType: DataCatalogEditorUtility.GetCatalogTypes
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.HasCatalogs
+  name: HasCatalogs
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_HasCatalogs
+  commentId: P:MackySoft.UniData.Editor.DataCatalogEditorUtility.HasCatalogs
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.HasCatalogs
+  nameWithType: DataCatalogEditorUtility.HasCatalogs
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.HasCatalogs*
+  name: HasCatalogs
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_HasCatalogs_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.HasCatalogs
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.HasCatalogs
+  nameWithType: DataCatalogEditorUtility.HasCatalogs
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.HasDuplication(System.String)
+  name: HasDuplication(String)
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_HasDuplication_System_String_
+  commentId: M:MackySoft.UniData.Editor.DataCatalogEditorUtility.HasDuplication(System.String)
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.HasDuplication(System.String)
+  nameWithType: DataCatalogEditorUtility.HasDuplication(String)
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.HasDuplication*
+  name: HasDuplication
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_HasDuplication_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.HasDuplication
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.HasDuplication
+  nameWithType: DataCatalogEditorUtility.HasDuplication
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.SaveCatalog(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOAsset)
+  name: SaveCatalog(DataCatalog, DataCatalogIOAsset)
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_SaveCatalog_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOAsset_
+  commentId: M:MackySoft.UniData.Editor.DataCatalogEditorUtility.SaveCatalog(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOAsset)
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.SaveCatalog(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOAsset)
+  nameWithType: DataCatalogEditorUtility.SaveCatalog(DataCatalog, DataCatalogIOAsset)
+- uid: MackySoft.UniData.Editor.DataCatalogEditorUtility.SaveCatalog*
+  name: SaveCatalog
+  href: api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html#MackySoft_UniData_Editor_DataCatalogEditorUtility_SaveCatalog_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogEditorUtility.SaveCatalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogEditorUtility.SaveCatalog
+  nameWithType: DataCatalogEditorUtility.SaveCatalog
+- uid: MackySoft.UniData.Editor.DataCatalogInspector
+  name: DataCatalogInspector
+  href: api/MackySoft.UniData.Editor.DataCatalogInspector.html
+  commentId: T:MackySoft.UniData.Editor.DataCatalogInspector
+  fullName: MackySoft.UniData.Editor.DataCatalogInspector
+  nameWithType: DataCatalogInspector
+- uid: MackySoft.UniData.Editor.DataCatalogInspector.OnInspectorGUI
+  name: OnInspectorGUI()
+  href: api/MackySoft.UniData.Editor.DataCatalogInspector.html#MackySoft_UniData_Editor_DataCatalogInspector_OnInspectorGUI
+  commentId: M:MackySoft.UniData.Editor.DataCatalogInspector.OnInspectorGUI
+  fullName: MackySoft.UniData.Editor.DataCatalogInspector.OnInspectorGUI()
+  nameWithType: DataCatalogInspector.OnInspectorGUI()
+- uid: MackySoft.UniData.Editor.DataCatalogInspector.OnInspectorGUI*
+  name: OnInspectorGUI
+  href: api/MackySoft.UniData.Editor.DataCatalogInspector.html#MackySoft_UniData_Editor_DataCatalogInspector_OnInspectorGUI_
+  commentId: Overload:MackySoft.UniData.Editor.DataCatalogInspector.OnInspectorGUI
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.DataCatalogInspector.OnInspectorGUI
+  nameWithType: DataCatalogInspector.OnInspectorGUI
+- uid: MackySoft.UniData.Editor.EntryReferenceDrawer
+  name: EntryReferenceDrawer
+  href: api/MackySoft.UniData.Editor.EntryReferenceDrawer.html
+  commentId: T:MackySoft.UniData.Editor.EntryReferenceDrawer
+  fullName: MackySoft.UniData.Editor.EntryReferenceDrawer
+  nameWithType: EntryReferenceDrawer
+- uid: MackySoft.UniData.Editor.EntryReferenceDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: api/MackySoft.UniData.Editor.EntryReferenceDrawer.html#MackySoft_UniData_Editor_EntryReferenceDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:MackySoft.UniData.Editor.EntryReferenceDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: MackySoft.UniData.Editor.EntryReferenceDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: EntryReferenceDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: MackySoft.UniData.Editor.EntryReferenceDrawer.OnGUI*
+  name: OnGUI
+  href: api/MackySoft.UniData.Editor.EntryReferenceDrawer.html#MackySoft_UniData_Editor_EntryReferenceDrawer_OnGUI_
+  commentId: Overload:MackySoft.UniData.Editor.EntryReferenceDrawer.OnGUI
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.EntryReferenceDrawer.OnGUI
+  nameWithType: EntryReferenceDrawer.OnGUI
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog
+  name: SerializedDataCatalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html
+  commentId: T:MackySoft.UniData.Editor.SerializedDataCatalog
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog
+  nameWithType: SerializedDataCatalog
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.#ctor(MackySoft.UniData.DataCatalog)
+  name: SerializedDataCatalog(DataCatalog)
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog__ctor_MackySoft_UniData_DataCatalog_
+  commentId: M:MackySoft.UniData.Editor.SerializedDataCatalog.#ctor(MackySoft.UniData.DataCatalog)
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedDataCatalog(MackySoft.UniData.DataCatalog)
+  nameWithType: SerializedDataCatalog.SerializedDataCatalog(DataCatalog)
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.#ctor*
+  name: SerializedDataCatalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog__ctor_
+  commentId: Overload:MackySoft.UniData.Editor.SerializedDataCatalog.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedDataCatalog
+  nameWithType: SerializedDataCatalog.SerializedDataCatalog
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.Catalog
+  name: Catalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_Catalog
+  commentId: P:MackySoft.UniData.Editor.SerializedDataCatalog.Catalog
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.Catalog
+  nameWithType: SerializedDataCatalog.Catalog
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.Catalog*
+  name: Catalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_Catalog_
+  commentId: Overload:MackySoft.UniData.Editor.SerializedDataCatalog.Catalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.Catalog
+  nameWithType: SerializedDataCatalog.Catalog
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.Entries
+  name: Entries
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_Entries
+  commentId: P:MackySoft.UniData.Editor.SerializedDataCatalog.Entries
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.Entries
+  nameWithType: SerializedDataCatalog.Entries
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.Entries*
+  name: Entries
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_Entries_
+  commentId: Overload:MackySoft.UniData.Editor.SerializedDataCatalog.Entries
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.Entries
+  nameWithType: SerializedDataCatalog.Entries
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.HasRuntimeCatalog
+  name: HasRuntimeCatalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_HasRuntimeCatalog
+  commentId: P:MackySoft.UniData.Editor.SerializedDataCatalog.HasRuntimeCatalog
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.HasRuntimeCatalog
+  nameWithType: SerializedDataCatalog.HasRuntimeCatalog
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.HasRuntimeCatalog*
+  name: HasRuntimeCatalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_HasRuntimeCatalog_
+  commentId: Overload:MackySoft.UniData.Editor.SerializedDataCatalog.HasRuntimeCatalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.HasRuntimeCatalog
+  nameWithType: SerializedDataCatalog.HasRuntimeCatalog
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.RuntimeEntries
+  name: RuntimeEntries
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_RuntimeEntries
+  commentId: P:MackySoft.UniData.Editor.SerializedDataCatalog.RuntimeEntries
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.RuntimeEntries
+  nameWithType: SerializedDataCatalog.RuntimeEntries
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.RuntimeEntries*
+  name: RuntimeEntries
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_RuntimeEntries_
+  commentId: Overload:MackySoft.UniData.Editor.SerializedDataCatalog.RuntimeEntries
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.RuntimeEntries
+  nameWithType: SerializedDataCatalog.RuntimeEntries
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedCatalog
+  name: SerializedCatalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_SerializedCatalog
+  commentId: P:MackySoft.UniData.Editor.SerializedDataCatalog.SerializedCatalog
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedCatalog
+  nameWithType: SerializedDataCatalog.SerializedCatalog
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedCatalog*
+  name: SerializedCatalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_SerializedCatalog_
+  commentId: Overload:MackySoft.UniData.Editor.SerializedDataCatalog.SerializedCatalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedCatalog
+  nameWithType: SerializedDataCatalog.SerializedCatalog
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedEntries
+  name: SerializedEntries
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_SerializedEntries
+  commentId: P:MackySoft.UniData.Editor.SerializedDataCatalog.SerializedEntries
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedEntries
+  nameWithType: SerializedDataCatalog.SerializedEntries
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedEntries*
+  name: SerializedEntries
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_SerializedEntries_
+  commentId: Overload:MackySoft.UniData.Editor.SerializedDataCatalog.SerializedEntries
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedEntries
+  nameWithType: SerializedDataCatalog.SerializedEntries
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedObject
+  name: SerializedObject
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_SerializedObject
+  commentId: P:MackySoft.UniData.Editor.SerializedDataCatalog.SerializedObject
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedObject
+  nameWithType: SerializedDataCatalog.SerializedObject
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedObject*
+  name: SerializedObject
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_SerializedObject_
+  commentId: Overload:MackySoft.UniData.Editor.SerializedDataCatalog.SerializedObject
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedObject
+  nameWithType: SerializedDataCatalog.SerializedObject
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedRuntimeCatalog
+  name: SerializedRuntimeCatalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_SerializedRuntimeCatalog
+  commentId: P:MackySoft.UniData.Editor.SerializedDataCatalog.SerializedRuntimeCatalog
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedRuntimeCatalog
+  nameWithType: SerializedDataCatalog.SerializedRuntimeCatalog
+- uid: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedRuntimeCatalog*
+  name: SerializedRuntimeCatalog
+  href: api/MackySoft.UniData.Editor.SerializedDataCatalog.html#MackySoft_UniData_Editor_SerializedDataCatalog_SerializedRuntimeCatalog_
+  commentId: Overload:MackySoft.UniData.Editor.SerializedDataCatalog.SerializedRuntimeCatalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.SerializedDataCatalog.SerializedRuntimeCatalog
+  nameWithType: SerializedDataCatalog.SerializedRuntimeCatalog
+- uid: MackySoft.UniData.Editor.UniDataEditorUtility
+  name: UniDataEditorUtility
+  href: api/MackySoft.UniData.Editor.UniDataEditorUtility.html
+  commentId: T:MackySoft.UniData.Editor.UniDataEditorUtility
+  fullName: MackySoft.UniData.Editor.UniDataEditorUtility
+  nameWithType: UniDataEditorUtility
+- uid: MackySoft.UniData.Editor.UniDataEditorUtility.IsProVersion
+  name: IsProVersion
+  href: api/MackySoft.UniData.Editor.UniDataEditorUtility.html#MackySoft_UniData_Editor_UniDataEditorUtility_IsProVersion
+  commentId: P:MackySoft.UniData.Editor.UniDataEditorUtility.IsProVersion
+  fullName: MackySoft.UniData.Editor.UniDataEditorUtility.IsProVersion
+  nameWithType: UniDataEditorUtility.IsProVersion
+- uid: MackySoft.UniData.Editor.UniDataEditorUtility.IsProVersion*
+  name: IsProVersion
+  href: api/MackySoft.UniData.Editor.UniDataEditorUtility.html#MackySoft_UniData_Editor_UniDataEditorUtility_IsProVersion_
+  commentId: Overload:MackySoft.UniData.Editor.UniDataEditorUtility.IsProVersion
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.UniDataEditorUtility.IsProVersion
+  nameWithType: UniDataEditorUtility.IsProVersion
+- uid: MackySoft.UniData.Editor.UniDataEditorUtility.k_MenuItemPath
+  name: k_MenuItemPath
+  href: api/MackySoft.UniData.Editor.UniDataEditorUtility.html#MackySoft_UniData_Editor_UniDataEditorUtility_k_MenuItemPath
+  commentId: F:MackySoft.UniData.Editor.UniDataEditorUtility.k_MenuItemPath
+  fullName: MackySoft.UniData.Editor.UniDataEditorUtility.k_MenuItemPath
+  nameWithType: UniDataEditorUtility.k_MenuItemPath
+- uid: MackySoft.UniData.Editor.UniDataEditorUtility.OpenDocumentation
+  name: OpenDocumentation()
+  href: api/MackySoft.UniData.Editor.UniDataEditorUtility.html#MackySoft_UniData_Editor_UniDataEditorUtility_OpenDocumentation
+  commentId: M:MackySoft.UniData.Editor.UniDataEditorUtility.OpenDocumentation
+  fullName: MackySoft.UniData.Editor.UniDataEditorUtility.OpenDocumentation()
+  nameWithType: UniDataEditorUtility.OpenDocumentation()
+- uid: MackySoft.UniData.Editor.UniDataEditorUtility.OpenDocumentation*
+  name: OpenDocumentation
+  href: api/MackySoft.UniData.Editor.UniDataEditorUtility.html#MackySoft_UniData_Editor_UniDataEditorUtility_OpenDocumentation_
+  commentId: Overload:MackySoft.UniData.Editor.UniDataEditorUtility.OpenDocumentation
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.UniDataEditorUtility.OpenDocumentation
+  nameWithType: UniDataEditorUtility.OpenDocumentation
+- uid: MackySoft.UniData.Editor.UniDataEditorUtility.OpenSettings
+  name: OpenSettings()
+  href: api/MackySoft.UniData.Editor.UniDataEditorUtility.html#MackySoft_UniData_Editor_UniDataEditorUtility_OpenSettings
+  commentId: M:MackySoft.UniData.Editor.UniDataEditorUtility.OpenSettings
+  fullName: MackySoft.UniData.Editor.UniDataEditorUtility.OpenSettings()
+  nameWithType: UniDataEditorUtility.OpenSettings()
+- uid: MackySoft.UniData.Editor.UniDataEditorUtility.OpenSettings*
+  name: OpenSettings
+  href: api/MackySoft.UniData.Editor.UniDataEditorUtility.html#MackySoft_UniData_Editor_UniDataEditorUtility_OpenSettings_
+  commentId: Overload:MackySoft.UniData.Editor.UniDataEditorUtility.OpenSettings
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.UniDataEditorUtility.OpenSettings
+  nameWithType: UniDataEditorUtility.OpenSettings
+- uid: MackySoft.UniData.Editor.UniDataSettingsInspector
+  name: UniDataSettingsInspector
+  href: api/MackySoft.UniData.Editor.UniDataSettingsInspector.html
+  commentId: T:MackySoft.UniData.Editor.UniDataSettingsInspector
+  fullName: MackySoft.UniData.Editor.UniDataSettingsInspector
+  nameWithType: UniDataSettingsInspector
+- uid: MackySoft.UniData.Editor.UniDataSettingsInspector.OnInspectorGUI
+  name: OnInspectorGUI()
+  href: api/MackySoft.UniData.Editor.UniDataSettingsInspector.html#MackySoft_UniData_Editor_UniDataSettingsInspector_OnInspectorGUI
+  commentId: M:MackySoft.UniData.Editor.UniDataSettingsInspector.OnInspectorGUI
+  fullName: MackySoft.UniData.Editor.UniDataSettingsInspector.OnInspectorGUI()
+  nameWithType: UniDataSettingsInspector.OnInspectorGUI()
+- uid: MackySoft.UniData.Editor.UniDataSettingsInspector.OnInspectorGUI*
+  name: OnInspectorGUI
+  href: api/MackySoft.UniData.Editor.UniDataSettingsInspector.html#MackySoft_UniData_Editor_UniDataSettingsInspector_OnInspectorGUI_
+  commentId: Overload:MackySoft.UniData.Editor.UniDataSettingsInspector.OnInspectorGUI
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.UniDataSettingsInspector.OnInspectorGUI
+  nameWithType: UniDataSettingsInspector.OnInspectorGUI
+- uid: MackySoft.UniData.Editor.UniDataSettingsProvider
+  name: UniDataSettingsProvider
+  href: api/MackySoft.UniData.Editor.UniDataSettingsProvider.html
+  commentId: T:MackySoft.UniData.Editor.UniDataSettingsProvider
+  fullName: MackySoft.UniData.Editor.UniDataSettingsProvider
+  nameWithType: UniDataSettingsProvider
+- uid: MackySoft.UniData.Editor.UniDataSettingsProvider.#ctor(System.String,SettingsScope,System.Collections.Generic.IEnumerable{System.String})
+  name: UniDataSettingsProvider(String, SettingsScope, IEnumerable<String>)
+  href: api/MackySoft.UniData.Editor.UniDataSettingsProvider.html#MackySoft_UniData_Editor_UniDataSettingsProvider__ctor_System_String_SettingsScope_System_Collections_Generic_IEnumerable_System_String__
+  commentId: M:MackySoft.UniData.Editor.UniDataSettingsProvider.#ctor(System.String,SettingsScope,System.Collections.Generic.IEnumerable{System.String})
+  name.vb: UniDataSettingsProvider(String, SettingsScope, IEnumerable(Of String))
+  fullName: MackySoft.UniData.Editor.UniDataSettingsProvider.UniDataSettingsProvider(System.String, SettingsScope, System.Collections.Generic.IEnumerable<System.String>)
+  fullName.vb: MackySoft.UniData.Editor.UniDataSettingsProvider.UniDataSettingsProvider(System.String, SettingsScope, System.Collections.Generic.IEnumerable(Of System.String))
+  nameWithType: UniDataSettingsProvider.UniDataSettingsProvider(String, SettingsScope, IEnumerable<String>)
+  nameWithType.vb: UniDataSettingsProvider.UniDataSettingsProvider(String, SettingsScope, IEnumerable(Of String))
+- uid: MackySoft.UniData.Editor.UniDataSettingsProvider.#ctor*
+  name: UniDataSettingsProvider
+  href: api/MackySoft.UniData.Editor.UniDataSettingsProvider.html#MackySoft_UniData_Editor_UniDataSettingsProvider__ctor_
+  commentId: Overload:MackySoft.UniData.Editor.UniDataSettingsProvider.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.UniDataSettingsProvider.UniDataSettingsProvider
+  nameWithType: UniDataSettingsProvider.UniDataSettingsProvider
+- uid: MackySoft.UniData.Editor.UniDataSettingsProvider.GetSettings
+  name: GetSettings()
+  href: api/MackySoft.UniData.Editor.UniDataSettingsProvider.html#MackySoft_UniData_Editor_UniDataSettingsProvider_GetSettings
+  commentId: M:MackySoft.UniData.Editor.UniDataSettingsProvider.GetSettings
+  fullName: MackySoft.UniData.Editor.UniDataSettingsProvider.GetSettings()
+  nameWithType: UniDataSettingsProvider.GetSettings()
+- uid: MackySoft.UniData.Editor.UniDataSettingsProvider.GetSettings*
+  name: GetSettings
+  href: api/MackySoft.UniData.Editor.UniDataSettingsProvider.html#MackySoft_UniData_Editor_UniDataSettingsProvider_GetSettings_
+  commentId: Overload:MackySoft.UniData.Editor.UniDataSettingsProvider.GetSettings
+  isSpec: "True"
+  fullName: MackySoft.UniData.Editor.UniDataSettingsProvider.GetSettings
+  nameWithType: UniDataSettingsProvider.GetSettings
+- uid: MackySoft.UniData.Editor.UniDataSettingsProvider.k_SettingsPath
+  name: k_SettingsPath
+  href: api/MackySoft.UniData.Editor.UniDataSettingsProvider.html#MackySoft_UniData_Editor_UniDataSettingsProvider_k_SettingsPath
+  commentId: F:MackySoft.UniData.Editor.UniDataSettingsProvider.k_SettingsPath
+  fullName: MackySoft.UniData.Editor.UniDataSettingsProvider.k_SettingsPath
+  nameWithType: UniDataSettingsProvider.k_SettingsPath
+- uid: MackySoft.UniData.EntryReference
+  name: EntryReference
+  href: api/MackySoft.UniData.EntryReference.html
+  commentId: T:MackySoft.UniData.EntryReference
+  fullName: MackySoft.UniData.EntryReference
+  nameWithType: EntryReference
+- uid: MackySoft.UniData.EntryReference.GetEntry*
+  name: GetEntry
+  href: api/MackySoft.UniData.EntryReference.html#MackySoft_UniData_EntryReference_GetEntry_
+  commentId: Overload:MackySoft.UniData.EntryReference.GetEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.EntryReference.GetEntry
+  nameWithType: EntryReference.GetEntry
+- uid: MackySoft.UniData.EntryReference.GetEntry``1
+  name: GetEntry<T>()
+  href: api/MackySoft.UniData.EntryReference.html#MackySoft_UniData_EntryReference_GetEntry__1
+  commentId: M:MackySoft.UniData.EntryReference.GetEntry``1
+  name.vb: GetEntry(Of T)()
+  fullName: MackySoft.UniData.EntryReference.GetEntry<T>()
+  fullName.vb: MackySoft.UniData.EntryReference.GetEntry(Of T)()
+  nameWithType: EntryReference.GetEntry<T>()
+  nameWithType.vb: EntryReference.GetEntry(Of T)()
+- uid: MackySoft.UniData.EntryReference`1
+  name: EntryReference<T>
+  href: api/MackySoft.UniData.EntryReference-1.html
+  commentId: T:MackySoft.UniData.EntryReference`1
+  name.vb: EntryReference(Of T)
+  fullName: MackySoft.UniData.EntryReference<T>
+  fullName.vb: MackySoft.UniData.EntryReference(Of T)
+  nameWithType: EntryReference<T>
+  nameWithType.vb: EntryReference(Of T)
+- uid: MackySoft.UniData.EntryReference`1.Catalog
+  name: Catalog
+  href: api/MackySoft.UniData.EntryReference-1.html#MackySoft_UniData_EntryReference_1_Catalog
+  commentId: P:MackySoft.UniData.EntryReference`1.Catalog
+  fullName: MackySoft.UniData.EntryReference<T>.Catalog
+  fullName.vb: MackySoft.UniData.EntryReference(Of T).Catalog
+  nameWithType: EntryReference<T>.Catalog
+  nameWithType.vb: EntryReference(Of T).Catalog
+- uid: MackySoft.UniData.EntryReference`1.Catalog*
+  name: Catalog
+  href: api/MackySoft.UniData.EntryReference-1.html#MackySoft_UniData_EntryReference_1_Catalog_
+  commentId: Overload:MackySoft.UniData.EntryReference`1.Catalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.EntryReference<T>.Catalog
+  fullName.vb: MackySoft.UniData.EntryReference(Of T).Catalog
+  nameWithType: EntryReference<T>.Catalog
+  nameWithType.vb: EntryReference(Of T).Catalog
+- uid: MackySoft.UniData.EntryReference`1.ClearCache
+  name: ClearCache()
+  href: api/MackySoft.UniData.EntryReference-1.html#MackySoft_UniData_EntryReference_1_ClearCache
+  commentId: M:MackySoft.UniData.EntryReference`1.ClearCache
+  fullName: MackySoft.UniData.EntryReference<T>.ClearCache()
+  fullName.vb: MackySoft.UniData.EntryReference(Of T).ClearCache()
+  nameWithType: EntryReference<T>.ClearCache()
+  nameWithType.vb: EntryReference(Of T).ClearCache()
+- uid: MackySoft.UniData.EntryReference`1.ClearCache*
+  name: ClearCache
+  href: api/MackySoft.UniData.EntryReference-1.html#MackySoft_UniData_EntryReference_1_ClearCache_
+  commentId: Overload:MackySoft.UniData.EntryReference`1.ClearCache
+  isSpec: "True"
+  fullName: MackySoft.UniData.EntryReference<T>.ClearCache
+  fullName.vb: MackySoft.UniData.EntryReference(Of T).ClearCache
+  nameWithType: EntryReference<T>.ClearCache
+  nameWithType.vb: EntryReference(Of T).ClearCache
+- uid: MackySoft.UniData.EntryReference`1.Entry
+  name: Entry
+  href: api/MackySoft.UniData.EntryReference-1.html#MackySoft_UniData_EntryReference_1_Entry
+  commentId: P:MackySoft.UniData.EntryReference`1.Entry
+  fullName: MackySoft.UniData.EntryReference<T>.Entry
+  fullName.vb: MackySoft.UniData.EntryReference(Of T).Entry
+  nameWithType: EntryReference<T>.Entry
+  nameWithType.vb: EntryReference(Of T).Entry
+- uid: MackySoft.UniData.EntryReference`1.Entry*
+  name: Entry
+  href: api/MackySoft.UniData.EntryReference-1.html#MackySoft_UniData_EntryReference_1_Entry_
+  commentId: Overload:MackySoft.UniData.EntryReference`1.Entry
+  isSpec: "True"
+  fullName: MackySoft.UniData.EntryReference<T>.Entry
+  fullName.vb: MackySoft.UniData.EntryReference(Of T).Entry
+  nameWithType: EntryReference<T>.Entry
+  nameWithType.vb: EntryReference(Of T).Entry
+- uid: MackySoft.UniData.EntryReference`1.EntryId
+  name: EntryId
+  href: api/MackySoft.UniData.EntryReference-1.html#MackySoft_UniData_EntryReference_1_EntryId
+  commentId: P:MackySoft.UniData.EntryReference`1.EntryId
+  fullName: MackySoft.UniData.EntryReference<T>.EntryId
+  fullName.vb: MackySoft.UniData.EntryReference(Of T).EntryId
+  nameWithType: EntryReference<T>.EntryId
+  nameWithType.vb: EntryReference(Of T).EntryId
+- uid: MackySoft.UniData.EntryReference`1.EntryId*
+  name: EntryId
+  href: api/MackySoft.UniData.EntryReference-1.html#MackySoft_UniData_EntryReference_1_EntryId_
+  commentId: Overload:MackySoft.UniData.EntryReference`1.EntryId
+  isSpec: "True"
+  fullName: MackySoft.UniData.EntryReference<T>.EntryId
+  fullName.vb: MackySoft.UniData.EntryReference(Of T).EntryId
+  nameWithType: EntryReference<T>.EntryId
+  nameWithType.vb: EntryReference(Of T).EntryId
+- uid: MackySoft.UniData.IData
+  name: IData
+  href: api/MackySoft.UniData.IData.html
+  commentId: T:MackySoft.UniData.IData
+  fullName: MackySoft.UniData.IData
+  nameWithType: IData
+- uid: MackySoft.UniData.IData.Value
+  name: Value
+  href: api/MackySoft.UniData.IData.html#MackySoft_UniData_IData_Value
+  commentId: P:MackySoft.UniData.IData.Value
+  fullName: MackySoft.UniData.IData.Value
+  nameWithType: IData.Value
+- uid: MackySoft.UniData.IData.Value*
+  name: Value
+  href: api/MackySoft.UniData.IData.html#MackySoft_UniData_IData_Value_
+  commentId: Overload:MackySoft.UniData.IData.Value
+  isSpec: "True"
+  fullName: MackySoft.UniData.IData.Value
+  nameWithType: IData.Value
+- uid: MackySoft.UniData.IData`1
+  name: IData<T>
+  href: api/MackySoft.UniData.IData-1.html
+  commentId: T:MackySoft.UniData.IData`1
+  name.vb: IData(Of T)
+  fullName: MackySoft.UniData.IData<T>
+  fullName.vb: MackySoft.UniData.IData(Of T)
+  nameWithType: IData<T>
+  nameWithType.vb: IData(Of T)
+- uid: MackySoft.UniData.IData`1.Value
+  name: Value
+  href: api/MackySoft.UniData.IData-1.html#MackySoft_UniData_IData_1_Value
+  commentId: P:MackySoft.UniData.IData`1.Value
+  fullName: MackySoft.UniData.IData<T>.Value
+  fullName.vb: MackySoft.UniData.IData(Of T).Value
+  nameWithType: IData<T>.Value
+  nameWithType.vb: IData(Of T).Value
+- uid: MackySoft.UniData.IData`1.Value*
+  name: Value
+  href: api/MackySoft.UniData.IData-1.html#MackySoft_UniData_IData_1_Value_
+  commentId: Overload:MackySoft.UniData.IData`1.Value
+  isSpec: "True"
+  fullName: MackySoft.UniData.IData<T>.Value
+  fullName.vb: MackySoft.UniData.IData(Of T).Value
+  nameWithType: IData<T>.Value
+  nameWithType.vb: IData(Of T).Value
+- uid: MackySoft.UniData.IEntry
+  name: IEntry
+  href: api/MackySoft.UniData.IEntry.html
+  commentId: T:MackySoft.UniData.IEntry
+  fullName: MackySoft.UniData.IEntry
+  nameWithType: IEntry
+- uid: MackySoft.UniData.IEntry.Id
+  name: Id
+  href: api/MackySoft.UniData.IEntry.html#MackySoft_UniData_IEntry_Id
+  commentId: P:MackySoft.UniData.IEntry.Id
+  fullName: MackySoft.UniData.IEntry.Id
+  nameWithType: IEntry.Id
+- uid: MackySoft.UniData.IEntry.Id*
+  name: Id
+  href: api/MackySoft.UniData.IEntry.html#MackySoft_UniData_IEntry_Id_
+  commentId: Overload:MackySoft.UniData.IEntry.Id
+  isSpec: "True"
+  fullName: MackySoft.UniData.IEntry.Id
+  nameWithType: IEntry.Id
+- uid: MackySoft.UniData.IEntryReference
+  name: IEntryReference
+  href: api/MackySoft.UniData.IEntryReference.html
+  commentId: T:MackySoft.UniData.IEntryReference
+  fullName: MackySoft.UniData.IEntryReference
+  nameWithType: IEntryReference
+- uid: MackySoft.UniData.IEntryReference`1
+  name: IEntryReference<T>
+  href: api/MackySoft.UniData.IEntryReference-1.html
+  commentId: T:MackySoft.UniData.IEntryReference`1
+  name.vb: IEntryReference(Of T)
+  fullName: MackySoft.UniData.IEntryReference<T>
+  fullName.vb: MackySoft.UniData.IEntryReference(Of T)
+  nameWithType: IEntryReference<T>
+  nameWithType.vb: IEntryReference(Of T)
+- uid: MackySoft.UniData.IEntryReference`1.Catalog
+  name: Catalog
+  href: api/MackySoft.UniData.IEntryReference-1.html#MackySoft_UniData_IEntryReference_1_Catalog
+  commentId: P:MackySoft.UniData.IEntryReference`1.Catalog
+  fullName: MackySoft.UniData.IEntryReference<T>.Catalog
+  fullName.vb: MackySoft.UniData.IEntryReference(Of T).Catalog
+  nameWithType: IEntryReference<T>.Catalog
+  nameWithType.vb: IEntryReference(Of T).Catalog
+- uid: MackySoft.UniData.IEntryReference`1.Catalog*
+  name: Catalog
+  href: api/MackySoft.UniData.IEntryReference-1.html#MackySoft_UniData_IEntryReference_1_Catalog_
+  commentId: Overload:MackySoft.UniData.IEntryReference`1.Catalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.IEntryReference<T>.Catalog
+  fullName.vb: MackySoft.UniData.IEntryReference(Of T).Catalog
+  nameWithType: IEntryReference<T>.Catalog
+  nameWithType.vb: IEntryReference(Of T).Catalog
+- uid: MackySoft.UniData.IEntryReference`1.EntryId
+  name: EntryId
+  href: api/MackySoft.UniData.IEntryReference-1.html#MackySoft_UniData_IEntryReference_1_EntryId
+  commentId: P:MackySoft.UniData.IEntryReference`1.EntryId
+  fullName: MackySoft.UniData.IEntryReference<T>.EntryId
+  fullName.vb: MackySoft.UniData.IEntryReference(Of T).EntryId
+  nameWithType: IEntryReference<T>.EntryId
+  nameWithType.vb: IEntryReference(Of T).EntryId
+- uid: MackySoft.UniData.IEntryReference`1.EntryId*
+  name: EntryId
+  href: api/MackySoft.UniData.IEntryReference-1.html#MackySoft_UniData_IEntryReference_1_EntryId_
+  commentId: Overload:MackySoft.UniData.IEntryReference`1.EntryId
+  isSpec: "True"
+  fullName: MackySoft.UniData.IEntryReference<T>.EntryId
+  fullName.vb: MackySoft.UniData.IEntryReference(Of T).EntryId
+  nameWithType: IEntryReference<T>.EntryId
+  nameWithType.vb: IEntryReference(Of T).EntryId
+- uid: MackySoft.UniData.IO
+  name: MackySoft.UniData.IO
+  href: api/MackySoft.UniData.IO.html
+  commentId: N:MackySoft.UniData.IO
+  fullName: MackySoft.UniData.IO
+  nameWithType: MackySoft.UniData.IO
+- uid: MackySoft.UniData.IO.Assets
+  name: MackySoft.UniData.IO.Assets
+  href: api/MackySoft.UniData.IO.Assets.html
+  commentId: N:MackySoft.UniData.IO.Assets
+  fullName: MackySoft.UniData.IO.Assets
+  nameWithType: MackySoft.UniData.IO.Assets
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset
+  name: PlayerPrefsDataCatalogIOAsset
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html
+  commentId: T:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset
+  nameWithType: PlayerPrefsDataCatalogIOAsset
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  name: Load(DataCatalog, DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_Load_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  nameWithType: PlayerPrefsDataCatalogIOAsset.Load(DataCatalog, DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load*
+  name: Load
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_Load_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load
+  nameWithType: PlayerPrefsDataCatalogIOAsset.Load
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+  name: PlayerPrefsKeyPrefix
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_PlayerPrefsKeyPrefix
+  commentId: P:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+  nameWithType: PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix*
+  name: PlayerPrefsKeyPrefix
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_PlayerPrefsKeyPrefix_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+  nameWithType: PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  name: Save(DataCatalog, DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_Save_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  nameWithType: PlayerPrefsDataCatalogIOAsset.Save(DataCatalog, DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save*
+  name: Save
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_Save_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save
+  nameWithType: PlayerPrefsDataCatalogIOAsset.Save
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
+  name: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html
+  commentId: T:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor
+  name: SerializableDataCatalog()
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog__ctor
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog()
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog()
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  name: SerializableDataCatalog(DataCatalog, DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog__ctor_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog(DataCatalog, DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor*
+  name: SerializableDataCatalog
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog__ctor_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  name: ApplyChanges(PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog, DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ApplyChanges_MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog, DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges*
+  name: ApplyChanges
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ApplyChanges_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+  name: Entries
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_Entries
+  commentId: P:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries*
+  name: Entries
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_Entries_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  name: FromJsonOverwrite(DataCatalog, DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_FromJsonOverwrite_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(DataCatalog, DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite*
+  name: FromJsonOverwrite
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_FromJsonOverwrite_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(System.String)
+  name: GetEntry(String)
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_GetEntry_System_String_
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(System.String)
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(System.String)
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(String)
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry*
+  name: GetEntry
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_GetEntry_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
+  name: ToJson()
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ToJson
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson()
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson()
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson*
+  name: ToJson
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ToJson_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String,MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry@)
+  name: TryGetEntry(String, out PlayerPrefsDataCatalogIOAsset.SerializableEntry)
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_TryGetEntry_System_String_MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry__
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String,MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry@)
+  name.vb: TryGetEntry(String, ByRef PlayerPrefsDataCatalogIOAsset.SerializableEntry)
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String, out MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry)
+  fullName.vb: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String, ByRef MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry)
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(String, out PlayerPrefsDataCatalogIOAsset.SerializableEntry)
+  nameWithType.vb: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(String, ByRef PlayerPrefsDataCatalogIOAsset.SerializableEntry)
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry*
+  name: TryGetEntry
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_TryGetEntry_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry
+  name: PlayerPrefsDataCatalogIOAsset.SerializableEntry
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html
+  commentId: T:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor(MackySoft.UniData.IEntry)
+  name: SerializableEntry(IEntry)
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry__ctor_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor(MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry(MackySoft.UniData.IEntry)
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry(IEntry)
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor*
+  name: SerializableEntry
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry__ctor_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+  name: Data
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Data
+  commentId: P:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data*
+  name: Data
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Data_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(MackySoft.UniData.IEntry)
+  name: FromJsonOverwrite(IEntry)
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_FromJsonOverwrite_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(MackySoft.UniData.IEntry)
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(IEntry)
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite*
+  name: FromJsonOverwrite
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_FromJsonOverwrite_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+  name: Id
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Id
+  commentId: P:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id*
+  name: Id
+  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Id_
+  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+  nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+- uid: MackySoft.UniData.IO.AutoSaveTiming
+  name: AutoSaveTiming
+  href: api/MackySoft.UniData.IO.AutoSaveTiming.html
+  commentId: T:MackySoft.UniData.IO.AutoSaveTiming
+  fullName: MackySoft.UniData.IO.AutoSaveTiming
+  nameWithType: AutoSaveTiming
+- uid: MackySoft.UniData.IO.AutoSaveTiming.None
+  name: None
+  href: api/MackySoft.UniData.IO.AutoSaveTiming.html#MackySoft_UniData_IO_AutoSaveTiming_None
+  commentId: F:MackySoft.UniData.IO.AutoSaveTiming.None
+  fullName: MackySoft.UniData.IO.AutoSaveTiming.None
+  nameWithType: AutoSaveTiming.None
+- uid: MackySoft.UniData.IO.AutoSaveTiming.OnApplicationPause
+  name: OnApplicationPause
+  href: api/MackySoft.UniData.IO.AutoSaveTiming.html#MackySoft_UniData_IO_AutoSaveTiming_OnApplicationPause
+  commentId: F:MackySoft.UniData.IO.AutoSaveTiming.OnApplicationPause
+  fullName: MackySoft.UniData.IO.AutoSaveTiming.OnApplicationPause
+  nameWithType: AutoSaveTiming.OnApplicationPause
+- uid: MackySoft.UniData.IO.AutoSaveTiming.OnApplicationQuit
+  name: OnApplicationQuit
+  href: api/MackySoft.UniData.IO.AutoSaveTiming.html#MackySoft_UniData_IO_AutoSaveTiming_OnApplicationQuit
+  commentId: F:MackySoft.UniData.IO.AutoSaveTiming.OnApplicationQuit
+  fullName: MackySoft.UniData.IO.AutoSaveTiming.OnApplicationQuit
+  nameWithType: AutoSaveTiming.OnApplicationQuit
+- uid: MackySoft.UniData.IO.DataCatalogAutoIO
+  name: DataCatalogAutoIO
+  href: api/MackySoft.UniData.IO.DataCatalogAutoIO.html
+  commentId: T:MackySoft.UniData.IO.DataCatalogAutoIO
+  fullName: MackySoft.UniData.IO.DataCatalogAutoIO
+  nameWithType: DataCatalogAutoIO
+- uid: MackySoft.UniData.IO.DataCatalogAutoIO.Catalogs
+  name: Catalogs
+  href: api/MackySoft.UniData.IO.DataCatalogAutoIO.html#MackySoft_UniData_IO_DataCatalogAutoIO_Catalogs
+  commentId: P:MackySoft.UniData.IO.DataCatalogAutoIO.Catalogs
+  fullName: MackySoft.UniData.IO.DataCatalogAutoIO.Catalogs
+  nameWithType: DataCatalogAutoIO.Catalogs
+- uid: MackySoft.UniData.IO.DataCatalogAutoIO.Catalogs*
+  name: Catalogs
+  href: api/MackySoft.UniData.IO.DataCatalogAutoIO.html#MackySoft_UniData_IO_DataCatalogAutoIO_Catalogs_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogAutoIO.Catalogs
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogAutoIO.Catalogs
+  nameWithType: DataCatalogAutoIO.Catalogs
+- uid: MackySoft.UniData.IO.DataCatalogAutoIO.RegisterCatalog(MackySoft.UniData.DataCatalog)
+  name: RegisterCatalog(DataCatalog)
+  href: api/MackySoft.UniData.IO.DataCatalogAutoIO.html#MackySoft_UniData_IO_DataCatalogAutoIO_RegisterCatalog_MackySoft_UniData_DataCatalog_
+  commentId: M:MackySoft.UniData.IO.DataCatalogAutoIO.RegisterCatalog(MackySoft.UniData.DataCatalog)
+  fullName: MackySoft.UniData.IO.DataCatalogAutoIO.RegisterCatalog(MackySoft.UniData.DataCatalog)
+  nameWithType: DataCatalogAutoIO.RegisterCatalog(DataCatalog)
+- uid: MackySoft.UniData.IO.DataCatalogAutoIO.RegisterCatalog*
+  name: RegisterCatalog
+  href: api/MackySoft.UniData.IO.DataCatalogAutoIO.html#MackySoft_UniData_IO_DataCatalogAutoIO_RegisterCatalog_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogAutoIO.RegisterCatalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogAutoIO.RegisterCatalog
+  nameWithType: DataCatalogAutoIO.RegisterCatalog
+- uid: MackySoft.UniData.IO.DataCatalogAutoIO.Save
+  name: Save()
+  href: api/MackySoft.UniData.IO.DataCatalogAutoIO.html#MackySoft_UniData_IO_DataCatalogAutoIO_Save
+  commentId: M:MackySoft.UniData.IO.DataCatalogAutoIO.Save
+  fullName: MackySoft.UniData.IO.DataCatalogAutoIO.Save()
+  nameWithType: DataCatalogAutoIO.Save()
+- uid: MackySoft.UniData.IO.DataCatalogAutoIO.Save*
+  name: Save
+  href: api/MackySoft.UniData.IO.DataCatalogAutoIO.html#MackySoft_UniData_IO_DataCatalogAutoIO_Save_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogAutoIO.Save
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogAutoIO.Save
+  nameWithType: DataCatalogAutoIO.Save
+- uid: MackySoft.UniData.IO.DataCatalogAutoIO.UnregisterCatalog(MackySoft.UniData.DataCatalog)
+  name: UnregisterCatalog(DataCatalog)
+  href: api/MackySoft.UniData.IO.DataCatalogAutoIO.html#MackySoft_UniData_IO_DataCatalogAutoIO_UnregisterCatalog_MackySoft_UniData_DataCatalog_
+  commentId: M:MackySoft.UniData.IO.DataCatalogAutoIO.UnregisterCatalog(MackySoft.UniData.DataCatalog)
+  fullName: MackySoft.UniData.IO.DataCatalogAutoIO.UnregisterCatalog(MackySoft.UniData.DataCatalog)
+  nameWithType: DataCatalogAutoIO.UnregisterCatalog(DataCatalog)
+- uid: MackySoft.UniData.IO.DataCatalogAutoIO.UnregisterCatalog*
+  name: UnregisterCatalog
+  href: api/MackySoft.UniData.IO.DataCatalogAutoIO.html#MackySoft_UniData_IO_DataCatalogAutoIO_UnregisterCatalog_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogAutoIO.UnregisterCatalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogAutoIO.UnregisterCatalog
+  nameWithType: DataCatalogAutoIO.UnregisterCatalog
+- uid: MackySoft.UniData.IO.DataCatalogIO
+  name: DataCatalogIO
+  href: api/MackySoft.UniData.IO.DataCatalogIO.html
+  commentId: T:MackySoft.UniData.IO.DataCatalogIO
+  fullName: MackySoft.UniData.IO.DataCatalogIO
+  nameWithType: DataCatalogIO
+- uid: MackySoft.UniData.IO.DataCatalogIO.Load*
+  name: Load
+  href: api/MackySoft.UniData.IO.DataCatalogIO.html#MackySoft_UniData_IO_DataCatalogIO_Load_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogIO.Load
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogIO.Load
+  nameWithType: DataCatalogIO.Load
+- uid: MackySoft.UniData.IO.DataCatalogIO.Load``1(``0)
+  name: Load<T>(T)
+  href: api/MackySoft.UniData.IO.DataCatalogIO.html#MackySoft_UniData_IO_DataCatalogIO_Load__1___0_
+  commentId: M:MackySoft.UniData.IO.DataCatalogIO.Load``1(``0)
+  name.vb: Load(Of T)(T)
+  fullName: MackySoft.UniData.IO.DataCatalogIO.Load<T>(T)
+  fullName.vb: MackySoft.UniData.IO.DataCatalogIO.Load(Of T)(T)
+  nameWithType: DataCatalogIO.Load<T>(T)
+  nameWithType.vb: DataCatalogIO.Load(Of T)(T)
+- uid: MackySoft.UniData.IO.DataCatalogIO.Load``1(``0,MackySoft.UniData.IO.DataCatalogIOContext)
+  name: Load<T>(T, DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.DataCatalogIO.html#MackySoft_UniData_IO_DataCatalogIO_Load__1___0_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.DataCatalogIO.Load``1(``0,MackySoft.UniData.IO.DataCatalogIOContext)
+  name.vb: Load(Of T)(T, DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.DataCatalogIO.Load<T>(T, MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName.vb: MackySoft.UniData.IO.DataCatalogIO.Load(Of T)(T, MackySoft.UniData.IO.DataCatalogIOContext)
+  nameWithType: DataCatalogIO.Load<T>(T, DataCatalogIOContext)
+  nameWithType.vb: DataCatalogIO.Load(Of T)(T, DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.DataCatalogIO.Save*
+  name: Save
+  href: api/MackySoft.UniData.IO.DataCatalogIO.html#MackySoft_UniData_IO_DataCatalogIO_Save_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogIO.Save
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogIO.Save
+  nameWithType: DataCatalogIO.Save
+- uid: MackySoft.UniData.IO.DataCatalogIO.Save``1(``0)
+  name: Save<T>(T)
+  href: api/MackySoft.UniData.IO.DataCatalogIO.html#MackySoft_UniData_IO_DataCatalogIO_Save__1___0_
+  commentId: M:MackySoft.UniData.IO.DataCatalogIO.Save``1(``0)
+  name.vb: Save(Of T)(T)
+  fullName: MackySoft.UniData.IO.DataCatalogIO.Save<T>(T)
+  fullName.vb: MackySoft.UniData.IO.DataCatalogIO.Save(Of T)(T)
+  nameWithType: DataCatalogIO.Save<T>(T)
+  nameWithType.vb: DataCatalogIO.Save(Of T)(T)
+- uid: MackySoft.UniData.IO.DataCatalogIO.Save``1(``0,MackySoft.UniData.IO.DataCatalogIOContext)
+  name: Save<T>(T, DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.DataCatalogIO.html#MackySoft_UniData_IO_DataCatalogIO_Save__1___0_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.DataCatalogIO.Save``1(``0,MackySoft.UniData.IO.DataCatalogIOContext)
+  name.vb: Save(Of T)(T, DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.DataCatalogIO.Save<T>(T, MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName.vb: MackySoft.UniData.IO.DataCatalogIO.Save(Of T)(T, MackySoft.UniData.IO.DataCatalogIOContext)
+  nameWithType: DataCatalogIO.Save<T>(T, DataCatalogIOContext)
+  nameWithType.vb: DataCatalogIO.Save(Of T)(T, DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.DataCatalogIOAsset
+  name: DataCatalogIOAsset
+  href: api/MackySoft.UniData.IO.DataCatalogIOAsset.html
+  commentId: T:MackySoft.UniData.IO.DataCatalogIOAsset
+  fullName: MackySoft.UniData.IO.DataCatalogIOAsset
+  nameWithType: DataCatalogIOAsset
+- uid: MackySoft.UniData.IO.DataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  name: Load(DataCatalog, DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.DataCatalogIOAsset.html#MackySoft_UniData_IO_DataCatalogIOAsset_Load_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.DataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.DataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  nameWithType: DataCatalogIOAsset.Load(DataCatalog, DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.DataCatalogIOAsset.Load*
+  name: Load
+  href: api/MackySoft.UniData.IO.DataCatalogIOAsset.html#MackySoft_UniData_IO_DataCatalogIOAsset_Load_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogIOAsset.Load
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogIOAsset.Load
+  nameWithType: DataCatalogIOAsset.Load
+- uid: MackySoft.UniData.IO.DataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  name: Save(DataCatalog, DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.DataCatalogIOAsset.html#MackySoft_UniData_IO_DataCatalogIOAsset_Save_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.DataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.DataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  nameWithType: DataCatalogIOAsset.Save(DataCatalog, DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.DataCatalogIOAsset.Save*
+  name: Save
+  href: api/MackySoft.UniData.IO.DataCatalogIOAsset.html#MackySoft_UniData_IO_DataCatalogIOAsset_Save_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogIOAsset.Save
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogIOAsset.Save
+  nameWithType: DataCatalogIOAsset.Save
+- uid: MackySoft.UniData.IO.DataCatalogIOContext
+  name: DataCatalogIOContext
+  href: api/MackySoft.UniData.IO.DataCatalogIOContext.html
+  commentId: T:MackySoft.UniData.IO.DataCatalogIOContext
+  fullName: MackySoft.UniData.IO.DataCatalogIOContext
+  nameWithType: DataCatalogIOContext
+- uid: MackySoft.UniData.IO.DataCatalogIOContext.Default
+  name: Default
+  href: api/MackySoft.UniData.IO.DataCatalogIOContext.html#MackySoft_UniData_IO_DataCatalogIOContext_Default
+  commentId: P:MackySoft.UniData.IO.DataCatalogIOContext.Default
+  fullName: MackySoft.UniData.IO.DataCatalogIOContext.Default
+  nameWithType: DataCatalogIOContext.Default
+- uid: MackySoft.UniData.IO.DataCatalogIOContext.Default*
+  name: Default
+  href: api/MackySoft.UniData.IO.DataCatalogIOContext.html#MackySoft_UniData_IO_DataCatalogIOContext_Default_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogIOContext.Default
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogIOContext.Default
+  nameWithType: DataCatalogIOContext.Default
+- uid: MackySoft.UniData.IO.DataCatalogIOContext.GetEntries(MackySoft.UniData.DataCatalog)
+  name: GetEntries(DataCatalog)
+  href: api/MackySoft.UniData.IO.DataCatalogIOContext.html#MackySoft_UniData_IO_DataCatalogIOContext_GetEntries_MackySoft_UniData_DataCatalog_
+  commentId: M:MackySoft.UniData.IO.DataCatalogIOContext.GetEntries(MackySoft.UniData.DataCatalog)
+  fullName: MackySoft.UniData.IO.DataCatalogIOContext.GetEntries(MackySoft.UniData.DataCatalog)
+  nameWithType: DataCatalogIOContext.GetEntries(DataCatalog)
+- uid: MackySoft.UniData.IO.DataCatalogIOContext.GetEntries*
+  name: GetEntries
+  href: api/MackySoft.UniData.IO.DataCatalogIOContext.html#MackySoft_UniData_IO_DataCatalogIOContext_GetEntries_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogIOContext.GetEntries
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogIOContext.GetEntries
+  nameWithType: DataCatalogIOContext.GetEntries
+- uid: MackySoft.UniData.IO.DataCatalogIOContext.Ids
+  name: Ids
+  href: api/MackySoft.UniData.IO.DataCatalogIOContext.html#MackySoft_UniData_IO_DataCatalogIOContext_Ids
+  commentId: P:MackySoft.UniData.IO.DataCatalogIOContext.Ids
+  fullName: MackySoft.UniData.IO.DataCatalogIOContext.Ids
+  nameWithType: DataCatalogIOContext.Ids
+- uid: MackySoft.UniData.IO.DataCatalogIOContext.Ids*
+  name: Ids
+  href: api/MackySoft.UniData.IO.DataCatalogIOContext.html#MackySoft_UniData_IO_DataCatalogIOContext_Ids_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogIOContext.Ids
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogIOContext.Ids
+  nameWithType: DataCatalogIOContext.Ids
+- uid: MackySoft.UniData.IO.DataCatalogIOContext.Index
+  name: Index
+  href: api/MackySoft.UniData.IO.DataCatalogIOContext.html#MackySoft_UniData_IO_DataCatalogIOContext_Index
+  commentId: P:MackySoft.UniData.IO.DataCatalogIOContext.Index
+  fullName: MackySoft.UniData.IO.DataCatalogIOContext.Index
+  nameWithType: DataCatalogIOContext.Index
+- uid: MackySoft.UniData.IO.DataCatalogIOContext.Index*
+  name: Index
+  href: api/MackySoft.UniData.IO.DataCatalogIOContext.html#MackySoft_UniData_IO_DataCatalogIOContext_Index_
+  commentId: Overload:MackySoft.UniData.IO.DataCatalogIOContext.Index
+  isSpec: "True"
+  fullName: MackySoft.UniData.IO.DataCatalogIOContext.Index
+  nameWithType: DataCatalogIOContext.Index
+- uid: MackySoft.UniData.IReadOnlyData
+  name: IReadOnlyData
+  href: api/MackySoft.UniData.IReadOnlyData.html
+  commentId: T:MackySoft.UniData.IReadOnlyData
+  fullName: MackySoft.UniData.IReadOnlyData
+  nameWithType: IReadOnlyData
+- uid: MackySoft.UniData.IReadOnlyData.Value
+  name: Value
+  href: api/MackySoft.UniData.IReadOnlyData.html#MackySoft_UniData_IReadOnlyData_Value
+  commentId: P:MackySoft.UniData.IReadOnlyData.Value
+  fullName: MackySoft.UniData.IReadOnlyData.Value
+  nameWithType: IReadOnlyData.Value
+- uid: MackySoft.UniData.IReadOnlyData.Value*
+  name: Value
+  href: api/MackySoft.UniData.IReadOnlyData.html#MackySoft_UniData_IReadOnlyData_Value_
+  commentId: Overload:MackySoft.UniData.IReadOnlyData.Value
+  isSpec: "True"
+  fullName: MackySoft.UniData.IReadOnlyData.Value
+  nameWithType: IReadOnlyData.Value
+- uid: MackySoft.UniData.IReadOnlyData`1
+  name: IReadOnlyData<T>
+  href: api/MackySoft.UniData.IReadOnlyData-1.html
+  commentId: T:MackySoft.UniData.IReadOnlyData`1
+  name.vb: IReadOnlyData(Of T)
+  fullName: MackySoft.UniData.IReadOnlyData<T>
+  fullName.vb: MackySoft.UniData.IReadOnlyData(Of T)
+  nameWithType: IReadOnlyData<T>
+  nameWithType.vb: IReadOnlyData(Of T)
+- uid: MackySoft.UniData.IReadOnlyData`1.Value
+  name: Value
+  href: api/MackySoft.UniData.IReadOnlyData-1.html#MackySoft_UniData_IReadOnlyData_1_Value
+  commentId: P:MackySoft.UniData.IReadOnlyData`1.Value
+  fullName: MackySoft.UniData.IReadOnlyData<T>.Value
+  fullName.vb: MackySoft.UniData.IReadOnlyData(Of T).Value
+  nameWithType: IReadOnlyData<T>.Value
+  nameWithType.vb: IReadOnlyData(Of T).Value
+- uid: MackySoft.UniData.IReadOnlyData`1.Value*
+  name: Value
+  href: api/MackySoft.UniData.IReadOnlyData-1.html#MackySoft_UniData_IReadOnlyData_1_Value_
+  commentId: Overload:MackySoft.UniData.IReadOnlyData`1.Value
+  isSpec: "True"
+  fullName: MackySoft.UniData.IReadOnlyData<T>.Value
+  fullName.vb: MackySoft.UniData.IReadOnlyData(Of T).Value
+  nameWithType: IReadOnlyData<T>.Value
+  nameWithType.vb: IReadOnlyData(Of T).Value
+- uid: MackySoft.UniData.IReadOnlyEntryReference
+  name: IReadOnlyEntryReference
+  href: api/MackySoft.UniData.IReadOnlyEntryReference.html
+  commentId: T:MackySoft.UniData.IReadOnlyEntryReference
+  fullName: MackySoft.UniData.IReadOnlyEntryReference
+  nameWithType: IReadOnlyEntryReference
+- uid: MackySoft.UniData.IReadOnlyEntryReference`1
+  name: IReadOnlyEntryReference<T>
+  href: api/MackySoft.UniData.IReadOnlyEntryReference-1.html
+  commentId: T:MackySoft.UniData.IReadOnlyEntryReference`1
+  name.vb: IReadOnlyEntryReference(Of T)
+  fullName: MackySoft.UniData.IReadOnlyEntryReference<T>
+  fullName.vb: MackySoft.UniData.IReadOnlyEntryReference(Of T)
+  nameWithType: IReadOnlyEntryReference<T>
+  nameWithType.vb: IReadOnlyEntryReference(Of T)
+- uid: MackySoft.UniData.IReadOnlyEntryReference`1.Catalog
+  name: Catalog
+  href: api/MackySoft.UniData.IReadOnlyEntryReference-1.html#MackySoft_UniData_IReadOnlyEntryReference_1_Catalog
+  commentId: P:MackySoft.UniData.IReadOnlyEntryReference`1.Catalog
+  fullName: MackySoft.UniData.IReadOnlyEntryReference<T>.Catalog
+  fullName.vb: MackySoft.UniData.IReadOnlyEntryReference(Of T).Catalog
+  nameWithType: IReadOnlyEntryReference<T>.Catalog
+  nameWithType.vb: IReadOnlyEntryReference(Of T).Catalog
+- uid: MackySoft.UniData.IReadOnlyEntryReference`1.Catalog*
+  name: Catalog
+  href: api/MackySoft.UniData.IReadOnlyEntryReference-1.html#MackySoft_UniData_IReadOnlyEntryReference_1_Catalog_
+  commentId: Overload:MackySoft.UniData.IReadOnlyEntryReference`1.Catalog
+  isSpec: "True"
+  fullName: MackySoft.UniData.IReadOnlyEntryReference<T>.Catalog
+  fullName.vb: MackySoft.UniData.IReadOnlyEntryReference(Of T).Catalog
+  nameWithType: IReadOnlyEntryReference<T>.Catalog
+  nameWithType.vb: IReadOnlyEntryReference(Of T).Catalog
+- uid: MackySoft.UniData.IReadOnlyEntryReference`1.Entry
+  name: Entry
+  href: api/MackySoft.UniData.IReadOnlyEntryReference-1.html#MackySoft_UniData_IReadOnlyEntryReference_1_Entry
+  commentId: P:MackySoft.UniData.IReadOnlyEntryReference`1.Entry
+  fullName: MackySoft.UniData.IReadOnlyEntryReference<T>.Entry
+  fullName.vb: MackySoft.UniData.IReadOnlyEntryReference(Of T).Entry
+  nameWithType: IReadOnlyEntryReference<T>.Entry
+  nameWithType.vb: IReadOnlyEntryReference(Of T).Entry
+- uid: MackySoft.UniData.IReadOnlyEntryReference`1.Entry*
+  name: Entry
+  href: api/MackySoft.UniData.IReadOnlyEntryReference-1.html#MackySoft_UniData_IReadOnlyEntryReference_1_Entry_
+  commentId: Overload:MackySoft.UniData.IReadOnlyEntryReference`1.Entry
+  isSpec: "True"
+  fullName: MackySoft.UniData.IReadOnlyEntryReference<T>.Entry
+  fullName.vb: MackySoft.UniData.IReadOnlyEntryReference(Of T).Entry
+  nameWithType: IReadOnlyEntryReference<T>.Entry
+  nameWithType.vb: IReadOnlyEntryReference(Of T).Entry
+- uid: MackySoft.UniData.IReadOnlyEntryReference`1.EntryId
+  name: EntryId
+  href: api/MackySoft.UniData.IReadOnlyEntryReference-1.html#MackySoft_UniData_IReadOnlyEntryReference_1_EntryId
+  commentId: P:MackySoft.UniData.IReadOnlyEntryReference`1.EntryId
+  fullName: MackySoft.UniData.IReadOnlyEntryReference<T>.EntryId
+  fullName.vb: MackySoft.UniData.IReadOnlyEntryReference(Of T).EntryId
+  nameWithType: IReadOnlyEntryReference<T>.EntryId
+  nameWithType.vb: IReadOnlyEntryReference(Of T).EntryId
+- uid: MackySoft.UniData.IReadOnlyEntryReference`1.EntryId*
+  name: EntryId
+  href: api/MackySoft.UniData.IReadOnlyEntryReference-1.html#MackySoft_UniData_IReadOnlyEntryReference_1_EntryId_
+  commentId: Overload:MackySoft.UniData.IReadOnlyEntryReference`1.EntryId
+  isSpec: "True"
+  fullName: MackySoft.UniData.IReadOnlyEntryReference<T>.EntryId
+  fullName.vb: MackySoft.UniData.IReadOnlyEntryReference(Of T).EntryId
+  nameWithType: IReadOnlyEntryReference<T>.EntryId
+  nameWithType.vb: IReadOnlyEntryReference(Of T).EntryId
+- uid: MackySoft.UniData.UniDataSettings
+  name: UniDataSettings
+  href: api/MackySoft.UniData.UniDataSettings.html
+  commentId: T:MackySoft.UniData.UniDataSettings
+  fullName: MackySoft.UniData.UniDataSettings
+  nameWithType: UniDataSettings
+- uid: MackySoft.UniData.UniDataSettings.AutoSaveTiming
+  name: AutoSaveTiming
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_AutoSaveTiming
+  commentId: P:MackySoft.UniData.UniDataSettings.AutoSaveTiming
+  fullName: MackySoft.UniData.UniDataSettings.AutoSaveTiming
+  nameWithType: UniDataSettings.AutoSaveTiming
+- uid: MackySoft.UniData.UniDataSettings.AutoSaveTiming*
+  name: AutoSaveTiming
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_AutoSaveTiming_
+  commentId: Overload:MackySoft.UniData.UniDataSettings.AutoSaveTiming
+  isSpec: "True"
+  fullName: MackySoft.UniData.UniDataSettings.AutoSaveTiming
+  nameWithType: UniDataSettings.AutoSaveTiming
+- uid: MackySoft.UniData.UniDataSettings.Instance
+  name: Instance
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_Instance
+  commentId: P:MackySoft.UniData.UniDataSettings.Instance
+  fullName: MackySoft.UniData.UniDataSettings.Instance
+  nameWithType: UniDataSettings.Instance
+- uid: MackySoft.UniData.UniDataSettings.Instance*
+  name: Instance
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_Instance_
+  commentId: Overload:MackySoft.UniData.UniDataSettings.Instance
+  isSpec: "True"
+  fullName: MackySoft.UniData.UniDataSettings.Instance
+  nameWithType: UniDataSettings.Instance
+- uid: MackySoft.UniData.UniDataSettings.Loaders
+  name: Loaders
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_Loaders
+  commentId: P:MackySoft.UniData.UniDataSettings.Loaders
+  fullName: MackySoft.UniData.UniDataSettings.Loaders
+  nameWithType: UniDataSettings.Loaders
+- uid: MackySoft.UniData.UniDataSettings.Loaders*
+  name: Loaders
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_Loaders_
+  commentId: Overload:MackySoft.UniData.UniDataSettings.Loaders
+  isSpec: "True"
+  fullName: MackySoft.UniData.UniDataSettings.Loaders
+  nameWithType: UniDataSettings.Loaders
+- uid: MackySoft.UniData.UniDataSettings.PreloadedCatalogs
+  name: PreloadedCatalogs
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_PreloadedCatalogs
+  commentId: P:MackySoft.UniData.UniDataSettings.PreloadedCatalogs
+  fullName: MackySoft.UniData.UniDataSettings.PreloadedCatalogs
+  nameWithType: UniDataSettings.PreloadedCatalogs
+- uid: MackySoft.UniData.UniDataSettings.PreloadedCatalogs*
+  name: PreloadedCatalogs
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_PreloadedCatalogs_
+  commentId: Overload:MackySoft.UniData.UniDataSettings.PreloadedCatalogs
+  isSpec: "True"
+  fullName: MackySoft.UniData.UniDataSettings.PreloadedCatalogs
+  nameWithType: UniDataSettings.PreloadedCatalogs
+- uid: MackySoft.UniData.UniDataSettings.Saver
+  name: Saver
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_Saver
+  commentId: P:MackySoft.UniData.UniDataSettings.Saver
+  fullName: MackySoft.UniData.UniDataSettings.Saver
+  nameWithType: UniDataSettings.Saver
+- uid: MackySoft.UniData.UniDataSettings.Saver*
+  name: Saver
+  href: api/MackySoft.UniData.UniDataSettings.html#MackySoft_UniData_UniDataSettings_Saver_
+  commentId: Overload:MackySoft.UniData.UniDataSettings.Saver
+  isSpec: "True"
+  fullName: MackySoft.UniData.UniDataSettings.Saver
+  nameWithType: UniDataSettings.Saver

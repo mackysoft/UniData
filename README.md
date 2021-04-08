@@ -34,7 +34,7 @@ being written
 
 UniData supports integration with several external assets.
 
-### <a id="external-assets-easysave3" href="#external-assets-easysave3"> Easy Save </a>
+### <a id="external-assets-easysave" href="#external-assets-easysave"> Easy Save </a>
 
 The Easy Save integration includes the `ES3DataCatalogIOAsset`.
 

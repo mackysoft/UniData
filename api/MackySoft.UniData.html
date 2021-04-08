@@ -88,17 +88,26 @@
     <h3 id="classes">Classes
   </h3>
       <h4><a class="xref" href="MackySoft.UniData.AddTypeMenuAttribute.html">AddTypeMenuAttribute</a></h4>
-      <section><p>An attribute that overrides the name of the type displayed in the SubclassSelector popup.</p>
+      <section><p><p> An attribute that overrides the name of the type displayed in the SubclassSelector popup. </p>
+<example>
+<p> The following is a sample of applying the AddTypeMenu attribute to a class that implements <a class="xref" href="MackySoft.UniData.IEntry.html">IEntry</a>. </p><p>
+<pre><code>[AddTypeMenu(&quot;Example/Example Data&quot;)]
+[Serializable]
+public class ExampleData : IEntry { ... }</code></pre>
+<p></example></p>
 </section>
       <h4><a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a></h4>
       <section><p>Provides a collection of data that is flexible and editable in the editor.</p>
 </section>
       <h4><a class="xref" href="MackySoft.UniData.EntryReference.html">EntryReference</a></h4>
-      <section></section>
+      <section><p>An EntryReference that can refer to entries of all types.</p>
+</section>
       <h4><a class="xref" href="MackySoft.UniData.EntryReference-1.html">EntryReference&lt;T&gt;</a></h4>
       <section><p> A reference to an entry in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a>. </p>
 <p> By using this class, you can easily set and get reference to an entry in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> in the editor. </p>
 </section>
+      <h4><a class="xref" href="MackySoft.UniData.EntryReferenceExtensions.html">EntryReferenceExtensions</a></h4>
+      <section></section>
       <h4><a class="xref" href="MackySoft.UniData.UniDataSettings.html">UniDataSettings</a></h4>
       <section><p> UniDataSettings is where you can configure settings related to UniData.</p>
 <p> It can be opened from the &quot;Tools/UniData/Open Settings&quot; menu. </p>
@@ -113,9 +122,11 @@
       <section><p>An interface that allows simple access to the main value of data.</p>
 </section>
       <h4><a class="xref" href="MackySoft.UniData.IEntry.html">IEntry</a></h4>
-      <section></section>
+      <section><p> The data enumerated by <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> must implement this interface. </p>
+</section>
       <h4><a class="xref" href="MackySoft.UniData.IEntryReference.html">IEntryReference</a></h4>
-      <section></section>
+      <section><p> A reference to an entry in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a>. </p>
+</section>
       <h4><a class="xref" href="MackySoft.UniData.IEntryReference-1.html">IEntryReference&lt;T&gt;</a></h4>
       <section><p> A reference to an entry in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a>. </p>
 </section>
@@ -127,7 +138,8 @@
       <section><p>An interface that allows simple access to the main value of data.</p>
 </section>
       <h4><a class="xref" href="MackySoft.UniData.IReadOnlyEntryReference.html">IReadOnlyEntryReference</a></h4>
-      <section></section>
+      <section><p> A reference to an entry in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a>. </p>
+</section>
       <h4><a class="xref" href="MackySoft.UniData.IReadOnlyEntryReference-1.html">IReadOnlyEntryReference&lt;T&gt;</a></h4>
       <section><p> A reference to an entry in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a>. </p>
 </section>

@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class AddTypeMenuAttribute
+    <title>Class DataCatalogValidation
    | UniData </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class AddTypeMenuAttribute
+    <meta name="title" content="Class DataCatalogValidation
    | UniData ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -78,42 +78,36 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MackySoft.UniData.AddTypeMenuAttribute">
+            <article class="content wrap" id="_content" data-uid="MackySoft.UniData.Diagnostics.DataCatalogValidation">
   
   
-  <h1 id="MackySoft_UniData_AddTypeMenuAttribute" data-uid="MackySoft.UniData.AddTypeMenuAttribute" class="text-break">Class AddTypeMenuAttribute
+  <h1 id="MackySoft_UniData_Diagnostics_DataCatalogValidation" data-uid="MackySoft.UniData.Diagnostics.DataCatalogValidation" class="text-break">Class DataCatalogValidation
   </h1>
-  <div class="markdown level0 summary"><p><p> An attribute that overrides the name of the type displayed in the SubclassSelector popup. </p>
-<example>
-<p> The following is a sample of applying the AddTypeMenu attribute to a class that implements <a class="xref" href="MackySoft.UniData.IEntry.html">IEntry</a>. </p><p>
-<pre><code>[AddTypeMenu(&quot;Example/Example Data&quot;)]
-[Serializable]
-public class ExampleData : IEntry { ... }</code></pre>
-<p></example></p>
+  <div class="markdown level0 summary"><p>Class that validate the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a>.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.object">Object</a></div>
-    <div class="level1"><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.attribute">Attribute</a></div>
-    <div class="level2"><span class="xref">AddTypeMenuAttribute</span></div>
+    <div class="level1"><span class="xref">DataCatalogValidation</span></div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="MackySoft.UniData.html">MackySoft.UniData</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="MackySoft.UniData.Diagnostics.html">MackySoft.UniData.Diagnostics</a></h6>
   <h6><strong>Assembly</strong>: cs.temp.dll.dll</h6>
-  <h5 id="MackySoft_UniData_AddTypeMenuAttribute_syntax">Syntax</h5>
+  <h5 id="MackySoft_UniData_Diagnostics_DataCatalogValidation_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">[AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct | AttributeTargets.Enum | AttributeTargets.Interface, AllowMultiple = false, Inherited = false)]
-public sealed class AddTypeMenuAttribute : Attribute, _Attribute</code></pre>
+    <pre><code class="lang-csharp hljs">public static class DataCatalogValidation</code></pre>
   </div>
-  <h3 id="constructors">Constructors
+  <h3 id="methods">Methods
   </h3>
-  <a id="MackySoft_UniData_AddTypeMenuAttribute__ctor_" data-uid="MackySoft.UniData.AddTypeMenuAttribute.#ctor*"></a>
-  <h4 id="MackySoft_UniData_AddTypeMenuAttribute__ctor_System_String_System_Int32_" data-uid="MackySoft.UniData.AddTypeMenuAttribute.#ctor(System.String,System.Int32)">AddTypeMenuAttribute(String, Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="MackySoft_UniData_Diagnostics_DataCatalogValidation_HasDuplication_" data-uid="MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication*"></a>
+  <h4 id="MackySoft_UniData_Diagnostics_DataCatalogValidation_HasDuplication__1___0_" data-uid="MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication``1(``0)">HasDuplication&lt;T&gt;(T)</h4>
+  <div class="markdown level1 summary"><p>Check if there are any duplicate ID&apos;s in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> entries.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public AddTypeMenuAttribute(string menuName, int order = 0)</code></pre>
+    <pre><code class="lang-csharp hljs">public static bool HasDuplication&lt;T&gt;(this T source)
+    where T : DataCatalog</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -126,76 +120,12 @@ public sealed class AddTypeMenuAttribute : Attribute, _Attribute</code></pre>
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.string">String</a></td>
-        <td><span class="parametername">menuName</span></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.int32">Int32</a></td>
-        <td><span class="parametername">order</span></td>
+        <td><span class="xref">T</span></td>
+        <td><span class="parametername">source</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
-  <h3 id="properties">Properties
-  </h3>
-  <a id="MackySoft_UniData_AddTypeMenuAttribute_MenuName_" data-uid="MackySoft.UniData.AddTypeMenuAttribute.MenuName*"></a>
-  <h4 id="MackySoft_UniData_AddTypeMenuAttribute_MenuName" data-uid="MackySoft.UniData.AddTypeMenuAttribute.MenuName">MenuName</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public string MenuName { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.string">String</a></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <a id="MackySoft_UniData_AddTypeMenuAttribute_Order_" data-uid="MackySoft.UniData.AddTypeMenuAttribute.Order*"></a>
-  <h4 id="MackySoft_UniData_AddTypeMenuAttribute_Order" data-uid="MackySoft.UniData.AddTypeMenuAttribute.Order">Order</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int Order { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.int32">Int32</a></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <h3 id="methods">Methods
-  </h3>
-  <a id="MackySoft_UniData_AddTypeMenuAttribute_GetSplittedMenuName_" data-uid="MackySoft.UniData.AddTypeMenuAttribute.GetSplittedMenuName*"></a>
-  <h4 id="MackySoft_UniData_AddTypeMenuAttribute_GetSplittedMenuName" data-uid="MackySoft.UniData.AddTypeMenuAttribute.GetSplittedMenuName">GetSplittedMenuName()</h4>
-  <div class="markdown level1 summary"><p>Returns the <a class="xref" href="MackySoft.UniData.AddTypeMenuAttribute.html#MackySoft_UniData_AddTypeMenuAttribute_MenuName">MenuName</a> splitted by &apos;/&apos;.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public string[] GetSplittedMenuName()</code></pre>
-  </div>
   <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
@@ -206,20 +136,60 @@ public sealed class AddTypeMenuAttribute : Attribute, _Attribute</code></pre>
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.string">String</a>[]</td>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>Returns True if there is a duplicate ID in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> entries, otherwise returns False. </p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">T</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
-  <a id="MackySoft_UniData_AddTypeMenuAttribute_GetTypeNameWithoutPath_" data-uid="MackySoft.UniData.AddTypeMenuAttribute.GetTypeNameWithoutPath*"></a>
-  <h4 id="MackySoft_UniData_AddTypeMenuAttribute_GetTypeNameWithoutPath" data-uid="MackySoft.UniData.AddTypeMenuAttribute.GetTypeNameWithoutPath">GetTypeNameWithoutPath()</h4>
-  <div class="markdown level1 summary"><p>Returns the display name without the path.</p>
+  <a id="MackySoft_UniData_Diagnostics_DataCatalogValidation_HasDuplication_" data-uid="MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication*"></a>
+  <h4 id="MackySoft_UniData_Diagnostics_DataCatalogValidation_HasDuplication__1___0_System_String_" data-uid="MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication``1(``0,System.String)">HasDuplication&lt;T&gt;(T, String)</h4>
+  <div class="markdown level1 summary"><p>Check if there are any duplicate of the specified ID in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> entries.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public string GetTypeNameWithoutPath()</code></pre>
+    <pre><code class="lang-csharp hljs">public static bool HasDuplication&lt;T&gt;(this T source, string id)
+    where T : DataCatalog</code></pre>
   </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">T</span></td>
+        <td><span class="parametername">source</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td><span class="parametername">id</span></td>
+        <td><p>The entry ID that you want to check for duplicates. </p>
+</td>
+      </tr>
+    </tbody>
+  </table>
   <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
@@ -230,7 +200,23 @@ public sealed class AddTypeMenuAttribute : Attribute, _Attribute</code></pre>
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>Returns True if there is a duplicate of the specified ID in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> entries, otherwise returns False. </p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">T</span></td>
         <td></td>
       </tr>
     </tbody>

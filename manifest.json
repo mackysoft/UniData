@@ -28,7 +28,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.AddTypeMenuAttribute.html",
-          "hash": "ZbJEDqkE23ZSlSly1YoFrA=="
+          "hash": "IF86enH1HvLz8jGPHIGTtQ=="
         }
       },
       "is_incremental": false,
@@ -360,11 +360,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MackySoft.UniData.Diagnostics.ValidationUtility.yml",
+      "source_relative_path": "api/MackySoft.UniData.Diagnostics.DataCatalogValidation.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MackySoft.UniData.Diagnostics.ValidationUtility.html",
-          "hash": "c3mSDaAiAOW9XJon6WaDbA=="
+          "relative_path": "api/MackySoft.UniData.Diagnostics.DataCatalogValidation.html",
+          "hash": "vJFRkLSSviCvezwWv6GQuQ=="
         }
       },
       "is_incremental": false,
@@ -376,7 +376,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.Diagnostics.html",
-          "hash": "v9ii+4u6kR1oHSg9S7LkvA=="
+          "hash": "WwteGxVJntWf37LsWPDv6g=="
         }
       },
       "is_incremental": false,
@@ -496,7 +496,19 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.EntryReference.html",
-          "hash": "mHYW/WZILZmolgAHvx7PgA=="
+          "hash": "oLk5Mq6oM4Y64ZZITuvOqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.UniData.EntryReferenceExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.UniData.EntryReferenceExtensions.html",
+          "hash": "Zj3hDMVfjPPuy6QKl9Dvcg=="
         }
       },
       "is_incremental": false,
@@ -532,7 +544,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IEntry.html",
-          "hash": "TygBm1elEXnibj6sab8Xiw=="
+          "hash": "tfiy/1IQ6j0ljlx3GmTR1A=="
         }
       },
       "is_incremental": false,
@@ -556,7 +568,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IEntryReference.html",
-          "hash": "ixP5EQiZ+EV8QlC09TMYYw=="
+          "hash": "i82AACBfvrItr9HUT6sBhA=="
         }
       },
       "is_incremental": false,
@@ -564,11 +576,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.yml",
+      "source_relative_path": "api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html",
-          "hash": "a7YrJs7SahOxdtPCBUky/g=="
+          "relative_path": "api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html",
+          "hash": "BlEETxTKvbpfeaj7NlgW0A=="
         }
       },
       "is_incremental": false,
@@ -576,11 +588,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.yml",
+      "source_relative_path": "api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html",
-          "hash": "lyHL8tVUti4w3GBSa6uQrw=="
+          "relative_path": "api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html",
+          "hash": "9Eyq1Dg+5WirQ4RvvXU4mA=="
         }
       },
       "is_incremental": false,
@@ -588,11 +600,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.yml",
+      "source_relative_path": "api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html",
-          "hash": "zW5juCd0oCdmmopTipDV8Q=="
+          "relative_path": "api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.html",
+          "hash": "ArQH2RPb6hsDaxvdNnqytg=="
         }
       },
       "is_incremental": false,
@@ -600,11 +612,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MackySoft.UniData.IO.Assets.yml",
+      "source_relative_path": "api/MackySoft.UniData.IO.Asset.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MackySoft.UniData.IO.Assets.html",
-          "hash": "GD6v1DfEeF0v0wS/sZ7YUg=="
+          "relative_path": "api/MackySoft.UniData.IO.Asset.html",
+          "hash": "tp3B9Tze6sMXSO4Txjwv9g=="
         }
       },
       "is_incremental": false,
@@ -640,7 +652,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.DataCatalogIO.html",
-          "hash": "tt3pp3gblnoaZeKkfdCT6g=="
+          "hash": "s7HkBo2d2P3YmAShMZD3IA=="
         }
       },
       "is_incremental": false,
@@ -652,7 +664,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.DataCatalogIOAsset.html",
-          "hash": "00LCPLQsKVg2mQz7xJshUA=="
+          "hash": "+Ep32146frtBoyZWBmwb3Q=="
         }
       },
       "is_incremental": false,
@@ -676,7 +688,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IO.html",
-          "hash": "CrZCMvc20OzGI37i5Y3SAQ=="
+          "hash": "linHcgDjfQELXM/9weC+qQ=="
         }
       },
       "is_incremental": false,
@@ -724,7 +736,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.IReadOnlyEntryReference.html",
-          "hash": "fHwYQ4a6TnG2LB0+SZIWdA=="
+          "hash": "LingG3kg59ijlx5NpCxNIw=="
         }
       },
       "is_incremental": false,
@@ -748,7 +760,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MackySoft.UniData.html",
-          "hash": "NESDPPkywYaqSRfHN/DVAw=="
+          "hash": "CVgLfxGCoAHfrldWakYDVQ=="
         }
       },
       "is_incremental": false,
@@ -760,7 +772,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "zHm7sm5btZnp9fi27r1lHQ=="
+          "hash": "5V7ja9w85Fm1lXQttZEgeQ=="
         }
       },
       "is_incremental": false,
@@ -796,7 +808,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "YPlhgiu0nmEpS5ze673Ovw=="
+          "hash": "cpr4NEQKOqoXThjN5ZRnhQ=="
         }
       },
       "is_incremental": false,
@@ -835,7 +847,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 61,
+          "total_file_count": 62,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

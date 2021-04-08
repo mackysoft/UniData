@@ -1390,37 +1390,37 @@ references:
   commentId: N:MackySoft.UniData.Diagnostics
   fullName: MackySoft.UniData.Diagnostics
   nameWithType: MackySoft.UniData.Diagnostics
-- uid: MackySoft.UniData.Diagnostics.ValidationUtility
-  name: ValidationUtility
-  href: api/MackySoft.UniData.Diagnostics.ValidationUtility.html
-  commentId: T:MackySoft.UniData.Diagnostics.ValidationUtility
-  fullName: MackySoft.UniData.Diagnostics.ValidationUtility
-  nameWithType: ValidationUtility
-- uid: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication*
+- uid: MackySoft.UniData.Diagnostics.DataCatalogValidation
+  name: DataCatalogValidation
+  href: api/MackySoft.UniData.Diagnostics.DataCatalogValidation.html
+  commentId: T:MackySoft.UniData.Diagnostics.DataCatalogValidation
+  fullName: MackySoft.UniData.Diagnostics.DataCatalogValidation
+  nameWithType: DataCatalogValidation
+- uid: MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication*
   name: HasDuplication
-  href: api/MackySoft.UniData.Diagnostics.ValidationUtility.html#MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication_
-  commentId: Overload:MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication
+  href: api/MackySoft.UniData.Diagnostics.DataCatalogValidation.html#MackySoft_UniData_Diagnostics_DataCatalogValidation_HasDuplication_
+  commentId: Overload:MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication
   isSpec: "True"
-  fullName: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication
-  nameWithType: ValidationUtility.HasDuplication
-- uid: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0)
+  fullName: MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication
+  nameWithType: DataCatalogValidation.HasDuplication
+- uid: MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication``1(``0)
   name: HasDuplication<T>(T)
-  href: api/MackySoft.UniData.Diagnostics.ValidationUtility.html#MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication__1___0_
-  commentId: M:MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0)
+  href: api/MackySoft.UniData.Diagnostics.DataCatalogValidation.html#MackySoft_UniData_Diagnostics_DataCatalogValidation_HasDuplication__1___0_
+  commentId: M:MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication``1(``0)
   name.vb: HasDuplication(Of T)(T)
-  fullName: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication<T>(T)
-  fullName.vb: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication(Of T)(T)
-  nameWithType: ValidationUtility.HasDuplication<T>(T)
-  nameWithType.vb: ValidationUtility.HasDuplication(Of T)(T)
-- uid: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0,System.String)
+  fullName: MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication<T>(T)
+  fullName.vb: MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication(Of T)(T)
+  nameWithType: DataCatalogValidation.HasDuplication<T>(T)
+  nameWithType.vb: DataCatalogValidation.HasDuplication(Of T)(T)
+- uid: MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication``1(``0,System.String)
   name: HasDuplication<T>(T, String)
-  href: api/MackySoft.UniData.Diagnostics.ValidationUtility.html#MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication__1___0_System_String_
-  commentId: M:MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0,System.String)
+  href: api/MackySoft.UniData.Diagnostics.DataCatalogValidation.html#MackySoft_UniData_Diagnostics_DataCatalogValidation_HasDuplication__1___0_System_String_
+  commentId: M:MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication``1(``0,System.String)
   name.vb: HasDuplication(Of T)(T, String)
-  fullName: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication<T>(T, System.String)
-  fullName.vb: MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication(Of T)(T, System.String)
-  nameWithType: ValidationUtility.HasDuplication<T>(T, String)
-  nameWithType.vb: ValidationUtility.HasDuplication(Of T)(T, String)
+  fullName: MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication<T>(T, System.String)
+  fullName.vb: MackySoft.UniData.Diagnostics.DataCatalogValidation.HasDuplication(Of T)(T, System.String)
+  nameWithType: DataCatalogValidation.HasDuplication<T>(T, String)
+  nameWithType.vb: DataCatalogValidation.HasDuplication(Of T)(T, String)
 - uid: MackySoft.UniData.Editor
   name: MackySoft.UniData.Editor
   href: api/MackySoft.UniData.Editor.html
@@ -1854,22 +1854,6 @@ references:
   commentId: T:MackySoft.UniData.EntryReference
   fullName: MackySoft.UniData.EntryReference
   nameWithType: EntryReference
-- uid: MackySoft.UniData.EntryReference.GetEntry*
-  name: GetEntry
-  href: api/MackySoft.UniData.EntryReference.html#MackySoft_UniData_EntryReference_GetEntry_
-  commentId: Overload:MackySoft.UniData.EntryReference.GetEntry
-  isSpec: "True"
-  fullName: MackySoft.UniData.EntryReference.GetEntry
-  nameWithType: EntryReference.GetEntry
-- uid: MackySoft.UniData.EntryReference.GetEntry``1
-  name: GetEntry<T>()
-  href: api/MackySoft.UniData.EntryReference.html#MackySoft_UniData_EntryReference_GetEntry__1
-  commentId: M:MackySoft.UniData.EntryReference.GetEntry``1
-  name.vb: GetEntry(Of T)()
-  fullName: MackySoft.UniData.EntryReference.GetEntry<T>()
-  fullName.vb: MackySoft.UniData.EntryReference.GetEntry(Of T)()
-  nameWithType: EntryReference.GetEntry<T>()
-  nameWithType.vb: EntryReference.GetEntry(Of T)()
 - uid: MackySoft.UniData.EntryReference`1
   name: EntryReference<T>
   href: api/MackySoft.UniData.EntryReference-1.html
@@ -1947,6 +1931,44 @@ references:
   fullName.vb: MackySoft.UniData.EntryReference(Of T).EntryId
   nameWithType: EntryReference<T>.EntryId
   nameWithType.vb: EntryReference(Of T).EntryId
+- uid: MackySoft.UniData.EntryReferenceExtensions
+  name: EntryReferenceExtensions
+  href: api/MackySoft.UniData.EntryReferenceExtensions.html
+  commentId: T:MackySoft.UniData.EntryReferenceExtensions
+  fullName: MackySoft.UniData.EntryReferenceExtensions
+  nameWithType: EntryReferenceExtensions
+- uid: MackySoft.UniData.EntryReferenceExtensions.GetEntry*
+  name: GetEntry
+  href: api/MackySoft.UniData.EntryReferenceExtensions.html#MackySoft_UniData_EntryReferenceExtensions_GetEntry_
+  commentId: Overload:MackySoft.UniData.EntryReferenceExtensions.GetEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.EntryReferenceExtensions.GetEntry
+  nameWithType: EntryReferenceExtensions.GetEntry
+- uid: MackySoft.UniData.EntryReferenceExtensions.GetEntry``1(MackySoft.UniData.IReadOnlyEntryReference{MackySoft.UniData.IEntry})
+  name: GetEntry<T>(IReadOnlyEntryReference<IEntry>)
+  href: api/MackySoft.UniData.EntryReferenceExtensions.html#MackySoft_UniData_EntryReferenceExtensions_GetEntry__1_MackySoft_UniData_IReadOnlyEntryReference_MackySoft_UniData_IEntry__
+  commentId: M:MackySoft.UniData.EntryReferenceExtensions.GetEntry``1(MackySoft.UniData.IReadOnlyEntryReference{MackySoft.UniData.IEntry})
+  name.vb: GetEntry(Of T)(IReadOnlyEntryReference(Of IEntry))
+  fullName: MackySoft.UniData.EntryReferenceExtensions.GetEntry<T>(MackySoft.UniData.IReadOnlyEntryReference<MackySoft.UniData.IEntry>)
+  fullName.vb: MackySoft.UniData.EntryReferenceExtensions.GetEntry(Of T)(MackySoft.UniData.IReadOnlyEntryReference(Of MackySoft.UniData.IEntry))
+  nameWithType: EntryReferenceExtensions.GetEntry<T>(IReadOnlyEntryReference<IEntry>)
+  nameWithType.vb: EntryReferenceExtensions.GetEntry(Of T)(IReadOnlyEntryReference(Of IEntry))
+- uid: MackySoft.UniData.EntryReferenceExtensions.TryGetEntry*
+  name: TryGetEntry
+  href: api/MackySoft.UniData.EntryReferenceExtensions.html#MackySoft_UniData_EntryReferenceExtensions_TryGetEntry_
+  commentId: Overload:MackySoft.UniData.EntryReferenceExtensions.TryGetEntry
+  isSpec: "True"
+  fullName: MackySoft.UniData.EntryReferenceExtensions.TryGetEntry
+  nameWithType: EntryReferenceExtensions.TryGetEntry
+- uid: MackySoft.UniData.EntryReferenceExtensions.TryGetEntry``1(MackySoft.UniData.IReadOnlyEntryReference{MackySoft.UniData.IEntry},``0@)
+  name: TryGetEntry<T>(IReadOnlyEntryReference<IEntry>, out T)
+  href: api/MackySoft.UniData.EntryReferenceExtensions.html#MackySoft_UniData_EntryReferenceExtensions_TryGetEntry__1_MackySoft_UniData_IReadOnlyEntryReference_MackySoft_UniData_IEntry____0__
+  commentId: M:MackySoft.UniData.EntryReferenceExtensions.TryGetEntry``1(MackySoft.UniData.IReadOnlyEntryReference{MackySoft.UniData.IEntry},``0@)
+  name.vb: TryGetEntry(Of T)(IReadOnlyEntryReference(Of IEntry), ByRef T)
+  fullName: MackySoft.UniData.EntryReferenceExtensions.TryGetEntry<T>(MackySoft.UniData.IReadOnlyEntryReference<MackySoft.UniData.IEntry>, out T)
+  fullName.vb: MackySoft.UniData.EntryReferenceExtensions.TryGetEntry(Of T)(MackySoft.UniData.IReadOnlyEntryReference(Of MackySoft.UniData.IEntry), ByRef T)
+  nameWithType: EntryReferenceExtensions.TryGetEntry<T>(IReadOnlyEntryReference<IEntry>, out T)
+  nameWithType.vb: EntryReferenceExtensions.TryGetEntry(Of T)(IReadOnlyEntryReference(Of IEntry), ByRef T)
 - uid: MackySoft.UniData.IData
   name: IData
   href: api/MackySoft.UniData.IData.html
@@ -2066,220 +2088,220 @@ references:
   commentId: N:MackySoft.UniData.IO
   fullName: MackySoft.UniData.IO
   nameWithType: MackySoft.UniData.IO
-- uid: MackySoft.UniData.IO.Assets
-  name: MackySoft.UniData.IO.Assets
-  href: api/MackySoft.UniData.IO.Assets.html
-  commentId: N:MackySoft.UniData.IO.Assets
-  fullName: MackySoft.UniData.IO.Assets
-  nameWithType: MackySoft.UniData.IO.Assets
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset
+- uid: MackySoft.UniData.IO.Asset
+  name: MackySoft.UniData.IO.Asset
+  href: api/MackySoft.UniData.IO.Asset.html
+  commentId: N:MackySoft.UniData.IO.Asset
+  fullName: MackySoft.UniData.IO.Asset
+  nameWithType: MackySoft.UniData.IO.Asset
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset
   name: PlayerPrefsDataCatalogIOAsset
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html
-  commentId: T:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.html
+  commentId: T:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset
   nameWithType: PlayerPrefsDataCatalogIOAsset
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
   name: Load(DataCatalog, DataCatalogIOContext)
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_Load_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_Load_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Load(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
   nameWithType: PlayerPrefsDataCatalogIOAsset.Load(DataCatalog, DataCatalogIOContext)
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Load*
   name: Load
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_Load_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_Load_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Load
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Load
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Load
   nameWithType: PlayerPrefsDataCatalogIOAsset.Load
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
   name: PlayerPrefsKeyPrefix
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_PlayerPrefsKeyPrefix
-  commentId: P:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_PlayerPrefsKeyPrefix
+  commentId: P:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
   nameWithType: PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix*
   name: PlayerPrefsKeyPrefix
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_PlayerPrefsKeyPrefix_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_PlayerPrefsKeyPrefix_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
   nameWithType: PlayerPrefsDataCatalogIOAsset.PlayerPrefsKeyPrefix
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
   name: Save(DataCatalog, DataCatalogIOContext)
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_Save_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_Save_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Save(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
   nameWithType: PlayerPrefsDataCatalogIOAsset.Save(DataCatalog, DataCatalogIOContext)
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Save*
   name: Save
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_Save_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_Save_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Save
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.Save
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.Save
   nameWithType: PlayerPrefsDataCatalogIOAsset.Save
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
   name: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html
-  commentId: T:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html
+  commentId: T:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor
   name: SerializableDataCatalog()
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog__ctor
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog()
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog__ctor
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog()
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog()
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
   name: SerializableDataCatalog(DataCatalog, DataCatalogIOContext)
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog__ctor_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog__ctor_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog(DataCatalog, DataCatalogIOContext)
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor*
   name: SerializableDataCatalog
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog__ctor_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog__ctor_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.#ctor
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.SerializableDataCatalog
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
   name: ApplyChanges(PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog, DataCatalogIOContext)
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ApplyChanges_MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ApplyChanges_MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges(PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog, DataCatalogIOContext)
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges*
   name: ApplyChanges
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ApplyChanges_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ApplyChanges_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ApplyChanges
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
   name: Entries
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_Entries
-  commentId: P:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_Entries
+  commentId: P:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries*
   name: Entries
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_Entries_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_Entries_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.Entries
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
   name: FromJsonOverwrite(DataCatalog, DataCatalogIOContext)
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_FromJsonOverwrite_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_FromJsonOverwrite_MackySoft_UniData_DataCatalog_MackySoft_UniData_IO_DataCatalogIOContext_
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(MackySoft.UniData.DataCatalog,MackySoft.UniData.IO.DataCatalogIOContext)
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(MackySoft.UniData.DataCatalog, MackySoft.UniData.IO.DataCatalogIOContext)
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite(DataCatalog, DataCatalogIOContext)
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite*
   name: FromJsonOverwrite
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_FromJsonOverwrite_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_FromJsonOverwrite_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.FromJsonOverwrite
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(System.String)
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(System.String)
   name: GetEntry(String)
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_GetEntry_System_String_
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(System.String)
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(System.String)
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_GetEntry_System_String_
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(System.String)
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(System.String)
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry(String)
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry*
   name: GetEntry
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_GetEntry_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_GetEntry_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.GetEntry
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
   name: ToJson()
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ToJson
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson()
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ToJson
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson()
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson()
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson*
   name: ToJson
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ToJson_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_ToJson_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.ToJson
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String,MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry@)
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String,MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry@)
   name: TryGetEntry(String, out PlayerPrefsDataCatalogIOAsset.SerializableEntry)
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_TryGetEntry_System_String_MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry__
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String,MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry@)
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_TryGetEntry_System_String_MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableEntry__
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String,MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry@)
   name.vb: TryGetEntry(String, ByRef PlayerPrefsDataCatalogIOAsset.SerializableEntry)
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String, out MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry)
-  fullName.vb: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String, ByRef MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry)
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String, out MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry)
+  fullName.vb: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(System.String, ByRef MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry)
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(String, out PlayerPrefsDataCatalogIOAsset.SerializableEntry)
   nameWithType.vb: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry(String, ByRef PlayerPrefsDataCatalogIOAsset.SerializableEntry)
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry*
   name: TryGetEntry
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_TryGetEntry_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableDataCatalog_TryGetEntry_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.TryGetEntry
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry
   name: PlayerPrefsDataCatalogIOAsset.SerializableEntry
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html
-  commentId: T:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html
+  commentId: T:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor(MackySoft.UniData.IEntry)
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor(MackySoft.UniData.IEntry)
   name: SerializableEntry(IEntry)
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry__ctor_MackySoft_UniData_IEntry_
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor(MackySoft.UniData.IEntry)
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry(MackySoft.UniData.IEntry)
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableEntry__ctor_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor(MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry(MackySoft.UniData.IEntry)
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry(IEntry)
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor*
   name: SerializableEntry
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry__ctor_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableEntry__ctor_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.#ctor
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.SerializableEntry
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
   name: Data
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Data
-  commentId: P:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Data
+  commentId: P:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data*
   name: Data
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Data_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Data_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.Data
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(MackySoft.UniData.IEntry)
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(MackySoft.UniData.IEntry)
   name: FromJsonOverwrite(IEntry)
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_FromJsonOverwrite_MackySoft_UniData_IEntry_
-  commentId: M:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(MackySoft.UniData.IEntry)
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(MackySoft.UniData.IEntry)
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableEntry_FromJsonOverwrite_MackySoft_UniData_IEntry_
+  commentId: M:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(MackySoft.UniData.IEntry)
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(MackySoft.UniData.IEntry)
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite(IEntry)
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite*
   name: FromJsonOverwrite
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_FromJsonOverwrite_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableEntry_FromJsonOverwrite_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.FromJsonOverwrite
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
   name: Id
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Id
-  commentId: P:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Id
+  commentId: P:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
-- uid: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id*
+- uid: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id*
   name: Id
-  href: api/MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Assets_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Id_
-  commentId: Overload:MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+  href: api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html#MackySoft_UniData_IO_Asset_PlayerPrefsDataCatalogIOAsset_SerializableEntry_Id_
+  commentId: Overload:MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
   isSpec: "True"
-  fullName: MackySoft.UniData.IO.Assets.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
+  fullName: MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
   nameWithType: PlayerPrefsDataCatalogIOAsset.SerializableEntry.Id
 - uid: MackySoft.UniData.IO.AutoSaveTiming
   name: AutoSaveTiming

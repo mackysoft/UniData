@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class ValidationUtility
+    <title>Class EntryReferenceExtensions
    | UniData </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class ValidationUtility
+    <meta name="title" content="Class EntryReferenceExtensions
    | UniData ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -78,35 +78,35 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MackySoft.UniData.Diagnostics.ValidationUtility">
+            <article class="content wrap" id="_content" data-uid="MackySoft.UniData.EntryReferenceExtensions">
   
   
-  <h1 id="MackySoft_UniData_Diagnostics_ValidationUtility" data-uid="MackySoft.UniData.Diagnostics.ValidationUtility" class="text-break">Class ValidationUtility
+  <h1 id="MackySoft_UniData_EntryReferenceExtensions" data-uid="MackySoft.UniData.EntryReferenceExtensions" class="text-break">Class EntryReferenceExtensions
   </h1>
   <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.object">Object</a></div>
-    <div class="level1"><span class="xref">ValidationUtility</span></div>
+    <div class="level1"><span class="xref">EntryReferenceExtensions</span></div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="MackySoft.UniData.Diagnostics.html">MackySoft.UniData.Diagnostics</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="MackySoft.UniData.html">MackySoft.UniData</a></h6>
   <h6><strong>Assembly</strong>: cs.temp.dll.dll</h6>
-  <h5 id="MackySoft_UniData_Diagnostics_ValidationUtility_syntax">Syntax</h5>
+  <h5 id="MackySoft_UniData_EntryReferenceExtensions_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static class ValidationUtility</code></pre>
+    <pre><code class="lang-csharp hljs">public static class EntryReferenceExtensions</code></pre>
   </div>
   <h3 id="methods">Methods
   </h3>
-  <a id="MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication_" data-uid="MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication*"></a>
-  <h4 id="MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication__1___0_" data-uid="MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0)">HasDuplication&lt;T&gt;(T)</h4>
-  <div class="markdown level1 summary"><p>Check if there are any duplicate ID&apos;s in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> entries.</p>
+  <a id="MackySoft_UniData_EntryReferenceExtensions_GetEntry_" data-uid="MackySoft.UniData.EntryReferenceExtensions.GetEntry*"></a>
+  <h4 id="MackySoft_UniData_EntryReferenceExtensions_GetEntry__1_MackySoft_UniData_IReadOnlyEntryReference_MackySoft_UniData_IEntry__" data-uid="MackySoft.UniData.EntryReferenceExtensions.GetEntry``1(MackySoft.UniData.IReadOnlyEntryReference{MackySoft.UniData.IEntry})">GetEntry&lt;T&gt;(IReadOnlyEntryReference&lt;IEntry&gt;)</h4>
+  <div class="markdown level1 summary"><p> Get the referenced entry casted to the specified type. </p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static bool HasDuplication&lt;T&gt;(this T source)
-    where T : DataCatalog</code></pre>
+    <pre><code class="lang-csharp hljs">public static T GetEntry&lt;T&gt;(this IReadOnlyEntryReference&lt;IEntry&gt; source)
+    where T : IEntry</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -119,7 +119,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">T</span></td>
+        <td><a class="xref" href="MackySoft.UniData.IReadOnlyEntryReference-1.html">IReadOnlyEntryReference</a>&lt;<a class="xref" href="MackySoft.UniData.IEntry.html">IEntry</a>&gt;</td>
         <td><span class="parametername">source</span></td>
         <td></td>
       </tr>
@@ -135,8 +135,8 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
-        <td><p>Returns True if there is a duplicate ID in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> entries, otherwise returns False. </p>
+        <td><span class="xref">T</span></td>
+        <td><p>Returns the referenced entry that has been cast to the specified type. If the entry cannot be cast, default value is returned. </p>
 </td>
       </tr>
     </tbody>
@@ -156,15 +156,15 @@
       </tr>
     </tbody>
   </table>
-  <a id="MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication_" data-uid="MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication*"></a>
-  <h4 id="MackySoft_UniData_Diagnostics_ValidationUtility_HasDuplication__1___0_System_String_" data-uid="MackySoft.UniData.Diagnostics.ValidationUtility.HasDuplication``1(``0,System.String)">HasDuplication&lt;T&gt;(T, String)</h4>
-  <div class="markdown level1 summary"><p>Check if there are any duplicate of the specified ID in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> entries.</p>
+  <a id="MackySoft_UniData_EntryReferenceExtensions_TryGetEntry_" data-uid="MackySoft.UniData.EntryReferenceExtensions.TryGetEntry*"></a>
+  <h4 id="MackySoft_UniData_EntryReferenceExtensions_TryGetEntry__1_MackySoft_UniData_IReadOnlyEntryReference_MackySoft_UniData_IEntry____0__" data-uid="MackySoft.UniData.EntryReferenceExtensions.TryGetEntry``1(MackySoft.UniData.IReadOnlyEntryReference{MackySoft.UniData.IEntry},``0@)">TryGetEntry&lt;T&gt;(IReadOnlyEntryReference&lt;IEntry&gt;, out T)</h4>
+  <div class="markdown level1 summary"><p>Try to cast the referenced entry to the specified type.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static bool HasDuplication&lt;T&gt;(this T source, string id)
-    where T : DataCatalog</code></pre>
+    <pre><code class="lang-csharp hljs">public static bool TryGetEntry&lt;T&gt;(this IReadOnlyEntryReference&lt;IEntry&gt; source, out T result)
+    where T : IEntry</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -177,14 +177,14 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">T</span></td>
+        <td><a class="xref" href="MackySoft.UniData.IReadOnlyEntryReference-1.html">IReadOnlyEntryReference</a>&lt;<a class="xref" href="MackySoft.UniData.IEntry.html">IEntry</a>&gt;</td>
         <td><span class="parametername">source</span></td>
         <td></td>
       </tr>
       <tr>
-        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.string">String</a></td>
-        <td><span class="parametername">id</span></td>
-        <td><p>The entry ID that you want to check for duplicates. </p>
+        <td><span class="xref">T</span></td>
+        <td><span class="parametername">result</span></td>
+        <td><p>The referenced entry that was cast. </p>
 </td>
       </tr>
     </tbody>
@@ -200,7 +200,7 @@
     <tbody>
       <tr>
         <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
-        <td><p>Returns True if there is a duplicate of the specified ID in the <a class="xref" href="MackySoft.UniData.DataCatalog.html">DataCatalog</a> entries, otherwise returns False. </p>
+        <td><p>Returns True if the referenced entry could be cast to the specified type. Otherwise, it returns False. </p>
 </td>
       </tr>
     </tbody>

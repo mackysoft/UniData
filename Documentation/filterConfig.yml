@@ -18,6 +18,12 @@ apiRules:
     uidRegex: ^MackySoft\.UniData\.Editor
     type: Namespace
 - include:
+    uidRegex: ^MackySoft\.UniData\.EasySave
+    type: Namespace
+- include:
+    uidRegex: ^MackySoft\.UniData\.UniRx
+    type: Namespace
+- include:
     uidRegex: ^Global
     type: Namespace
 - exclude:

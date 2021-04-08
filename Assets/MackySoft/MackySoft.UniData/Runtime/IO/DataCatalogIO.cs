@@ -4,7 +4,7 @@ using UnityEngine;
 namespace MackySoft.UniData.IO {
 
 	/// <summary>
-	/// 
+	/// Class that perform I/O operations for <see cref="DataCatalog"/>.
 	/// </summary>
 	public static class DataCatalogIO {
 		

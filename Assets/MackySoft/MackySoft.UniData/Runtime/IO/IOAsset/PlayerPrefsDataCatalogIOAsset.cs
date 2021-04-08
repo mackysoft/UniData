@@ -6,12 +6,12 @@ using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MackySoft.UniData.IO.Assets {
+namespace MackySoft.UniData.IO.Asset {
 
 	/// <summary>
 	/// Save / Load the <see cref="DataCatalog"/> as JSON format via PlayerPrefs.
 	/// </summary>
-	[CreateAssetMenu(fileName = nameof(PlayerPrefsDataCatalogIOAsset),menuName = "MackySoft/UniData/Loader/Player Prefs Data Catalog IO Asset")]
+	[CreateAssetMenu(fileName = nameof(PlayerPrefsDataCatalogIOAsset),menuName = "MackySoft/UniData/IO Asset/Player Prefs Data Catalog IO Asset")]
 	public class PlayerPrefsDataCatalogIOAsset : DataCatalogIOAsset {
 		
 		[Tooltip("Key prefix for saving / loading the DataCatalog via PlayerPrefs.")]

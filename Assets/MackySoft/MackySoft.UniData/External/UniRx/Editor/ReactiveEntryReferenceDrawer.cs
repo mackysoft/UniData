@@ -6,7 +6,7 @@ using UnityEngine;
 using UnityEditor;
 using MackySoft.UniData.Internal;
 
-namespace MackySoft.UniData {
+namespace MackySoft.UniData.UniRx {
 
 	[CustomPropertyDrawer(typeof(ReactiveEntryReference<>),true)]
 	public class ReactiveEntryReferenceDrawer : PropertyDrawer {

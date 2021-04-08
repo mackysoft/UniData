@@ -3,7 +3,7 @@
 using System;
 using UnityEngine;
 
-namespace MackySoft.UniData.Data {
+namespace MackySoft.UniData.UniRx.Data.General {
 
 	internal static class ReactiveGeneralData {
 		public const string k_Path = "General (Reactive)/";

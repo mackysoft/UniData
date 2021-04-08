@@ -6,7 +6,7 @@ using System;
 using UnityEngine;
 using UniRx;
 
-namespace MackySoft.UniData {
+namespace MackySoft.UniData.UniRx {
 
 	/// <summary>
 	/// <see cref="DataCatalog"/> that notify changes in the collection.

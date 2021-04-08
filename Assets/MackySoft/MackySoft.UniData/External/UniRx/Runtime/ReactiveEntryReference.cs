@@ -4,27 +4,33 @@ using System;
 using UnityEngine;
 using UniRx;
 
-namespace MackySoft.UniData {
+namespace MackySoft.UniData.UniRx {
 
+	/// <summary>
+	/// <para> A reference to an entry in the <see cref="DataCatalog"/>. </para>
+	/// </summary>
+	/// <typeparam name="T"> Type of entry to reference. </typeparam>
 	public interface IReadOnlyReactiveEntryReference<T> : IReadOnlyEntryReference<T> where T : IEntry {
 		new IReadOnlyReactiveProperty<DataCatalog> Catalog { get; }
 		new IReadOnlyReactiveProperty<string> EntryId { get; }
 		new IReadOnlyReactiveProperty<T> Entry { get; }
 	}
 
-	public interface IReadOnlyReactiveEntryReference : IReadOnlyReactiveEntryReference<IEntry> {
-
-	}
-
+	/// <summary>
+	/// <para> A reference to an entry in the <see cref="DataCatalog"/>. </para>
+	/// </summary>
+	/// <typeparam name="T"> Type of entry to reference. </typeparam>
 	public interface IReactiveEntryReference<T> : IReadOnlyReactiveEntryReference<T>, IEntryReference<T> where T : IEntry {
 		new IReactiveProperty<DataCatalog> Catalog { get; }
 		new IReactiveProperty<string> EntryId { get; }
 	}
+	
 
-	public interface IReactiveEntryReference : IReactiveEntryReference<IEntry> {
-
-	}
-
+	/// <summary>
+	/// <para> A reference to an entry in the <see cref="DataCatalog"/>. (It does not have to be <see cref="ReactiveDataCatalog"/>) </para>
+	/// <para> By using this class, you can easily set and get reference to an entry in the <see cref="DataCatalog"/> in the editor. </para>
+	/// </summary>
+	/// <typeparam name="T"> Type of entry to reference. </typeparam>
 	[Serializable]
 	public class ReactiveEntryReference<T> : IReactiveEntryReference<T> where T : IEntry {
 
@@ -54,7 +60,7 @@ namespace MackySoft.UniData {
 			}
 		}
 
-		#region Explicit
+		#region Explicit implementations
 
 		DataCatalog IReadOnlyEntryReference<T>.Catalog => m_Catalog.Value;
 		string IReadOnlyEntryReference<T>.EntryId => m_EntryId.Value;
@@ -70,8 +76,19 @@ namespace MackySoft.UniData {
 
 	}
 
+	public interface IReadOnlyReactiveEntryReference : IReadOnlyReactiveEntryReference<IEntry> {
+
+	}
+
+	public interface IReactiveEntryReference : IReactiveEntryReference<IEntry>, IReadOnlyReactiveEntryReference {
+
+	}
+
+	/// <summary>
+	/// An ReactiveEntryReference that can refer to entries of all types.
+	/// </summary>
 	[Serializable]
-	public class ReactiveEntryReference : ReactiveEntryReference<IEntry> {
+	public class ReactiveEntryReference : ReactiveEntryReference<IEntry>, IReactiveEntryReference {
 
 	}
 

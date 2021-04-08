@@ -2,7 +2,10 @@
 
 namespace MackySoft.UniData.Diagnostics {
 
-	public static partial class ValidationUtility {
+	/// <summary>
+	/// Class that validate the <see cref="DataCatalog"/>.
+	/// </summary>
+	public static class DataCatalogValidation {
 
 		/// <summary>
 		/// Check if there are any duplicate ID's in the <see cref="DataCatalog"/> entries.

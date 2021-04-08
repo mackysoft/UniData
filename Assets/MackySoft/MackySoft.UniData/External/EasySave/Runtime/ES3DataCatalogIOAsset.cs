@@ -1,16 +1,17 @@
-﻿#if UNIDATA_EASYSAVE3_SUPPORT
+﻿#if UNIDATA_EASYSAVE_SUPPORT
 
 using System;
 using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
+using MackySoft.UniData.IO;
 
-namespace MackySoft.UniData.IO.Assets {
+namespace MackySoft.UniData.EasySave.IO.Asset {
 
 	/// <summary>
 	/// Load the <see cref="DataCatalog"/> data using EasySave 3 (ES3).
 	/// </summary>
-	[CreateAssetMenu(fileName = nameof(ES3DataCatalogIOAsset),menuName = "MackySoft/UniData/Loader/ES3 DataCatalog IO Asset")]
+	[CreateAssetMenu(fileName = nameof(ES3DataCatalogIOAsset),menuName = "MackySoft/UniData/IO Asset/ES3 DataCatalog IO Asset")]
 	public class ES3DataCatalogIOAsset : DataCatalogIOAsset {
 		
 		[SerializeField]

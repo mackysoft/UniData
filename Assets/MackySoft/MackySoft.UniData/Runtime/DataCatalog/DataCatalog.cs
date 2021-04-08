@@ -8,6 +8,7 @@ namespace MackySoft.UniData {
 	/// Provides a collection of data that is flexible and editable in the editor.
 	/// </summary>
 	[CreateAssetMenu(fileName = nameof(DataCatalog),menuName = "MackySoft/UniData/Data Catalog")]
+	[HelpURL("https://mackysoft.github.io/UniData/")]
 	public partial class DataCatalog : ScriptableObject, ISerializationCallbackReceiver {
 
 		[Tooltip("The identifier of catalog.")]

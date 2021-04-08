@@ -15,10 +15,6 @@ namespace MackySoft.UniData {
 		T Entry { get; }
 	}
 
-	public interface IReadOnlyEntryReference : IReadOnlyEntryReference<IEntry> {
-
-	}
-
 	/// <summary>
 	/// <para> A reference to an entry in the <see cref="DataCatalog"/>. </para>
 	/// </summary>
@@ -26,10 +22,6 @@ namespace MackySoft.UniData {
 	public interface IEntryReference <out T> : IReadOnlyEntryReference<T> where T : IEntry {
 		new DataCatalog Catalog { get; set; }
 		new string EntryId { get; set; }
-	}
-
-	public interface IEntryReference : IEntryReference<IEntry> {
-
 	}
 
 	/// <summary>
@@ -86,11 +78,51 @@ namespace MackySoft.UniData {
 
 	}
 
+	/// <summary>
+	/// <para> A reference to an entry in the <see cref="DataCatalog"/>. </para>
+	/// </summary>
+	/// <typeparam name="T"> Type of entry to reference. </typeparam>
+	public interface IReadOnlyEntryReference : IReadOnlyEntryReference<IEntry> {
+
+	}
+
+	/// <summary>
+	/// <para> A reference to an entry in the <see cref="DataCatalog"/>. </para>
+	/// </summary>
+	/// <typeparam name="T"> Type of entry to reference. </typeparam>
+	public interface IEntryReference : IEntryReference<IEntry> {
+
+	}
+
+	/// <summary>
+	/// An EntryReference that can refer to entries of all types.
+	/// </summary>
 	[Serializable]
-	public class EntryReference : EntryReference<IEntry> {
-		public T GetEntry<T> () where T : IEntry {
-			return Entry is T entry ? entry : default;
+	public class EntryReference : EntryReference<IEntry>, IEntryReference {
+
+	}
+
+	public static class EntryReferenceExtensions {
+
+		/// <summary>
+		/// <para> Get the referenced entry casted to the specified type. </para>
+		/// </summary>
+		/// <returns> Returns the referenced entry that has been cast to the specified type. If the entry cannot be cast, default value is returned. </returns>
+		public static T GetEntry<T> (this IReadOnlyEntryReference<IEntry> source) where T : IEntry {
+			return source.Entry is T entry ? entry : default;
 		}
+
+		/// <summary>
+		/// Try to cast the referenced entry to the specified type.
+		/// </summary>
+		/// <typeparam name="T"></typeparam>
+		/// <param name="result"> The referenced entry that was cast. </param>
+		/// <returns> Returns True if the referenced entry could be cast to the specified type. Otherwise, it returns False. </returns>
+		public static bool TryGetEntry<T> (this IReadOnlyEntryReference<IEntry> source,out T result) where T : IEntry {
+			result = source.GetEntry<T>();
+			return result != null;
+		}
+
 	}
 
 }

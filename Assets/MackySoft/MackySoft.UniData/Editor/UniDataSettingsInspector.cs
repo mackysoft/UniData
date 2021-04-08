@@ -20,12 +20,14 @@ namespace MackySoft.UniData.Editor {
 
 		SerializedProperty m_Loaders;
 		SerializedProperty m_PreloadedCatalogs;
+		SerializedProperty m_AutoSaveTiming;
 		ReorderableList m_LoadersList;
 		ReorderableList m_PreloadedCatalogsList;
 
 		void OnEnable () {
 			m_Loaders = serializedObject.FindProperty("m_Loaders");
 			m_PreloadedCatalogs = serializedObject.FindProperty("m_PreloadedCatalogs");
+			m_AutoSaveTiming = serializedObject.FindProperty("m_AutoSaveTiming");
 
 			m_LoadersList = ReorderableListUtility.CreateDefaultList(m_Loaders);
 			m_LoadersList.onCanRemoveCallback = list => (list.count > 1);
@@ -52,6 +54,10 @@ namespace MackySoft.UniData.Editor {
 
 			EditorGUILayout.HelpBox(k_PreloadedCatalogsDescription,MessageType.Info);
 			m_PreloadedCatalogsList.DoLayoutList();
+
+			EditorGUILayout.Space();
+
+			EditorGUILayout.PropertyField(m_AutoSaveTiming);
 
 			serializedObject.ApplyModifiedProperties();
 		}

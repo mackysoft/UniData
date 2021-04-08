@@ -9,10 +9,10 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3897724E-ED84-EAFD-097B-8F8435FE8C1F}</ProjectGuid>
+    <ProjectGuid>{A7F9D178-8FBF-8344-6513-C27BEACCCDF7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <AssemblyName>MackySoft.UniData.UniRx</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -56,9 +56,13 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\External\EasySave\Runtime\ES3DataCatalogIOAsset.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\External\UniRx\Runtime\ReactiveEntryReference.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\External\UniRx\Runtime\ReactiveData.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\External\UniRx\Runtime\ReactiveDataCatalog.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\External\UniRx\Runtime\GeneralReactiveData.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\MackySoft\MackySoft.UniData\External\UniRx\Runtime\MackySoft.UniData.UniRx.asmdef" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -626,9 +630,6 @@
     <Reference Include="System.Xml.Serialization">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
@@ -637,25 +638,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{3C7C1387-B693-15CF-C4F3-3B3CC84B0275}</Project>
-      <Name>Assembly-CSharp-firstpass</Name>
-    </ProjectReference>
     <ProjectReference Include="MackySoft.UniData.csproj">
       <Project>{63A55BCB-E35D-20E0-AEB1-277872B6CE38}</Project>
       <Name>MackySoft.UniData</Name>
-    </ProjectReference>
-    <ProjectReference Include="MackySoft.UniData.UniRx.csproj">
-      <Project>{A7F9D178-8FBF-8344-6513-C27BEACCCDF7}</Project>
-      <Name>MackySoft.UniData.UniRx</Name>
-    </ProjectReference>
-    <ProjectReference Include="MackySoft.UniData.UniRx.Editor.csproj">
-      <Project>{7772A8A2-F38C-C394-6518-DA2473F71CE3}</Project>
-      <Name>MackySoft.UniData.UniRx.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="MackySoft.UniData.Editor.csproj">
-      <Project>{CD1E0C59-ABED-97C9-65E5-F1E288B7A333}</Project>
-      <Name>MackySoft.UniData.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UniRx.csproj">
       <Project>{2C7AD1B1-0C57-3824-EF11-7D9B665E65C5}</Project>

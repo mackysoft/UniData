@@ -1,5 +1,8 @@
 ﻿namespace MackySoft.UniData {
 
+	/// <summary>
+	/// <para> The data enumerated by <see cref="DataCatalog"/> must implement this interface. </para>
+	/// </summary>
 	public interface IEntry {
 		string Id { get; }
 	}

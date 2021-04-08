@@ -12,7 +12,7 @@ In addition to data management, it also useful for implementing Achievements, Qu
 - [Installation](#installation)
 - [🔰 Usage](#usage)
 - [External Assets Integration](#external-assets-integration)
-  - [Easy Save 3](#external-assets-easysave3)
+  - [Easy Save](#external-assets-easysave)
   - [UniRx](#external-assets-unirx)
 - [UniData Pro](#unidata-pro)
 - [Author Info](#author-info)
@@ -34,9 +34,9 @@ being written
 
 UniData supports integration with several external assets.
 
-### <a id="external-assets-easysave3" href="#external-assets-easysave3"> Easy Save 3 </a>
+### <a id="external-assets-easysave3" href="#external-assets-easysave3"> Easy Save </a>
 
-The Easy Save 3 integration includes the `ES3DataCatalogIOAsset`.
+The Easy Save integration includes the `ES3DataCatalogIOAsset`.
 
 This allows you to perform I/O operations using ES3 with no coding.
 
@@ -45,7 +45,7 @@ Easy Save: [https://assetstore.unity.com/packages/tools/input-management/easy-sa
 #### Installation
 
 1. Import [Easy Save](https://assetstore.unity.com/packages/tools/input-management/easy-save-the-complete-save-load-asset-768) package into your project.
-2. Define the `UNIDATA_EASYSAVE3_SUPPORT` symbol.
+2. Define the `UNIDATA_EASYSAVE_SUPPORT` symbol.
 
 
 ### <a id="external-assets-unirx" href="#external-assets-unirx"> UniRx </a>

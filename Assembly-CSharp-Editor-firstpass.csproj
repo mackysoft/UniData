@@ -8,11 +8,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <RootNamespace>MackySoft.UniData.Editor</RootNamespace>
-    <ProjectGuid>{CD1E0C59-ABED-97C9-65E5-F1E288B7A333}</ProjectGuid>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{1E9C099F-0724-0EBF-462B-882AEADF2967}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>MackySoft.UniData.Editor</AssemblyName>
+    <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -48,7 +48,7 @@
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Package</UnityProjectGenerator>
     <UnityProjectGeneratorVersion>2.0.7</UnityProjectGeneratorVersion>
-    <UnityProjectType>Editor:5</UnityProjectType>
+    <UnityProjectType>EditorPlugins:7</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2020.3.1f1</UnityVersion>
   </PropertyGroup>
@@ -56,37 +56,33 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\EntryReferenceDrawer.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\ManagedReferenceUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\SerializedPropertyUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataCatalogWindow.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\EditorGUIHelper.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataTreeView.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataSettingsInspector.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\GUIContentUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataColumnHeader.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\SettingsProviderBase.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\SerializedDataCatalog.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\TypePopup\SubclassSelectorDrawer.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\ReflectionUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataCatalogPopup.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\DataCatalogInspector.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataEditorUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataTreeViewState.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\TypePopup\AdvancedTypePopup.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\ReorderableListUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataSettingsInitializer.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataColumn.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\TypePopup\TypeMenuUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataTreeViewItem.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataSettingsProvider.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\DataCatalogEditorUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\Internal\SplitterGUILayout.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\TypePopup\TypePopup.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3PrefabEditor.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3AutoSaveMgrEditor.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3Window.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3SettingsEditor.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\AddES3Prefab.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3AutoSaveEditor.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3InspectorInfoEditor.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3EditorUtility.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3GlobalReferencesEditor.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ReferencesWindow.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\SettingsWindow.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\TypesWindow.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3EditorStyle.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\HomeWindow.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3ReferenceMgrEditor.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ToolsWindow.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3Postprocessor.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\AutoSaveWindow.cs" />
+    <Compile Include="Assets\Plugins\Easy Save 3\Editor\ES3PlayMakerEditor.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\MackySoft.UniData.Editor.asmref" />
-     <None Include="Assets\MackySoft\MackySoft.UniData\Editor\MackySoft.UniData.Editor.asmdef" />
+     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3ValueTypeTemplate.txt" />
+     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3ComponentTypeTemplate.txt" />
+     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3TypeTemplate.txt" />
+     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3Type_MaterialTemplate.txt" />
+     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3ScriptableObjectTypeTemplate.txt" />
+     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3ClassTypeTemplate.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -669,23 +665,46 @@
     <Reference Include="System.Xml.XPath.XDocument">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.TestRunner">
       <HintPath>Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
       <HintPath>Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{3C7C1387-B693-15CF-C4F3-3B3CC84B0275}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
     <ProjectReference Include="MackySoft.UniData.csproj">
       <Project>{63A55BCB-E35D-20E0-AEB1-277872B6CE38}</Project>
       <Name>MackySoft.UniData</Name>
+    </ProjectReference>
+    <ProjectReference Include="MackySoft.UniData.UniRx.csproj">
+      <Project>{A7F9D178-8FBF-8344-6513-C27BEACCCDF7}</Project>
+      <Name>MackySoft.UniData.UniRx</Name>
+    </ProjectReference>
+    <ProjectReference Include="MackySoft.UniData.UniRx.Editor.csproj">
+      <Project>{7772A8A2-F38C-C394-6518-DA2473F71CE3}</Project>
+      <Name>MackySoft.UniData.UniRx.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="MackySoft.UniData.Editor.csproj">
+      <Project>{CD1E0C59-ABED-97C9-65E5-F1E288B7A333}</Project>
+      <Name>MackySoft.UniData.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniRx.csproj">
+      <Project>{2C7AD1B1-0C57-3824-EF11-7D9B665E65C5}</Project>
+      <Name>UniRx</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

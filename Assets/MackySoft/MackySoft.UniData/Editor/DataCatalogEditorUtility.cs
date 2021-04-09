@@ -10,6 +10,10 @@ using MackySoft.UniData.Internal;
 using MackySoft.UniData.Internal.Editor;
 
 namespace MackySoft.UniData.Editor {
+
+	/// <summary>
+	/// A class that provides editor utilities related to <see cref="DataCatalog"/>.
+	/// </summary>
 	public static class DataCatalogEditorUtility {
 
 		[InitializeOnLoadMethod]
@@ -24,7 +28,7 @@ namespace MackySoft.UniData.Editor {
 		static GUIContent[] m_CatalogDisplayNames;
 
 		/// <summary>
-		/// All catalogs detected.
+		/// All detected catalogs.
 		/// </summary>
 		public static DataCatalog[] Catalogs {
 			get {
@@ -33,6 +37,10 @@ namespace MackySoft.UniData.Editor {
 			}
 		}
 
+		/// <summary>
+		/// <para> Display names for all detected catalogs. </para>
+		/// <para> See: <see cref="Catalogs"/> </para>
+		/// </summary>
 		public static GUIContent[] CatalogDisplayNames {
 			get {
 				DetectCatalogs();
@@ -40,8 +48,14 @@ namespace MackySoft.UniData.Editor {
 			}
 		}
 
+		/// <summary>
+		/// Whether one or more catalogs have been detected.
+		/// </summary>
 		public static bool HasCatalogs => Catalogs.Length > 0;
 
+		/// <summary>
+		/// Detects of <see cref="DataCatalog"/>'s in the project.
+		/// </summary>
 		public static void DetectCatalogs () {
 			if (m_Catalogs != null) {
 				return;
@@ -49,6 +63,9 @@ namespace MackySoft.UniData.Editor {
 			ForceDetectCatalogs();
 		}
 
+		/// <summary>
+		/// Forces the detection of <see cref="DataCatalog"/>'s in the project.
+		/// </summary>
 		public static void ForceDetectCatalogs () {
 			m_Catalogs = AssetDatabase.FindAssets($"t:{nameof(DataCatalog)}")
 				.Select(AssetDatabase.GUIDToAssetPath)
@@ -59,12 +76,18 @@ namespace MackySoft.UniData.Editor {
 				.ToArray();
 		}
 
+		/// <summary>
+		/// Get <see cref="DataCatalog"/> and all its inherited types.
+		/// </summary>
 		public static IEnumerable<Type> GetCatalogTypes () {
 			return ReflectionUtility.GetAllTypes(type => {
 				return typeof(DataCatalog).IsAssignableFromRecursive(type);
 			});
 		}
 
+		/// <summary>
+		/// Get the display name of the specified <see cref="DataCatalog"/>.
+		/// </summary>
 		public static GUIContent GetCatalogDisplayName (DataCatalog catalog) {
 			if ((catalog == null) || !HasCatalogs) {
 				return GUIContentUtility.NullContent;
@@ -73,6 +96,10 @@ namespace MackySoft.UniData.Editor {
 			return CatalogDisplayNames[index];
 		}
 
+		/// <summary>
+		/// Focus the specified <see cref="DataCatalog"/> in the <see cref="DataCatalogWindow"/>.
+		/// </summary>
+		/// <param name="forceOpenWindow"> Whether to force a window to open if it is not already open. </param>
 		public static void FocusInWindow (DataCatalog catalog,bool forceOpenWindow) {
 			var window = forceOpenWindow ? DataCatalogWindow.Open() : DataCatalogWindow.Window;
 			if (window != null) {
@@ -80,19 +107,25 @@ namespace MackySoft.UniData.Editor {
 			}
 		}
 
-		public static void SaveCatalog (DataCatalog catalog,DataCatalogIOAsset loader) {
+		/// <summary>
+		/// Save the specified <see cref="DataCatalog"/>.
+		/// </summary>
+		public static void SaveCatalog (DataCatalog catalog,DataCatalogIOAsset saver) {
 			bool ok = EditorUtility.DisplayDialog(
 					$"Save \"{ObjectNames.NicifyVariableName(catalog.name)}\" catalog",
-					$"Do you want to use \"{loader.name}\" to save the catalog data ?",
+					$"Do you want to use \"{saver.name}\" to save the catalog data ?",
 					"Save",
 					"Cancel"
 				);
 			if (ok) {
-				loader.Save(catalog,DataCatalogIOContext.Default);
+				saver.Save(catalog,DataCatalogIOContext.Default);
 				Debug.Log("Saved.");
 			}
 		}
 
+		/// <summary>
+		/// Create a <see cref="DataCatalog"/> of the type specified in the project.
+		/// </summary>
 		public static DataCatalog CreateCatalog (Type catalogType) {
 			string defaultPath = EditorPrefs.GetString(k_CreateCatalogPathKey);
 			string path = AssetDatabase.IsValidFolder(defaultPath) ? defaultPath : "Assets/";
@@ -124,6 +157,9 @@ namespace MackySoft.UniData.Editor {
 			return asset;
 		}
 
+		/// <summary>
+		/// Whether there are duplicates in the ID's of the detected catalogs.
+		/// </summary>
 		public static bool HasDuplication (string id) {
 			bool found = false;
 			foreach (var catalog in Catalogs) {

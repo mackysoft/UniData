@@ -641,6 +641,10 @@
       <Project>{3C7C1387-B693-15CF-C4F3-3B3CC84B0275}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
+    <ProjectReference Include="UniRx.csproj">
+      <Project>{2C7AD1B1-0C57-3824-EF11-7D9B665E65C5}</Project>
+      <Name>UniRx</Name>
+    </ProjectReference>
     <ProjectReference Include="MackySoft.UniData.csproj">
       <Project>{63A55BCB-E35D-20E0-AEB1-277872B6CE38}</Project>
       <Name>MackySoft.UniData</Name>
@@ -656,10 +660,6 @@
     <ProjectReference Include="MackySoft.UniData.Editor.csproj">
       <Project>{CD1E0C59-ABED-97C9-65E5-F1E288B7A333}</Project>
       <Name>MackySoft.UniData.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="UniRx.csproj">
-      <Project>{2C7AD1B1-0C57-3824-EF11-7D9B665E65C5}</Project>
-      <Name>UniRx</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

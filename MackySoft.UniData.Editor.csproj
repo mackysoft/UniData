@@ -57,32 +57,32 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\EntryReferenceDrawer.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\ManagedReferenceUtility.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\SerializedPropertyUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataCatalogWindow.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\EditorGUIHelper.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataTreeView.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataSettingsInspector.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\GUIContentUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataColumnHeader.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\SettingsProviderBase.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\SerializedDataCatalog.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\TypePopup\SubclassSelectorDrawer.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\ReflectionUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataCatalogPopup.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\DataCatalogInspector.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataEditorUtility.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataTreeViewState.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\TypePopup\AdvancedTypePopup.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\ReorderableListUtility.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataSettingsInitializer.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataColumn.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\TypePopup\TypeMenuUtility.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataTreeViewItem.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataSettingsProvider.cs" />
-    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\DataCatalogEditorUtility.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\Internal\SplitterGUILayout.cs" />
     <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\TypePopup\TypePopup.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\ManagedReferenceUtility.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataCatalogWindow.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataTreeView.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataTreeView\DataColumnHeader.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\SettingsProviderBase.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\SerializedDataCatalog.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\DataCatalogPopup.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataSettingsInitializer.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\Internal\TypePopup\TypeMenuUtility.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\UniDataSettingsProvider.cs" />
+    <Compile Include="Assets\MackySoft\MackySoft.UniData\Editor\DataCatalogEditorUtility.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MackySoft\MackySoft.UniData\UniData Pro\Editor\MackySoft.UniData.Editor.asmref" />

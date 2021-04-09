@@ -53,7 +53,11 @@ namespace MackySoft.UniData.Editor {
 			EditorGUILayout.BeginVertical(GUI.skin.box);
 			{
 				EditorGUI.BeginDisabledGroup(Application.isPlaying);
-				EditorGUILayout.PropertyField(m_Id);
+				EditorGUI.BeginChangeCheck();
+				EditorGUILayout.DelayedTextField(m_Id);
+				if (EditorGUI.EndChangeCheck()) {
+					DataCatalogEditorUtility.ForceDetectCatalogs();
+				}
 				EditorGUI.EndDisabledGroup();
 
 				if (string.IsNullOrWhiteSpace(m_Id.stringValue)) {

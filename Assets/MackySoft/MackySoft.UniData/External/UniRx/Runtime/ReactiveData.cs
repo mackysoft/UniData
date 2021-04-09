@@ -8,14 +8,6 @@ using UniRx;
 
 namespace MackySoft.UniData.UniRx.Data {
 
-	public interface IReadOnlyReactiveData<T> : IReadOnlyData<T>, IReadOnlyReactiveProperty<T> {
-		new T Value { get; }
-	}
-
-	public interface IReactiveData<T> : IReadOnlyReactiveData<T>, IData<T>, IReactiveProperty<T> {
-		new T Value { get; set; }
-	}
-
 	/// <summary>
 	/// Base class that is useful for creating reactive data.
 	/// </summary>

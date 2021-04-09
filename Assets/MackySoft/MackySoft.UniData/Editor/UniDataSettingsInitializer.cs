@@ -14,6 +14,7 @@ namespace MackySoft.UniData.Editor {
 
 		[InitializeOnLoadMethod]
         static void Initialize () {
+			CreateSettings();
             EditorApplication.projectChanged -= CreateSettings;
             EditorApplication.projectChanged += CreateSettings;
 		}

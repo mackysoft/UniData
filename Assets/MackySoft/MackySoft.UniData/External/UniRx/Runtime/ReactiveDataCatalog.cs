@@ -1,6 +1,6 @@
-﻿#if UNIDATA_UNIRX_SUPPORT
+﻿#pragma warning disable IDE0074 // 複合代入を使用
 
-#pragma warning disable IDE0074 // 複合代入を使用
+#if UNIDATA_UNIRX_SUPPORT
 
 using System;
 using UnityEngine;

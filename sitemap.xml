@@ -2,385 +2,385 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.AddTypeMenuAttribute.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.Data-1.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.DataBase-1.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.AnimationCurveData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.BoolData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.BoundsData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.BoundsIntData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.ByteData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.ColorData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.DoubleData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.FloatData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.GradientData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.IntData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.LayerMaskData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.LongData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.QuaternionData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.RectData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.RectIntData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.StringData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.Vector2Data.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.Vector2IntData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.Vector3Data.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.Vector3IntData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.Vector4Data.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.General.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.ReadOnlyDataBase-1.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Data.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.DataCatalog.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Diagnostics.DataCatalogValidation.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Diagnostics.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Editor.DataCatalogEditorUtility.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Editor.DataCatalogInspector.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Editor.EntryReferenceDrawer.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Editor.SerializedDataCatalog.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Editor.UniDataEditorUtility.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Editor.UniDataSettingsInspector.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Editor.UniDataSettingsProvider.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.Editor.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.EntryReference.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.EntryReference-1.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.EntryReferenceExtensions.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IData-1.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IEntry.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IEntryReference.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IEntryReference-1.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableDataCatalog.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.SerializableEntry.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.Asset.PlayerPrefsDataCatalogIOAsset.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.Asset.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.AutoSaveTiming.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.DataCatalogAutoIO.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.DataCatalogIO.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.DataCatalogIOAsset.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.DataCatalogIOContext.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IO.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IReadOnlyData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IReadOnlyData-1.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IReadOnlyEntryReference.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.IReadOnlyEntryReference-1.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.UniDataSettings.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/api/MackySoft.UniData.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/changelog/CHANGELOG.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/UniData/index.html</loc>
-    <lastmod>2021-04-08T04:31:52+00:00</lastmod>
+    <lastmod>2021-04-09T08:26:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

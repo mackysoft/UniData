@@ -807,6 +807,10 @@
       <Project>{CD1E0C59-ABED-97C9-65E5-F1E288B7A333}</Project>
       <Name>MackySoft.UniData.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="MackySoft.UniDataPro.Editor.csproj">
+      <Project>{B903DB2F-0317-A17F-1870-581E8EAB472E}</Project>
+      <Name>MackySoft.UniDataPro.Editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEditorInternal;
 
 namespace MackySoft.UniData.Internal.Editor {
-	internal static class EditorGUIHelper {
+	public static class EditorGUIHelper {
 
 		/// <summary>
 		/// Makes the appropriate fields for the specified object type.

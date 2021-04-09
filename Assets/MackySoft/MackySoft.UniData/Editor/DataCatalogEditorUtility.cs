@@ -2,6 +2,7 @@
 
 using System;
 using System.Linq;
+using System.Reflection;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
@@ -97,13 +98,23 @@ namespace MackySoft.UniData.Editor {
 		}
 
 		/// <summary>
-		/// Focus the specified <see cref="DataCatalog"/> in the <see cref="DataCatalogWindow"/>.
+		/// Focus the specified <see cref="DataCatalog"/> in the DataCatalogWindow.
 		/// </summary>
 		/// <param name="forceOpenWindow"> Whether to force a window to open if it is not already open. </param>
 		public static void FocusInWindow (DataCatalog catalog,bool forceOpenWindow) {
-			var window = forceOpenWindow ? DataCatalogWindow.Open() : DataCatalogWindow.Window;
+			Type windowType = ReflectionUtility.GetAllTypes(type => type.FullName == "MackySoft.UniData.Editor.DataCatalogWindow").FirstOrDefault();
+			if (windowType == null) {
+				return;
+			}
+
+			// Get Window
+			MethodInfo openMethod = windowType.GetMethod("GetWindow",BindingFlags.Public | BindingFlags.Static);
+			object window = openMethod.Invoke(null,new object[] { forceOpenWindow });
+			
 			if (window != null) {
-				window.Catalog = catalog;
+				// Set Catlaog
+				PropertyInfo catalogProperty = windowType.GetProperty("Catalog",BindingFlags.Public | BindingFlags.Instance);
+				catalogProperty.SetValue(window,catalog);
 			}
 		}
 

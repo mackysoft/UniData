@@ -44,7 +44,7 @@ namespace MackySoft.UniData.Editor {
 
 			// Draw the open button. (Pro version only)
 			if (UniDataEditorUtility.IsProVersion) {
-				if (GUILayout.Button($"Open with {nameof(DataCatalogWindow)}",k_OpenButtonStyle.Value,GUILayout.MinHeight(30f))) {
+				if (GUILayout.Button($"Open with DataCatalogWindow",k_OpenButtonStyle.Value,GUILayout.MinHeight(30f))) {
 					DataCatalogEditorUtility.FocusInWindow(m_SerializedCatalog.Catalog,true);
 				}
 			}
